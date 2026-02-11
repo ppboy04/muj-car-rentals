@@ -1,0 +1,89 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id            String    @id @default(cuid())
+  email         String    @unique
+  password      String
+  role          Role      @default(user)
+  mujId         String?   @unique
+  officialEmail String?
+  isOfficial    Boolean   @default(false)
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+  bookings      Booking[]
+  adminCars     Car[]     @relation("AdminCars")
+
+  @@map("users")
+}
+
+model Car {
+  id          String      @id @default(cuid())
+  name        String
+  model       String
+  type        CarCategory
+  hourlyRate  Float
+  dailyRate   Float
+  image       String
+  description String
+  isAvailable Boolean     @default(true)
+  adminId     String
+  createdAt   DateTime    @default(now())
+  updatedAt   DateTime    @updatedAt
+  bookings    Booking[]
+  admin       User        @relation("AdminCars", fields: [adminId], references: [id], onDelete: Cascade)
+
+  @@map("cars")
+}
+
+model Booking {
+  id                  String        @id @default(cuid())
+  carId               String
+  carName             String
+  carModel            String
+  startTime           DateTime
+  endTime             DateTime
+  unit                BookingUnit
+  quantity            Int
+  priceBeforeDiscount Float
+  discountApplied     Float
+  finalPrice          Float
+  userEmail           String
+  mujId               String?
+  contactNumber       String?
+  status              BookingStatus @default(Pending)
+  createdAt           DateTime      @default(now())
+  user                User          @relation(fields: [userEmail], references: [email], onDelete: Cascade)
+  car                 Car           @relation(fields: [carId], references: [id], onDelete: Cascade)
+
+  @@map("bookings")
+}
+
+enum CarCategory {
+  Sedan
+  SUV
+  XUV
+  Hatchback
+}
+
+enum BookingUnit {
+  hourly
+  daily
+}
+
+enum Role {
+  user
+  admin
+}
+
+enum BookingStatus {
+  Pending
+  Accepted
+  Cancelled
+}
