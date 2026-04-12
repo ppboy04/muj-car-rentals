@@ -10,10 +10,15 @@ from api.routes import router, load_resources
 
 app = FastAPI(title="MUJ Car Rental Recommendation API")
 
-# Enable CORS for Next.js
+# Enable CORS
+origins = [
+    "http://localhost:3000",
+    os.getenv("FRONTEND_URL", "*")
+]
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000"],
+    allow_origins=origins,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

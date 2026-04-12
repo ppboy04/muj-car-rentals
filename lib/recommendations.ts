@@ -15,7 +15,7 @@ export interface RecommendRequest {
   top_n?: number;
 }
 
-const API_BASE_URL = 'http://localhost:8000';
+const API_BASE_URL = process.env.NEXT_PUBLIC_ML_API_URL || 'http://localhost:8000';
 
 export async function getRecommendations(
   request: RecommendRequest
