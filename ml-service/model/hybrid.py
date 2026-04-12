@@ -46,10 +46,17 @@ class HybridRecommender:
                             break
                 
                 final_score = (self.alpha * collab_score) + ((1 - self.alpha) * content_score)
+                
+                # Dynamic reason based on scores
+                if content_score > 0.7:
+                    reason = "Similar to your favorites"
+                else:
+                    reason = "Matches your driving style"
+
                 hybrid_recs.append({
                     "car_id": rec["car_id"], 
                     "score": float(final_score),
-                    "reason": "Based on your booking history"
+                    "reason": reason
                 })
             
             hybrid_recs = sorted(hybrid_recs, key=lambda x: x['score'], reverse=True)
@@ -58,8 +65,19 @@ class HybridRecommender:
         # 2. Content-Based Logic (New User + Car Context)
         elif car_id:
             recs = self.content_model.get_similar_cars(car_id, top_n=top_n)
+            
+            # Find the reference car to compare
+            ref_car = cars_df[cars_df['car_id'] == car_id].iloc[0] if cars_df is not None else None
+            
             for r in recs:
-                r["reason"] = "Similar to cars you viewed"
+                if ref_car is not None and cars_df is not None:
+                    target_car = cars_df[cars_df['car_id'] == r['car_id']].iloc[0]
+                    if target_car['type'] == ref_car['type']:
+                        r["reason"] = f"Another premium {target_car['type']}"
+                    else:
+                        r["reason"] = f"Similar {target_car['fuel_type']} vehicle"
+                else:
+                    r["reason"] = "Similar to your last view"
             return recs, "content_based"
 
         # 3. Fallback Logic (Cold Start - Popular Cars)
@@ -67,10 +85,21 @@ class HybridRecommender:
             if cars_df is not None:
                 # Top rated available cars
                 popular = cars_df[cars_df['available'] == True].sort_values(by='rating', ascending=False)
-                recs = [
-                    {"car_id": row['car_id'], "score": float(row['rating'])/5.0, "reason": "Top rated on platform"}
-                    for _, row in popular.head(top_n).iterrows()
-                ]
+                recs = []
+                for _, row in popular.head(top_n).iterrows():
+                    # Custom reasons for popular cars
+                    if row['rating'] >= 4.8:
+                        reason = "Highly rated by peers"
+                    elif row['price_per_day'] < 3000:
+                        reason = "Best value option"
+                    else:
+                        reason = "Trending right now"
+                        
+                    recs.append({
+                        "car_id": row['car_id'], 
+                        "score": float(row['rating'])/5.0, 
+                        "reason": reason
+                    })
                 return recs, "popularity"
             
             return [], "none"

@@ -10,7 +10,7 @@ import type { Car } from "@/lib/types"
 import { LogIn, UserPlus, ArrowRight, Star, Clock, Users } from "lucide-react"
 import { motion } from "framer-motion"
 
-export function CarCard({ car }: { car: Car }) {
+export function CarCard({ car, recommendation }: { car: Car, recommendation?: { score: number, reason: string } }) {
   const { auth } = useAuth()
   
   return (
@@ -54,6 +54,30 @@ export function CarCard({ car }: { car: Car }) {
             </div>
           </div>
           
+          {recommendation && (
+            <div className="mb-4 p-3 rounded-lg bg-blue-50 border border-blue-100 flex items-start gap-3">
+              <Sparkles className="h-5 w-5 text-blue-600 mt-0.5 shrink-0" />
+              <div>
+                <p className="text-xs font-bold text-blue-900 uppercase tracking-wider mb-1">Recommendation</p>
+                <p className="text-sm font-medium text-blue-700 leading-tight">
+                  {recommendation.reason}
+                </p>
+                <div className="mt-2 flex items-center gap-2">
+                  <div className="h-1.5 w-24 bg-blue-200 rounded-full overflow-hidden">
+                    <motion.div 
+                      initial={{ width: 0 }}
+                      animate={{ width: `${recommendation.score * 100}%` }}
+                      className="h-full bg-blue-600"
+                    />
+                  </div>
+                  <span className="text-[10px] font-bold text-blue-600 uppercase">
+                    {Math.round(recommendation.score * 100)}% Match
+                  </span>
+                </div>
+              </div>
+            </div>
+          )}
+
           <div className="space-y-3">
             <div className="flex items-center gap-2 flex-wrap">
               <Badge className="bg-blue-600 hover:bg-blue-700 text-white font-medium">
