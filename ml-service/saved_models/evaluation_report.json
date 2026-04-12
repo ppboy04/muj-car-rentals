@@ -1,0 +1,11 @@
+{
+    "model": "SVD",
+    "metrics": {
+        "rmse": 0.854,
+        "mae": 0.612
+    },
+    "recommendation_quality": {
+        "Precision@5": 0.82,
+        "Recall@5": 0.75
+    }
+}

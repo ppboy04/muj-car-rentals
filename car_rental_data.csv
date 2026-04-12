@@ -1,0 +1,2001 @@
+id_customer,id_vehicle,desc_vehicle,purchase_value,selling_value,segment,contract_duration
+customer_33,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,53620,engineering,8
+customer_59,vehicle_8,GM-S10 CABINE SIMPLES,175555,123152,energy,29
+customer_25,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,26254,other,14
+customer_39,vehicle_7,HILUX CS DSL 4X4,262854,199660,agribusiness,16
+customer_51,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,96047,mining,29
+customer_3,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,23340,engineering,11
+customer_26,vehicle_6,TOYOTA-HILUX CS 4X4,172298,117451,engineering,8
+customer_15,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,43881,energy,36
+customer_89,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,154677,agribusiness,14
+customer_60,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,47405,other,15
+customer_7,vehicle_8,GM-S10 CABINE SIMPLES,175555,124979,other,9
+customer_14,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,102770,energy,25
+customer_45,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,146729,energy,25
+customer_32,vehicle_1,SAVEIRO CS RB MPI,82245,37074,mining,25
+customer_98,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,24552,energy,30
+customer_79,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,120151,engineering,14
+customer_47,vehicle_1,SAVEIRO CS RB MPI,82245,41969,mining,21
+customer_42,vehicle_8,GM-S10 CABINE SIMPLES,175555,83753,mining,29
+customer_30,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,24305,agribusiness,16
+customer_75,vehicle_8,GM-S10 CABINE SIMPLES,175555,134740,other,7
+customer_57,vehicle_8,GM-S10 CABINE SIMPLES,175555,131431,energy,22
+customer_56,vehicle_6,TOYOTA-HILUX CS 4X4,172298,80416,mining,17
+customer_62,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,46467,engineering,6
+customer_47,vehicle_1,SAVEIRO CS RB MPI,82245,36689,mining,19
+customer_56,vehicle_1,SAVEIRO CS RB MPI,82245,43942,mining,36
+customer_32,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,94361,mining,32
+customer_42,vehicle_7,HILUX CS DSL 4X4,262854,123204,mining,23
+customer_23,vehicle_1,SAVEIRO CS RB MPI,82245,44592,mining,31
+customer_9,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,72137,mining,31
+customer_28,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,61027,agribusiness,15
+customer_36,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,49395,energy,35
+customer_81,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,61447,energy,13
+customer_59,vehicle_1,SAVEIRO CS RB MPI,82245,51763,energy,32
+customer_49,vehicle_8,GM-S10 CABINE SIMPLES,175555,120872,energy,34
+customer_89,vehicle_7,HILUX CS DSL 4X4,262854,201641,agribusiness,17
+customer_26,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,136854,engineering,9
+customer_92,vehicle_1,SAVEIRO CS RB MPI,82245,60363,agribusiness,16
+customer_70,vehicle_6,TOYOTA-HILUX CS 4X4,172298,127150,engineering,12
+customer_28,vehicle_8,GM-S10 CABINE SIMPLES,175555,133701,agribusiness,17
+customer_97,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,24053,engineering,6
+customer_27,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,59860,energy,33
+customer_32,vehicle_6,TOYOTA-HILUX CS 4X4,172298,90472,mining,35
+customer_35,vehicle_8,GM-S10 CABINE SIMPLES,175555,88336,mining,23
+customer_12,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,103429,energy,13
+customer_26,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,43887,engineering,5
+customer_95,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,64900,agribusiness,21
+customer_52,vehicle_1,SAVEIRO CS RB MPI,82245,59903,engineering,10
+customer_59,vehicle_8,GM-S10 CABINE SIMPLES,175555,117125,energy,32
+customer_1,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,48435,agribusiness,15
+customer_38,vehicle_8,GM-S10 CABINE SIMPLES,175555,114607,energy,16
+customer_17,vehicle_6,TOYOTA-HILUX CS 4X4,172298,126451,other,10
+customer_79,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,55487,engineering,11
+customer_85,vehicle_1,SAVEIRO CS RB MPI,82245,59422,energy,13
+customer_48,vehicle_6,TOYOTA-HILUX CS 4X4,172298,79733,mining,32
+customer_85,vehicle_1,SAVEIRO CS RB MPI,82245,51657,energy,24
+customer_17,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,60663,other,17
+customer_82,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,154569,other,17
+customer_58,vehicle_8,GM-S10 CABINE SIMPLES,175555,129030,agribusiness,13
+customer_76,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,36364,mining,20
+customer_65,vehicle_6,TOYOTA-HILUX CS 4X4,172298,104977,energy,21
+customer_79,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,59043,engineering,5
+customer_61,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,64109,agribusiness,24
+customer_56,vehicle_8,GM-S10 CABINE SIMPLES,175555,90436,mining,24
+customer_81,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,149656,energy,35
+customer_31,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,57825,engineering,5
+customer_65,vehicle_6,TOYOTA-HILUX CS 4X4,172298,127471,energy,16
+customer_45,vehicle_7,HILUX CS DSL 4X4,262854,179649,energy,33
+customer_9,vehicle_6,TOYOTA-HILUX CS 4X4,172298,80067,mining,22
+customer_100,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,81438,mining,27
+customer_80,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,26882,other,9
+customer_16,vehicle_6,TOYOTA-HILUX CS 4X4,172298,126040,other,15
+customer_30,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,70875,agribusiness,22
+customer_23,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,18339,mining,26
+customer_35,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,15446,mining,17
+customer_35,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,39958,mining,17
+customer_42,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,44587,mining,32
+customer_94,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,23815,engineering,9
+customer_87,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,60209,engineering,13
+customer_89,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,117803,agribusiness,14
+customer_83,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,47268,other,23
+customer_89,vehicle_1,SAVEIRO CS RB MPI,82245,58272,agribusiness,20
+customer_41,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,54445,energy,20
+customer_80,vehicle_6,TOYOTA-HILUX CS 4X4,172298,134710,other,6
+customer_36,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,46122,energy,23
+customer_44,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,40625,energy,24
+customer_67,vehicle_1,SAVEIRO CS RB MPI,82245,60058,energy,19
+customer_34,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,46355,agribusiness,20
+customer_51,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,78555,mining,30
+customer_7,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,46578,other,16
+customer_18,vehicle_1,SAVEIRO CS RB MPI,82245,39885,mining,22
+customer_18,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,86460,mining,22
+customer_97,vehicle_6,TOYOTA-HILUX CS 4X4,172298,120326,engineering,5
+customer_80,vehicle_8,GM-S10 CABINE SIMPLES,175555,137608,other,18
+customer_44,vehicle_8,GM-S10 CABINE SIMPLES,175555,120007,energy,33
+customer_43,vehicle_8,GM-S10 CABINE SIMPLES,175555,90857,mining,33
+customer_16,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,64923,other,18
+customer_31,vehicle_7,HILUX CS DSL 4X4,262854,171966,engineering,9
+customer_83,vehicle_1,SAVEIRO CS RB MPI,82245,60420,other,13
+customer_80,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,145873,other,19
+customer_61,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,158478,agribusiness,22
+customer_62,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,61696,engineering,13
+customer_2,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,153066,agribusiness,23
+customer_37,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,148774,agribusiness,24
+customer_21,vehicle_1,SAVEIRO CS RB MPI,82245,57780,agribusiness,23
+customer_89,vehicle_6,TOYOTA-HILUX CS 4X4,172298,134237,agribusiness,13
+customer_77,vehicle_6,TOYOTA-HILUX CS 4X4,172298,113939,energy,24
+customer_92,vehicle_8,GM-S10 CABINE SIMPLES,175555,122908,agribusiness,14
+customer_55,vehicle_1,SAVEIRO CS RB MPI,82245,61076,energy,23
+customer_93,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,149282,other,24
+customer_37,vehicle_6,TOYOTA-HILUX CS 4X4,172298,137166,agribusiness,12
+customer_81,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,53592,energy,15
+customer_25,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,24517,other,16
+customer_13,vehicle_1,SAVEIRO CS RB MPI,82245,64855,other,20
+customer_15,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,118058,energy,23
+customer_12,vehicle_8,GM-S10 CABINE SIMPLES,175555,105792,energy,31
+customer_47,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,16370,mining,27
+customer_93,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,60655,other,7
+customer_99,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,48415,mining,21
+customer_46,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,94273,mining,25
+customer_38,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,51253,energy,15
+customer_45,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,58630,energy,26
+customer_20,vehicle_6,TOYOTA-HILUX CS 4X4,172298,121312,engineering,11
+customer_45,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,140102,energy,22
+customer_18,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,47907,mining,19
+customer_82,vehicle_8,GM-S10 CABINE SIMPLES,175555,130578,other,11
+customer_59,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,45389,energy,20
+customer_14,vehicle_7,HILUX CS DSL 4X4,262854,186476,energy,18
+customer_95,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,26294,agribusiness,24
+customer_69,vehicle_1,SAVEIRO CS RB MPI,82245,62068,other,17
+customer_44,vehicle_1,SAVEIRO CS RB MPI,82245,55160,energy,27
+customer_97,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,140027,engineering,14
+customer_8,vehicle_1,SAVEIRO CS RB MPI,82245,41169,mining,21
+customer_67,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,47947,energy,23
+customer_3,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,59939,engineering,8
+customer_18,vehicle_6,TOYOTA-HILUX CS 4X4,172298,85189,mining,19
+customer_76,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,16252,mining,35
+customer_44,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,146252,energy,16
+customer_47,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,31839,mining,33
+customer_96,vehicle_6,TOYOTA-HILUX CS 4X4,172298,131213,agribusiness,12
+customer_65,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,138900,energy,19
+customer_13,vehicle_6,TOYOTA-HILUX CS 4X4,172298,120653,other,19
+customer_36,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,53594,energy,25
+customer_16,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,63868,other,15
+customer_57,vehicle_8,GM-S10 CABINE SIMPLES,175555,115505,energy,24
+customer_32,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,36264,mining,15
+customer_13,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,47957,other,23
+customer_76,vehicle_6,TOYOTA-HILUX CS 4X4,172298,82484,mining,31
+customer_89,vehicle_6,TOYOTA-HILUX CS 4X4,172298,136799,agribusiness,23
+customer_48,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,41408,mining,16
+customer_51,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,41204,mining,30
+customer_59,vehicle_6,TOYOTA-HILUX CS 4X4,172298,105963,energy,34
+customer_77,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,112130,energy,27
+customer_23,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,99577,mining,32
+customer_82,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,25918,other,17
+customer_88,vehicle_7,HILUX CS DSL 4X4,262854,188819,energy,20
+customer_50,vehicle_7,HILUX CS DSL 4X4,262854,130570,mining,33
+customer_10,vehicle_7,HILUX CS DSL 4X4,262854,182060,energy,32
+customer_70,vehicle_6,TOYOTA-HILUX CS 4X4,172298,115246,engineering,8
+customer_59,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,125383,energy,20
+customer_95,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,49767,agribusiness,15
+customer_66,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,131237,energy,22
+customer_58,vehicle_6,TOYOTA-HILUX CS 4X4,172298,126855,agribusiness,21
+customer_56,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,91756,mining,16
+customer_68,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,43269,mining,27
+customer_48,vehicle_8,GM-S10 CABINE SIMPLES,175555,94523,mining,22
+customer_79,vehicle_6,TOYOTA-HILUX CS 4X4,172298,123715,engineering,9
+customer_98,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,126921,energy,20
+customer_100,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,107441,mining,16
+customer_83,vehicle_6,TOYOTA-HILUX CS 4X4,172298,128690,other,22
+customer_62,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,57580,engineering,14
+customer_55,vehicle_7,HILUX CS DSL 4X4,262854,167753,energy,21
+customer_100,vehicle_1,SAVEIRO CS RB MPI,82245,43962,mining,32
+customer_71,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,21600,energy,21
+customer_24,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,59671,agribusiness,17
+customer_87,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,60398,engineering,8
+customer_90,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,47534,agribusiness,22
+customer_46,vehicle_7,HILUX CS DSL 4X4,262854,135749,mining,21
+customer_18,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,15204,mining,32
+customer_100,vehicle_6,TOYOTA-HILUX CS 4X4,172298,76946,mining,22
+customer_51,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,39363,mining,30
+customer_34,vehicle_1,SAVEIRO CS RB MPI,82245,60729,agribusiness,18
+customer_10,vehicle_8,GM-S10 CABINE SIMPLES,175555,122197,energy,16
+customer_32,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,84566,mining,18
+customer_61,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,158367,agribusiness,21
+customer_23,vehicle_1,SAVEIRO CS RB MPI,82245,39339,mining,29
+customer_70,vehicle_8,GM-S10 CABINE SIMPLES,175555,127258,engineering,10
+customer_87,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,60906,engineering,12
+customer_89,vehicle_1,SAVEIRO CS RB MPI,82245,59776,agribusiness,16
+customer_36,vehicle_1,SAVEIRO CS RB MPI,82245,59962,energy,16
+customer_1,vehicle_6,TOYOTA-HILUX CS 4X4,172298,131503,agribusiness,20
+customer_34,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,26573,agribusiness,21
+customer_88,vehicle_1,SAVEIRO CS RB MPI,82245,59132,energy,35
+customer_4,vehicle_8,GM-S10 CABINE SIMPLES,175555,125087,agribusiness,19
+customer_85,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,45774,energy,12
+customer_28,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,65134,agribusiness,14
+customer_98,vehicle_7,HILUX CS DSL 4X4,262854,182874,energy,32
+customer_90,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,70724,agribusiness,14
+customer_98,vehicle_8,GM-S10 CABINE SIMPLES,175555,127720,energy,21
+customer_73,vehicle_7,HILUX CS DSL 4X4,262854,186452,engineering,11
+customer_7,vehicle_8,GM-S10 CABINE SIMPLES,175555,130396,other,22
+customer_99,vehicle_6,TOYOTA-HILUX CS 4X4,172298,86838,mining,16
+customer_77,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,20650,energy,25
+customer_98,vehicle_6,TOYOTA-HILUX CS 4X4,172298,127010,energy,36
+customer_48,vehicle_6,TOYOTA-HILUX CS 4X4,172298,83646,mining,26
+customer_15,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,51369,energy,33
+customer_29,vehicle_6,TOYOTA-HILUX CS 4X4,172298,78304,mining,15
+customer_1,vehicle_8,GM-S10 CABINE SIMPLES,175555,134096,agribusiness,15
+customer_16,vehicle_7,HILUX CS DSL 4X4,262854,208214,other,21
+customer_27,vehicle_8,GM-S10 CABINE SIMPLES,175555,116237,energy,35
+customer_26,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,23302,engineering,10
+customer_30,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,25427,agribusiness,24
+customer_67,vehicle_7,HILUX CS DSL 4X4,262854,176446,energy,21
+customer_66,vehicle_8,GM-S10 CABINE SIMPLES,175555,125422,energy,26
+customer_59,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,41708,energy,28
+customer_36,vehicle_8,GM-S10 CABINE SIMPLES,175555,115887,energy,27
+customer_42,vehicle_7,HILUX CS DSL 4X4,262854,129523,mining,27
+customer_96,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,25296,agribusiness,20
+customer_70,vehicle_6,TOYOTA-HILUX CS 4X4,172298,113443,engineering,5
+customer_67,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,54396,energy,18
+customer_37,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,145158,agribusiness,14
+customer_23,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,92453,mining,26
+customer_41,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,62139,energy,17
+customer_59,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,54735,energy,21
+customer_9,vehicle_6,TOYOTA-HILUX CS 4X4,172298,78399,mining,19
+customer_52,vehicle_7,HILUX CS DSL 4X4,262854,174837,engineering,7
+customer_62,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,42469,engineering,14
+customer_34,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,153877,agribusiness,12
+customer_49,vehicle_8,GM-S10 CABINE SIMPLES,175555,129863,energy,30
+customer_30,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,24542,agribusiness,22
+customer_94,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,57357,engineering,15
+customer_27,vehicle_1,SAVEIRO CS RB MPI,82245,57424,energy,23
+customer_92,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,27218,agribusiness,16
+customer_29,vehicle_1,SAVEIRO CS RB MPI,82245,44439,mining,32
+customer_97,vehicle_8,GM-S10 CABINE SIMPLES,175555,123202,engineering,6
+customer_59,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,23849,energy,26
+customer_88,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,24231,energy,19
+customer_95,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,63179,agribusiness,15
+customer_96,vehicle_1,SAVEIRO CS RB MPI,82245,62255,agribusiness,22
+customer_96,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,47584,agribusiness,19
+customer_49,vehicle_8,GM-S10 CABINE SIMPLES,175555,125430,energy,19
+customer_30,vehicle_6,TOYOTA-HILUX CS 4X4,172298,128632,agribusiness,16
+customer_37,vehicle_7,HILUX CS DSL 4X4,262854,202917,agribusiness,20
+customer_15,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,136230,energy,26
+customer_97,vehicle_7,HILUX CS DSL 4X4,262854,182554,engineering,14
+customer_84,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,62420,other,8
+customer_6,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,24727,energy,14
+customer_97,vehicle_1,SAVEIRO CS RB MPI,82245,53501,engineering,14
+customer_23,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,76815,mining,30
+customer_35,vehicle_1,SAVEIRO CS RB MPI,82245,36965,mining,23
+customer_6,vehicle_1,SAVEIRO CS RB MPI,82245,52725,energy,32
+customer_60,vehicle_1,SAVEIRO CS RB MPI,82245,63152,other,24
+customer_43,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,41310,mining,17
+customer_83,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,127811,other,6
+customer_81,vehicle_6,TOYOTA-HILUX CS 4X4,172298,107271,energy,16
+customer_42,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,105210,mining,15
+customer_91,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,23696,engineering,15
+customer_36,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,55912,energy,30
+customer_52,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,137085,engineering,10
+customer_70,vehicle_6,TOYOTA-HILUX CS 4X4,172298,126066,engineering,15
+customer_1,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,47600,agribusiness,19
+customer_77,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,47441,energy,19
+customer_75,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,44862,other,9
+customer_51,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,75913,mining,17
+customer_85,vehicle_8,GM-S10 CABINE SIMPLES,175555,110444,energy,32
+customer_22,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,106961,energy,18
+customer_72,vehicle_6,TOYOTA-HILUX CS 4X4,172298,86190,mining,31
+customer_32,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,44998,mining,24
+customer_95,vehicle_6,TOYOTA-HILUX CS 4X4,172298,131366,agribusiness,18
+customer_58,vehicle_7,HILUX CS DSL 4X4,262854,204404,agribusiness,20
+customer_66,vehicle_8,GM-S10 CABINE SIMPLES,175555,108515,energy,25
+customer_19,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,57785,energy,28
+customer_46,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,34548,mining,19
+customer_93,vehicle_7,HILUX CS DSL 4X4,262854,191109,other,15
+customer_85,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,21248,energy,26
+customer_22,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,60015,energy,34
+customer_13,vehicle_7,HILUX CS DSL 4X4,262854,207700,other,18
+customer_70,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,24338,engineering,14
+customer_39,vehicle_1,SAVEIRO CS RB MPI,82245,59753,agribusiness,22
+customer_90,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,23908,agribusiness,17
+customer_19,vehicle_7,HILUX CS DSL 4X4,262854,176162,energy,17
+customer_35,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,43607,mining,36
+customer_50,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,15249,mining,20
+customer_18,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,16052,mining,36
+customer_37,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,69988,agribusiness,22
+customer_50,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,40635,mining,24
+customer_28,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,141885,agribusiness,24
+customer_75,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,114827,other,7
+customer_1,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,155210,agribusiness,24
+customer_9,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,16798,mining,21
+customer_56,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,18180,mining,33
+customer_25,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,24953,other,16
+customer_43,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,15102,mining,16
+customer_84,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,161075,other,21
+customer_70,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,60627,engineering,10
+customer_97,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,133721,engineering,8
+customer_77,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,65079,energy,31
+customer_81,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,49742,energy,21
+customer_65,vehicle_7,HILUX CS DSL 4X4,262854,162993,energy,20
+customer_95,vehicle_8,GM-S10 CABINE SIMPLES,175555,137413,agribusiness,18
+customer_9,vehicle_6,TOYOTA-HILUX CS 4X4,172298,92534,mining,22
+customer_4,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,120845,agribusiness,18
+customer_94,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,59222,engineering,6
+customer_71,vehicle_6,TOYOTA-HILUX CS 4X4,172298,107921,energy,14
+customer_25,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,49531,other,14
+customer_55,vehicle_8,GM-S10 CABINE SIMPLES,175555,129722,energy,29
+customer_15,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,40007,energy,29
+customer_2,vehicle_6,TOYOTA-HILUX CS 4X4,172298,124870,agribusiness,20
+customer_95,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,58312,agribusiness,17
+customer_55,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,99636,energy,26
+customer_92,vehicle_6,TOYOTA-HILUX CS 4X4,172298,121364,agribusiness,18
+customer_74,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,115519,agribusiness,14
+customer_29,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,15164,mining,22
+customer_12,vehicle_1,SAVEIRO CS RB MPI,82245,55313,energy,23
+customer_61,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,61020,agribusiness,13
+customer_37,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,154172,agribusiness,16
+customer_69,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,67679,other,7
+customer_91,vehicle_7,HILUX CS DSL 4X4,262854,181492,engineering,14
+customer_75,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,64114,other,19
+customer_34,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,27194,agribusiness,23
+customer_82,vehicle_8,GM-S10 CABINE SIMPLES,175555,137777,other,23
+customer_96,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,144696,agribusiness,12
+customer_23,vehicle_6,TOYOTA-HILUX CS 4X4,172298,82366,mining,33
+customer_31,vehicle_6,TOYOTA-HILUX CS 4X4,172298,115512,engineering,8
+customer_88,vehicle_8,GM-S10 CABINE SIMPLES,175555,113707,energy,22
+customer_10,vehicle_7,HILUX CS DSL 4X4,262854,176044,energy,25
+customer_95,vehicle_8,GM-S10 CABINE SIMPLES,175555,123259,agribusiness,24
+customer_71,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,111763,energy,18
+customer_35,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,31423,mining,27
+customer_34,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,115791,agribusiness,22
+customer_26,vehicle_8,GM-S10 CABINE SIMPLES,175555,121554,engineering,10
+customer_63,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,124701,energy,27
+customer_1,vehicle_6,TOYOTA-HILUX CS 4X4,172298,123943,agribusiness,16
+customer_53,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,34838,mining,26
+customer_83,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,121832,other,10
+customer_16,vehicle_6,TOYOTA-HILUX CS 4X4,172298,132831,other,22
+customer_27,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,55143,energy,29
+customer_41,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,54299,energy,28
+customer_21,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,156599,agribusiness,22
+customer_28,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,62227,agribusiness,23
+customer_57,vehicle_1,SAVEIRO CS RB MPI,82245,53397,energy,20
+customer_40,vehicle_7,HILUX CS DSL 4X4,262854,176905,engineering,15
+customer_3,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,106282,engineering,11
+customer_74,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,58044,agribusiness,21
+customer_19,vehicle_8,GM-S10 CABINE SIMPLES,175555,124870,energy,26
+customer_57,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,55346,energy,31
+customer_100,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,42624,mining,26
+customer_52,vehicle_8,GM-S10 CABINE SIMPLES,175555,117849,engineering,10
+customer_6,vehicle_7,HILUX CS DSL 4X4,262854,176254,energy,36
+customer_20,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,24710,engineering,5
+customer_73,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,56596,engineering,14
+customer_58,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,58100,agribusiness,16
+customer_38,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,53377,energy,16
+customer_99,vehicle_7,HILUX CS DSL 4X4,262854,119409,mining,34
+customer_45,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,21470,energy,31
+customer_24,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,63678,agribusiness,22
+customer_68,vehicle_8,GM-S10 CABINE SIMPLES,175555,89376,mining,28
+customer_95,vehicle_8,GM-S10 CABINE SIMPLES,175555,137160,agribusiness,18
+customer_54,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,23851,energy,16
+customer_54,vehicle_1,SAVEIRO CS RB MPI,82245,53871,energy,21
+customer_22,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,21378,energy,26
+customer_63,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,43433,energy,23
+customer_99,vehicle_6,TOYOTA-HILUX CS 4X4,172298,85020,mining,32
+customer_46,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,18502,mining,36
+customer_33,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,63483,engineering,10
+customer_21,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,141617,agribusiness,14
+customer_21,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,25372,agribusiness,15
+customer_19,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,100786,energy,33
+customer_34,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,145700,agribusiness,20
+customer_88,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,55460,energy,23
+customer_4,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,141538,agribusiness,24
+customer_13,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,69566,other,10
+customer_49,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,104160,energy,26
+customer_75,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,45543,other,6
+customer_46,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,71985,mining,34
+customer_21,vehicle_7,HILUX CS DSL 4X4,262854,186870,agribusiness,16
+customer_20,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,109161,engineering,15
+customer_51,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,33698,mining,22
+customer_72,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,76177,mining,34
+customer_100,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,43559,mining,30
+customer_35,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,32882,mining,17
+customer_49,vehicle_8,GM-S10 CABINE SIMPLES,175555,110380,energy,35
+customer_23,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,97148,mining,26
+customer_34,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,25064,agribusiness,21
+customer_20,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,147891,engineering,15
+customer_86,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,59828,energy,23
+customer_81,vehicle_7,HILUX CS DSL 4X4,262854,171474,energy,23
+customer_66,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,56111,energy,20
+customer_28,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,50791,agribusiness,12
+customer_66,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,105703,energy,26
+customer_84,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,151126,other,16
+customer_46,vehicle_6,TOYOTA-HILUX CS 4X4,172298,82765,mining,34
+customer_40,vehicle_1,SAVEIRO CS RB MPI,82245,59704,engineering,13
+customer_57,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,130770,energy,35
+customer_69,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,27023,other,19
+customer_88,vehicle_8,GM-S10 CABINE SIMPLES,175555,121621,energy,22
+customer_47,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,86317,mining,18
+customer_14,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,23466,energy,18
+customer_21,vehicle_7,HILUX CS DSL 4X4,262854,210099,agribusiness,18
+customer_91,vehicle_1,SAVEIRO CS RB MPI,82245,58235,engineering,9
+customer_49,vehicle_6,TOYOTA-HILUX CS 4X4,172298,103930,energy,25
+customer_55,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,127461,energy,18
+customer_47,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,16172,mining,35
+customer_82,vehicle_8,GM-S10 CABINE SIMPLES,175555,134210,other,10
+customer_63,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,53353,energy,22
+customer_68,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,29784,mining,16
+customer_39,vehicle_8,GM-S10 CABINE SIMPLES,175555,123907,agribusiness,15
+customer_53,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,43027,mining,34
+customer_90,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,45151,agribusiness,17
+customer_26,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,64480,engineering,12
+customer_84,vehicle_7,HILUX CS DSL 4X4,262854,200993,other,21
+customer_41,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,55526,energy,19
+customer_30,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,45390,agribusiness,23
+customer_14,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,21307,energy,25
+customer_31,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,43279,engineering,13
+customer_98,vehicle_7,HILUX CS DSL 4X4,262854,192750,energy,15
+customer_96,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,68886,agribusiness,19
+customer_89,vehicle_1,SAVEIRO CS RB MPI,82245,58219,agribusiness,19
+customer_43,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,42190,mining,17
+customer_46,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,39569,mining,17
+customer_98,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,23770,energy,27
+customer_95,vehicle_6,TOYOTA-HILUX CS 4X4,172298,122407,agribusiness,24
+customer_54,vehicle_7,HILUX CS DSL 4X4,262854,170880,energy,29
+customer_15,vehicle_1,SAVEIRO CS RB MPI,82245,56832,energy,13
+customer_43,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,48112,mining,31
+customer_42,vehicle_8,GM-S10 CABINE SIMPLES,175555,91647,mining,21
+customer_81,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,23999,energy,32
+customer_52,vehicle_8,GM-S10 CABINE SIMPLES,175555,114555,engineering,8
+customer_2,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,69293,agribusiness,15
+customer_49,vehicle_8,GM-S10 CABINE SIMPLES,175555,128311,energy,18
+customer_78,vehicle_7,HILUX CS DSL 4X4,262854,117081,mining,15
+customer_31,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,143314,engineering,13
+customer_42,vehicle_7,HILUX CS DSL 4X4,262854,122342,mining,27
+customer_8,vehicle_7,HILUX CS DSL 4X4,262854,132102,mining,24
+customer_32,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,35213,mining,31
+customer_20,vehicle_8,GM-S10 CABINE SIMPLES,175555,130014,engineering,8
+customer_97,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,44043,engineering,5
+customer_88,vehicle_6,TOYOTA-HILUX CS 4X4,172298,107720,energy,20
+customer_18,vehicle_7,HILUX CS DSL 4X4,262854,135901,mining,17
+customer_2,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,49794,agribusiness,24
+customer_53,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,34613,mining,36
+customer_44,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,145819,energy,20
+customer_72,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,17471,mining,26
+customer_95,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,25104,agribusiness,15
+customer_62,vehicle_8,GM-S10 CABINE SIMPLES,175555,125732,engineering,5
+customer_73,vehicle_7,HILUX CS DSL 4X4,262854,190514,engineering,8
+customer_16,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,24307,other,8
+customer_99,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,72520,mining,22
+customer_56,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,17135,mining,23
+customer_81,vehicle_6,TOYOTA-HILUX CS 4X4,172298,108945,energy,20
+customer_34,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,66715,agribusiness,16
+customer_25,vehicle_1,SAVEIRO CS RB MPI,82245,61084,other,22
+customer_84,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,58902,other,9
+customer_5,vehicle_8,GM-S10 CABINE SIMPLES,175555,94474,mining,19
+customer_42,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,72983,mining,28
+customer_58,vehicle_1,SAVEIRO CS RB MPI,82245,64702,agribusiness,14
+customer_84,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,24271,other,6
+customer_49,vehicle_7,HILUX CS DSL 4X4,262854,175552,energy,21
+customer_100,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,42935,mining,16
+customer_44,vehicle_7,HILUX CS DSL 4X4,262854,182074,energy,24
+customer_80,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,26656,other,23
+customer_14,vehicle_8,GM-S10 CABINE SIMPLES,175555,112209,energy,13
+customer_50,vehicle_1,SAVEIRO CS RB MPI,82245,42030,mining,28
+customer_41,vehicle_6,TOYOTA-HILUX CS 4X4,172298,117770,energy,22
+customer_93,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,58704,other,24
+customer_22,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,41372,energy,35
+customer_99,vehicle_1,SAVEIRO CS RB MPI,82245,45172,mining,27
+customer_86,vehicle_7,HILUX CS DSL 4X4,262854,168433,energy,17
+customer_37,vehicle_7,HILUX CS DSL 4X4,262854,202782,agribusiness,12
+customer_87,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,60981,engineering,14
+customer_33,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,44132,engineering,12
+customer_63,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,23326,energy,36
+customer_48,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,73531,mining,36
+customer_18,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,103349,mining,28
+customer_87,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,58412,engineering,11
+customer_30,vehicle_6,TOYOTA-HILUX CS 4X4,172298,129466,agribusiness,20
+customer_80,vehicle_8,GM-S10 CABINE SIMPLES,175555,137541,other,22
+customer_30,vehicle_7,HILUX CS DSL 4X4,262854,208876,agribusiness,15
+customer_36,vehicle_6,TOYOTA-HILUX CS 4X4,172298,109387,energy,20
+customer_94,vehicle_8,GM-S10 CABINE SIMPLES,175555,123574,engineering,11
+customer_38,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,108595,energy,26
+customer_93,vehicle_8,GM-S10 CABINE SIMPLES,175555,126015,other,16
+customer_42,vehicle_6,TOYOTA-HILUX CS 4X4,172298,84983,mining,17
+customer_84,vehicle_6,TOYOTA-HILUX CS 4X4,172298,124923,other,9
+customer_82,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,66591,other,16
+customer_39,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,117266,agribusiness,13
+customer_32,vehicle_1,SAVEIRO CS RB MPI,82245,43565,mining,21
+customer_42,vehicle_8,GM-S10 CABINE SIMPLES,175555,91354,mining,36
+customer_16,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,128075,other,16
+customer_62,vehicle_7,HILUX CS DSL 4X4,262854,185897,engineering,5
+customer_31,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,61033,engineering,15
+customer_75,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,63046,other,10
+customer_11,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,59122,engineering,11
+customer_50,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,40379,mining,17
+customer_24,vehicle_1,SAVEIRO CS RB MPI,82245,62340,agribusiness,17
+customer_22,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,127107,energy,22
+customer_66,vehicle_1,SAVEIRO CS RB MPI,82245,49908,energy,34
+customer_15,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,111397,energy,14
+customer_96,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,45860,agribusiness,14
+customer_83,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,63318,other,13
+customer_63,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,20583,energy,36
+customer_12,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,144450,energy,36
+customer_17,vehicle_7,HILUX CS DSL 4X4,262854,203712,other,20
+customer_59,vehicle_6,TOYOTA-HILUX CS 4X4,172298,104751,energy,31
+customer_4,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,63914,agribusiness,18
+customer_27,vehicle_8,GM-S10 CABINE SIMPLES,175555,105652,energy,16
+customer_17,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,25556,other,16
+customer_24,vehicle_8,GM-S10 CABINE SIMPLES,175555,138832,agribusiness,17
+customer_4,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,125764,agribusiness,18
+customer_42,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,18303,mining,24
+customer_49,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,109908,energy,33
+customer_2,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,159880,agribusiness,21
+customer_35,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,40400,mining,35
+customer_7,vehicle_6,TOYOTA-HILUX CS 4X4,172298,137546,other,15
+customer_34,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,121969,agribusiness,16
+customer_10,vehicle_1,SAVEIRO CS RB MPI,82245,50538,energy,30
+customer_49,vehicle_8,GM-S10 CABINE SIMPLES,175555,119271,energy,31
+customer_85,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,22308,energy,36
+customer_15,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,57257,energy,35
+customer_46,vehicle_8,GM-S10 CABINE SIMPLES,175555,84189,mining,24
+customer_78,vehicle_8,GM-S10 CABINE SIMPLES,175555,89194,mining,33
+customer_39,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,145185,agribusiness,14
+customer_53,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,41364,mining,23
+customer_59,vehicle_1,SAVEIRO CS RB MPI,82245,52644,energy,30
+customer_86,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,58197,energy,16
+customer_33,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,57064,engineering,13
+customer_82,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,149256,other,20
+customer_16,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,25509,other,7
+customer_62,vehicle_6,TOYOTA-HILUX CS 4X4,172298,121014,engineering,8
+customer_53,vehicle_7,HILUX CS DSL 4X4,262854,136027,mining,24
+customer_83,vehicle_8,GM-S10 CABINE SIMPLES,175555,128429,other,8
+customer_19,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,46688,energy,27
+customer_41,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,60860,energy,27
+customer_68,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,36420,mining,22
+customer_36,vehicle_6,TOYOTA-HILUX CS 4X4,172298,105306,energy,16
+customer_11,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,107024,engineering,5
+customer_78,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,109535,mining,25
+customer_36,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,147860,energy,26
+customer_67,vehicle_1,SAVEIRO CS RB MPI,82245,57620,energy,27
+customer_34,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,24771,agribusiness,14
+customer_1,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,119022,agribusiness,21
+customer_14,vehicle_1,SAVEIRO CS RB MPI,82245,57780,energy,16
+customer_37,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,25409,agribusiness,18
+customer_32,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,98570,mining,31
+customer_12,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,57427,energy,26
+customer_10,vehicle_8,GM-S10 CABINE SIMPLES,175555,108996,energy,29
+customer_52,vehicle_1,SAVEIRO CS RB MPI,82245,60905,engineering,10
+customer_42,vehicle_6,TOYOTA-HILUX CS 4X4,172298,86793,mining,31
+customer_3,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,23971,engineering,12
+customer_78,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,31062,mining,21
+customer_31,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,115946,engineering,9
+customer_56,vehicle_6,TOYOTA-HILUX CS 4X4,172298,91355,mining,32
+customer_66,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,136795,energy,21
+customer_54,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,148980,energy,27
+customer_88,vehicle_8,GM-S10 CABINE SIMPLES,175555,128244,energy,19
+customer_33,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,105934,engineering,7
+customer_37,vehicle_7,HILUX CS DSL 4X4,262854,205533,agribusiness,13
+customer_89,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,115837,agribusiness,17
+customer_83,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,160891,other,14
+customer_29,vehicle_7,HILUX CS DSL 4X4,262854,123179,mining,15
+customer_33,vehicle_6,TOYOTA-HILUX CS 4X4,172298,121707,engineering,13
+customer_25,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,25349,other,22
+customer_54,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,103959,energy,32
+customer_22,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,42089,energy,36
+customer_44,vehicle_8,GM-S10 CABINE SIMPLES,175555,129390,energy,35
+customer_75,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,156610,other,9
+customer_58,vehicle_6,TOYOTA-HILUX CS 4X4,172298,131455,agribusiness,20
+customer_89,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,117639,agribusiness,15
+customer_28,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,62052,agribusiness,12
+customer_25,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,26373,other,10
+customer_42,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,75804,mining,17
+customer_92,vehicle_7,HILUX CS DSL 4X4,262854,204786,agribusiness,16
+customer_62,vehicle_1,SAVEIRO CS RB MPI,82245,55382,engineering,8
+customer_21,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,45751,agribusiness,19
+customer_28,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,46135,agribusiness,17
+customer_82,vehicle_8,GM-S10 CABINE SIMPLES,175555,123976,other,14
+customer_57,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,65642,energy,21
+customer_50,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,43059,mining,15
+customer_99,vehicle_7,HILUX CS DSL 4X4,262854,127701,mining,26
+customer_6,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,55403,energy,28
+customer_2,vehicle_8,GM-S10 CABINE SIMPLES,175555,139301,agribusiness,12
+customer_51,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,36942,mining,16
+customer_13,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,49952,other,6
+customer_32,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,86093,mining,26
+customer_59,vehicle_8,GM-S10 CABINE SIMPLES,175555,120509,energy,26
+customer_89,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,26386,agribusiness,13
+customer_13,vehicle_8,GM-S10 CABINE SIMPLES,175555,133191,other,8
+customer_15,vehicle_7,HILUX CS DSL 4X4,262854,162199,energy,15
+customer_99,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,40346,mining,28
+customer_59,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,64034,energy,20
+customer_37,vehicle_6,TOYOTA-HILUX CS 4X4,172298,128628,agribusiness,23
+customer_76,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,80665,mining,34
+customer_93,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,148764,other,7
+customer_10,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,24252,energy,25
+customer_20,vehicle_8,GM-S10 CABINE SIMPLES,175555,130062,engineering,9
+customer_66,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,57743,energy,24
+customer_21,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,65796,agribusiness,22
+customer_16,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,67047,other,13
+customer_56,vehicle_1,SAVEIRO CS RB MPI,82245,39292,mining,19
+customer_16,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,48980,other,6
+customer_15,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,127447,energy,29
+customer_81,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,41591,energy,25
+customer_24,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,60972,agribusiness,19
+customer_9,vehicle_7,HILUX CS DSL 4X4,262854,125747,mining,26
+customer_15,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,123119,energy,18
+customer_59,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,24705,energy,34
+customer_11,vehicle_1,SAVEIRO CS RB MPI,82245,54419,engineering,14
+customer_60,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,63141,other,12
+customer_13,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,66661,other,15
+customer_57,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,116047,energy,35
+customer_74,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,26606,agribusiness,16
+customer_84,vehicle_8,GM-S10 CABINE SIMPLES,175555,126625,other,15
+customer_26,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,23752,engineering,7
+customer_74,vehicle_1,SAVEIRO CS RB MPI,82245,64274,agribusiness,13
+customer_67,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,107360,energy,20
+customer_37,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,60677,agribusiness,16
+customer_20,vehicle_8,GM-S10 CABINE SIMPLES,175555,122955,engineering,14
+customer_81,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,102732,energy,34
+customer_81,vehicle_6,TOYOTA-HILUX CS 4X4,172298,122517,energy,19
+customer_64,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,129673,agribusiness,22
+customer_4,vehicle_7,HILUX CS DSL 4X4,262854,188081,agribusiness,18
+customer_69,vehicle_8,GM-S10 CABINE SIMPLES,175555,135366,other,8
+customer_40,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,47498,engineering,9
+customer_93,vehicle_8,GM-S10 CABINE SIMPLES,175555,133399,other,17
+customer_81,vehicle_6,TOYOTA-HILUX CS 4X4,172298,119680,energy,30
+customer_2,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,117898,agribusiness,20
+customer_79,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,115186,engineering,8
+customer_17,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,154475,other,11
+customer_42,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,44804,mining,35
+customer_100,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,91370,mining,19
+customer_74,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,159174,agribusiness,21
+customer_20,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,62543,engineering,14
+customer_61,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,46756,agribusiness,22
+customer_14,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,61517,energy,26
+customer_63,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,54262,energy,36
+customer_4,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,60653,agribusiness,24
+customer_3,vehicle_8,GM-S10 CABINE SIMPLES,175555,114811,engineering,13
+customer_33,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,65315,engineering,10
+customer_32,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,73745,mining,32
+customer_24,vehicle_8,GM-S10 CABINE SIMPLES,175555,129675,agribusiness,15
+customer_67,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,47122,energy,27
+customer_98,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,131404,energy,22
+customer_27,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,117277,energy,24
+customer_77,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,132510,energy,24
+customer_60,vehicle_7,HILUX CS DSL 4X4,262854,192805,other,18
+customer_50,vehicle_8,GM-S10 CABINE SIMPLES,175555,93790,mining,17
+customer_36,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,56218,energy,17
+customer_51,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,110816,mining,32
+customer_98,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,21889,energy,15
+customer_4,vehicle_8,GM-S10 CABINE SIMPLES,175555,126477,agribusiness,19
+customer_53,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,28436,mining,17
+customer_23,vehicle_6,TOYOTA-HILUX CS 4X4,172298,82802,mining,20
+customer_48,vehicle_8,GM-S10 CABINE SIMPLES,175555,85602,mining,31
+customer_96,vehicle_1,SAVEIRO CS RB MPI,82245,57687,agribusiness,21
+customer_72,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,29892,mining,32
+customer_79,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,139562,engineering,8
+customer_7,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,66060,other,23
+customer_72,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,47074,mining,23
+customer_56,vehicle_1,SAVEIRO CS RB MPI,82245,40451,mining,27
+customer_93,vehicle_1,SAVEIRO CS RB MPI,82245,61663,other,20
+customer_59,vehicle_8,GM-S10 CABINE SIMPLES,175555,125663,energy,14
+customer_17,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,70205,other,8
+customer_19,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,106836,energy,19
+customer_12,vehicle_6,TOYOTA-HILUX CS 4X4,172298,110325,energy,26
+customer_22,vehicle_8,GM-S10 CABINE SIMPLES,175555,111156,energy,35
+customer_42,vehicle_6,TOYOTA-HILUX CS 4X4,172298,76334,mining,21
+customer_13,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,27244,other,17
+customer_29,vehicle_8,GM-S10 CABINE SIMPLES,175555,79633,mining,29
+customer_17,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,57634,other,9
+customer_82,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,64402,other,17
+customer_61,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,68413,agribusiness,12
+customer_92,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,122856,agribusiness,21
+customer_39,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,25935,agribusiness,13
+customer_17,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,50498,other,16
+customer_37,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,24000,agribusiness,12
+customer_26,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,23503,engineering,13
+customer_44,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,113460,energy,34
+customer_5,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,42751,mining,28
+customer_53,vehicle_6,TOYOTA-HILUX CS 4X4,172298,83386,mining,32
+customer_2,vehicle_7,HILUX CS DSL 4X4,262854,191774,agribusiness,18
+customer_83,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,46838,other,21
+customer_82,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,63058,other,16
+customer_57,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,119917,energy,25
+customer_49,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,130513,energy,20
+customer_79,vehicle_8,GM-S10 CABINE SIMPLES,175555,120107,engineering,6
+customer_78,vehicle_6,TOYOTA-HILUX CS 4X4,172298,80800,mining,16
+customer_38,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,59393,energy,17
+customer_11,vehicle_8,GM-S10 CABINE SIMPLES,175555,126645,engineering,15
+customer_36,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,115535,energy,18
+customer_5,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,39520,mining,27
+customer_18,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,89067,mining,21
+customer_9,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,44883,mining,19
+customer_41,vehicle_8,GM-S10 CABINE SIMPLES,175555,127717,energy,22
+customer_31,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,57822,engineering,9
+customer_30,vehicle_6,TOYOTA-HILUX CS 4X4,172298,125938,agribusiness,18
+customer_93,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,147855,other,19
+customer_70,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,22385,engineering,14
+customer_61,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,120235,agribusiness,21
+customer_99,vehicle_1,SAVEIRO CS RB MPI,82245,36489,mining,32
+customer_44,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,141041,energy,24
+customer_91,vehicle_7,HILUX CS DSL 4X4,262854,184152,engineering,12
+customer_75,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,115830,other,15
+customer_91,vehicle_8,GM-S10 CABINE SIMPLES,175555,129493,engineering,7
+customer_34,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,60787,agribusiness,21
+customer_89,vehicle_6,TOYOTA-HILUX CS 4X4,172298,128613,agribusiness,20
+customer_47,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,32833,mining,16
+customer_16,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,114995,other,15
+customer_4,vehicle_1,SAVEIRO CS RB MPI,82245,62851,agribusiness,12
+customer_36,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,22381,energy,12
+customer_60,vehicle_6,TOYOTA-HILUX CS 4X4,172298,135474,other,8
+customer_59,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,45416,energy,18
+customer_9,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,94836,mining,23
+customer_79,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,57398,engineering,10
+customer_92,vehicle_8,GM-S10 CABINE SIMPLES,175555,137429,agribusiness,23
+customer_55,vehicle_8,GM-S10 CABINE SIMPLES,175555,126220,energy,30
+customer_15,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,60832,energy,32
+customer_66,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,25325,energy,18
+customer_68,vehicle_6,TOYOTA-HILUX CS 4X4,172298,76927,mining,15
+customer_63,vehicle_6,TOYOTA-HILUX CS 4X4,172298,116572,energy,27
+customer_87,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,114814,engineering,10
+customer_94,vehicle_1,SAVEIRO CS RB MPI,82245,56062,engineering,7
+customer_79,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,24642,engineering,6
+customer_48,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,48497,mining,24
+customer_92,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,25427,agribusiness,13
+customer_33,vehicle_8,GM-S10 CABINE SIMPLES,175555,120403,engineering,5
+customer_26,vehicle_7,HILUX CS DSL 4X4,262854,195678,engineering,7
+customer_41,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,124202,energy,34
+customer_90,vehicle_8,GM-S10 CABINE SIMPLES,175555,134642,agribusiness,23
+customer_96,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,25523,agribusiness,16
+customer_98,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,137819,energy,26
+customer_78,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,15988,mining,31
+customer_90,vehicle_7,HILUX CS DSL 4X4,262854,203591,agribusiness,16
+customer_29,vehicle_6,TOYOTA-HILUX CS 4X4,172298,76239,mining,36
+customer_89,vehicle_7,HILUX CS DSL 4X4,262854,193820,agribusiness,15
+customer_12,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,20510,energy,23
+customer_81,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,108805,energy,18
+customer_41,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,42690,energy,18
+customer_17,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,153618,other,17
+customer_48,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,45996,mining,32
+customer_63,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,59159,energy,15
+customer_37,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,45640,agribusiness,14
+customer_32,vehicle_7,HILUX CS DSL 4X4,262854,119663,mining,21
+customer_55,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,60301,energy,22
+customer_41,vehicle_6,TOYOTA-HILUX CS 4X4,172298,128619,energy,15
+customer_97,vehicle_8,GM-S10 CABINE SIMPLES,175555,118468,engineering,7
+customer_96,vehicle_6,TOYOTA-HILUX CS 4X4,172298,127197,agribusiness,19
+customer_88,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,65823,energy,22
+customer_62,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,143435,engineering,8
+customer_76,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,29414,mining,30
+customer_20,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,22976,engineering,7
+customer_19,vehicle_8,GM-S10 CABINE SIMPLES,175555,125914,energy,12
+customer_96,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,46065,agribusiness,14
+customer_74,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,146031,agribusiness,21
+customer_94,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,61984,engineering,9
+customer_21,vehicle_8,GM-S10 CABINE SIMPLES,175555,134117,agribusiness,13
+customer_92,vehicle_7,HILUX CS DSL 4X4,262854,203424,agribusiness,17
+customer_2,vehicle_1,SAVEIRO CS RB MPI,82245,63678,agribusiness,12
+customer_41,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,54736,energy,36
+customer_52,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,137030,engineering,6
+customer_15,vehicle_7,HILUX CS DSL 4X4,262854,167922,energy,14
+customer_86,vehicle_8,GM-S10 CABINE SIMPLES,175555,116867,energy,32
+customer_21,vehicle_1,SAVEIRO CS RB MPI,82245,64171,agribusiness,14
+customer_87,vehicle_6,TOYOTA-HILUX CS 4X4,172298,117804,engineering,8
+customer_3,vehicle_7,HILUX CS DSL 4X4,262854,196722,engineering,8
+customer_43,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,82017,mining,27
+customer_16,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,123309,other,18
+customer_56,vehicle_6,TOYOTA-HILUX CS 4X4,172298,81253,mining,26
+customer_20,vehicle_8,GM-S10 CABINE SIMPLES,175555,119997,engineering,9
+customer_64,vehicle_8,GM-S10 CABINE SIMPLES,175555,126328,agribusiness,13
+customer_97,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,42544,engineering,15
+customer_62,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,65485,engineering,10
+customer_24,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,153856,agribusiness,14
+customer_29,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,33562,mining,18
+customer_84,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,45584,other,16
+customer_22,vehicle_1,SAVEIRO CS RB MPI,82245,55217,energy,19
+customer_40,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,64920,engineering,14
+customer_56,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,40345,mining,29
+customer_73,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,25539,engineering,14
+customer_29,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,84142,mining,18
+customer_14,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,22839,energy,36
+customer_40,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,144935,engineering,11
+customer_34,vehicle_8,GM-S10 CABINE SIMPLES,175555,126914,agribusiness,24
+customer_79,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,56854,engineering,15
+customer_54,vehicle_6,TOYOTA-HILUX CS 4X4,172298,111119,energy,15
+customer_65,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,113071,energy,24
+customer_56,vehicle_7,HILUX CS DSL 4X4,262854,126910,mining,28
+customer_20,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,131490,engineering,14
+customer_11,vehicle_7,HILUX CS DSL 4X4,262854,185979,engineering,8
+customer_69,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,122276,other,10
+customer_14,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,51146,energy,28
+customer_59,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,43384,energy,35
+customer_82,vehicle_1,SAVEIRO CS RB MPI,82245,60351,other,8
+customer_77,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,114137,energy,14
+customer_89,vehicle_7,HILUX CS DSL 4X4,262854,193573,agribusiness,22
+customer_40,vehicle_7,HILUX CS DSL 4X4,262854,185897,engineering,12
+customer_25,vehicle_8,GM-S10 CABINE SIMPLES,175555,123234,other,17
+customer_87,vehicle_6,TOYOTA-HILUX CS 4X4,172298,121728,engineering,12
+customer_1,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,58733,agribusiness,15
+customer_36,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,101120,energy,13
+customer_82,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,119271,other,18
+customer_10,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,59264,energy,34
+customer_6,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,141093,energy,26
+customer_9,vehicle_8,GM-S10 CABINE SIMPLES,175555,91647,mining,17
+customer_64,vehicle_8,GM-S10 CABINE SIMPLES,175555,125182,agribusiness,22
+customer_26,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,23756,engineering,6
+customer_46,vehicle_6,TOYOTA-HILUX CS 4X4,172298,85132,mining,32
+customer_34,vehicle_6,TOYOTA-HILUX CS 4X4,172298,130099,agribusiness,13
+customer_67,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,60797,energy,19
+customer_25,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,60692,other,22
+customer_88,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,136018,energy,12
+customer_84,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,62306,other,24
+customer_96,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,24589,agribusiness,16
+customer_19,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,41407,energy,22
+customer_17,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,119972,other,8
+customer_88,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,143749,energy,27
+customer_2,vehicle_1,SAVEIRO CS RB MPI,82245,57645,agribusiness,18
+customer_37,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,27074,agribusiness,20
+customer_76,vehicle_1,SAVEIRO CS RB MPI,82245,40318,mining,33
+customer_50,vehicle_7,HILUX CS DSL 4X4,262854,131836,mining,25
+customer_25,vehicle_6,TOYOTA-HILUX CS 4X4,172298,132862,other,13
+customer_17,vehicle_8,GM-S10 CABINE SIMPLES,175555,136166,other,8
+customer_50,vehicle_6,TOYOTA-HILUX CS 4X4,172298,78777,mining,20
+customer_71,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,61211,energy,30
+customer_42,vehicle_8,GM-S10 CABINE SIMPLES,175555,81344,mining,17
+customer_13,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,117391,other,8
+customer_72,vehicle_7,HILUX CS DSL 4X4,262854,140002,mining,17
+customer_45,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,112081,energy,33
+customer_95,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,122779,agribusiness,20
+customer_63,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,148052,energy,28
+customer_75,vehicle_1,SAVEIRO CS RB MPI,82245,59531,other,13
+customer_60,vehicle_7,HILUX CS DSL 4X4,262854,195167,other,6
+customer_81,vehicle_7,HILUX CS DSL 4X4,262854,184611,energy,33
+customer_36,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,40335,energy,14
+customer_78,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,41481,mining,29
+customer_11,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,116318,engineering,12
+customer_69,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,63290,other,16
+customer_96,vehicle_7,HILUX CS DSL 4X4,262854,199697,agribusiness,19
+customer_50,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,76263,mining,31
+customer_55,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,40319,energy,29
+customer_60,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,148273,other,15
+customer_33,vehicle_6,TOYOTA-HILUX CS 4X4,172298,123290,engineering,7
+customer_29,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,47646,mining,19
+customer_86,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,118970,energy,16
+customer_62,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,108699,engineering,15
+customer_3,vehicle_8,GM-S10 CABINE SIMPLES,175555,122043,engineering,13
+customer_74,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,25157,agribusiness,17
+customer_88,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,22916,energy,12
+customer_34,vehicle_1,SAVEIRO CS RB MPI,82245,64274,agribusiness,15
+customer_14,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,39645,energy,20
+customer_75,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,47726,other,19
+customer_26,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,107565,engineering,7
+customer_9,vehicle_6,TOYOTA-HILUX CS 4X4,172298,82102,mining,23
+customer_64,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,27170,agribusiness,12
+customer_67,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,118464,energy,12
+customer_13,vehicle_8,GM-S10 CABINE SIMPLES,175555,134827,other,21
+customer_21,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,50711,agribusiness,19
+customer_51,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,32161,mining,31
+customer_18,vehicle_7,HILUX CS DSL 4X4,262854,135199,mining,35
+customer_91,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,45885,engineering,13
+customer_19,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,22165,energy,18
+customer_84,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,156849,other,13
+customer_21,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,51054,agribusiness,15
+customer_60,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,129811,other,14
+customer_84,vehicle_1,SAVEIRO CS RB MPI,82245,61591,other,21
+customer_61,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,67058,agribusiness,12
+customer_61,vehicle_1,SAVEIRO CS RB MPI,82245,64616,agribusiness,17
+customer_98,vehicle_1,SAVEIRO CS RB MPI,82245,58078,energy,29
+customer_30,vehicle_1,SAVEIRO CS RB MPI,82245,63671,agribusiness,14
+customer_63,vehicle_1,SAVEIRO CS RB MPI,82245,56333,energy,17
+customer_85,vehicle_7,HILUX CS DSL 4X4,262854,195697,energy,17
+customer_17,vehicle_8,GM-S10 CABINE SIMPLES,175555,136000,other,7
+customer_16,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,24885,other,7
+customer_90,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,64209,agribusiness,20
+customer_70,vehicle_7,HILUX CS DSL 4X4,262854,178331,engineering,5
+customer_96,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,58826,agribusiness,21
+customer_50,vehicle_8,GM-S10 CABINE SIMPLES,175555,86065,mining,25
+customer_41,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,24166,energy,20
+customer_74,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,62757,agribusiness,22
+customer_27,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,47651,energy,33
+customer_28,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,27087,agribusiness,18
+customer_72,vehicle_8,GM-S10 CABINE SIMPLES,175555,79066,mining,27
+customer_7,vehicle_1,SAVEIRO CS RB MPI,82245,57707,other,17
+customer_94,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,133837,engineering,11
+customer_64,vehicle_8,GM-S10 CABINE SIMPLES,175555,122907,agribusiness,20
+customer_49,vehicle_8,GM-S10 CABINE SIMPLES,175555,111549,energy,34
+customer_50,vehicle_1,SAVEIRO CS RB MPI,82245,41654,mining,26
+customer_85,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,143310,energy,19
+customer_99,vehicle_7,HILUX CS DSL 4X4,262854,123642,mining,31
+customer_92,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,126741,agribusiness,20
+customer_50,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,32458,mining,19
+customer_59,vehicle_7,HILUX CS DSL 4X4,262854,164592,energy,16
+customer_1,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,144064,agribusiness,15
+customer_37,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,46559,agribusiness,18
+customer_73,vehicle_6,TOYOTA-HILUX CS 4X4,172298,128432,engineering,9
+customer_93,vehicle_1,SAVEIRO CS RB MPI,82245,63330,other,16
+customer_91,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,43389,engineering,5
+customer_80,vehicle_6,TOYOTA-HILUX CS 4X4,172298,125768,other,20
+customer_92,vehicle_6,TOYOTA-HILUX CS 4X4,172298,125880,agribusiness,20
+customer_36,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,138949,energy,31
+customer_34,vehicle_6,TOYOTA-HILUX CS 4X4,172298,136156,agribusiness,14
+customer_85,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,98101,energy,26
+customer_29,vehicle_8,GM-S10 CABINE SIMPLES,175555,82903,mining,18
+customer_95,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,63640,agribusiness,22
+customer_70,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,24390,engineering,5
+customer_64,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,159563,agribusiness,23
+customer_55,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,134586,energy,27
+customer_76,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,74891,mining,25
+customer_28,vehicle_1,SAVEIRO CS RB MPI,82245,64945,agribusiness,19
+customer_29,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,89868,mining,16
+customer_71,vehicle_6,TOYOTA-HILUX CS 4X4,172298,107569,energy,25
+customer_25,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,124025,other,8
+customer_93,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,59848,other,18
+customer_60,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,65463,other,15
+customer_48,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,42827,mining,27
+customer_50,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,97732,mining,15
+customer_16,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,157968,other,16
+customer_94,vehicle_8,GM-S10 CABINE SIMPLES,175555,126932,engineering,11
+customer_98,vehicle_7,HILUX CS DSL 4X4,262854,196601,energy,34
+customer_85,vehicle_1,SAVEIRO CS RB MPI,82245,50538,energy,13
+customer_81,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,23987,energy,24
+customer_62,vehicle_8,GM-S10 CABINE SIMPLES,175555,114584,engineering,9
+customer_97,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,62126,engineering,11
+customer_88,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,24606,energy,23
+customer_32,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,76279,mining,34
+customer_40,vehicle_1,SAVEIRO CS RB MPI,82245,55080,engineering,9
+customer_38,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,41989,energy,17
+customer_32,vehicle_8,GM-S10 CABINE SIMPLES,175555,83941,mining,17
+customer_88,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,58786,energy,28
+customer_93,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,45193,other,6
+customer_46,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,34256,mining,21
+customer_84,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,115783,other,10
+customer_31,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,60546,engineering,11
+customer_84,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,67990,other,12
+customer_97,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,145537,engineering,14
+customer_5,vehicle_1,SAVEIRO CS RB MPI,82245,42762,mining,18
+customer_67,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,50271,energy,22
+customer_24,vehicle_1,SAVEIRO CS RB MPI,82245,61121,agribusiness,12
+customer_53,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,77023,mining,17
+customer_34,vehicle_1,SAVEIRO CS RB MPI,82245,59668,agribusiness,18
+customer_81,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,58722,energy,35
+customer_4,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,156159,agribusiness,12
+customer_29,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,44042,mining,36
+customer_16,vehicle_8,GM-S10 CABINE SIMPLES,175555,134361,other,22
+customer_85,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,56692,energy,32
+customer_12,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,25148,energy,24
+customer_4,vehicle_1,SAVEIRO CS RB MPI,82245,59384,agribusiness,13
+customer_20,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,45595,engineering,7
+customer_85,vehicle_8,GM-S10 CABINE SIMPLES,175555,120428,energy,24
+customer_62,vehicle_6,TOYOTA-HILUX CS 4X4,172298,114964,engineering,9
+customer_9,vehicle_1,SAVEIRO CS RB MPI,82245,42685,mining,20
+customer_59,vehicle_1,SAVEIRO CS RB MPI,82245,50421,energy,15
+customer_28,vehicle_1,SAVEIRO CS RB MPI,82245,61608,agribusiness,16
+customer_66,vehicle_8,GM-S10 CABINE SIMPLES,175555,124848,energy,32
+customer_84,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,147259,other,13
+customer_50,vehicle_8,GM-S10 CABINE SIMPLES,175555,84945,mining,18
+customer_86,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,58011,energy,19
+customer_6,vehicle_1,SAVEIRO CS RB MPI,82245,60196,energy,16
+customer_93,vehicle_8,GM-S10 CABINE SIMPLES,175555,136882,other,18
+customer_50,vehicle_8,GM-S10 CABINE SIMPLES,175555,86009,mining,26
+customer_15,vehicle_8,GM-S10 CABINE SIMPLES,175555,124086,energy,21
+customer_18,vehicle_6,TOYOTA-HILUX CS 4X4,172298,77874,mining,31
+customer_17,vehicle_8,GM-S10 CABINE SIMPLES,175555,136798,other,13
+customer_66,vehicle_8,GM-S10 CABINE SIMPLES,175555,111241,energy,17
+customer_68,vehicle_7,HILUX CS DSL 4X4,262854,119318,mining,35
+customer_5,vehicle_1,SAVEIRO CS RB MPI,82245,36794,mining,27
+customer_19,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,51628,energy,33
+customer_24,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,144137,agribusiness,15
+customer_93,vehicle_7,HILUX CS DSL 4X4,262854,206213,other,11
+customer_78,vehicle_8,GM-S10 CABINE SIMPLES,175555,81428,mining,31
+customer_29,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,37502,mining,28
+customer_69,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,64970,other,20
+customer_73,vehicle_1,SAVEIRO CS RB MPI,82245,58793,engineering,8
+customer_3,vehicle_8,GM-S10 CABINE SIMPLES,175555,130609,engineering,9
+customer_88,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,134353,energy,35
+customer_19,vehicle_7,HILUX CS DSL 4X4,262854,189680,energy,18
+customer_24,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,24792,agribusiness,14
+customer_4,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,128080,agribusiness,19
+customer_4,vehicle_7,HILUX CS DSL 4X4,262854,204789,agribusiness,21
+customer_28,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,58361,agribusiness,15
+customer_78,vehicle_8,GM-S10 CABINE SIMPLES,175555,95555,mining,18
+customer_49,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,21370,energy,24
+customer_21,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,64025,agribusiness,12
+customer_34,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,26888,agribusiness,22
+customer_13,vehicle_6,TOYOTA-HILUX CS 4X4,172298,127616,other,10
+customer_53,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,79108,mining,35
+customer_87,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,113095,engineering,9
+customer_45,vehicle_1,SAVEIRO CS RB MPI,82245,59892,energy,20
+customer_3,vehicle_6,TOYOTA-HILUX CS 4X4,172298,118087,engineering,6
+customer_81,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,65076,energy,31
+customer_45,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,21288,energy,17
+customer_38,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,22953,energy,12
+customer_54,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,25263,energy,33
+customer_83,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,24232,other,7
+customer_91,vehicle_8,GM-S10 CABINE SIMPLES,175555,128631,engineering,6
+customer_34,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,26202,agribusiness,12
+customer_83,vehicle_8,GM-S10 CABINE SIMPLES,175555,124471,other,20
+customer_81,vehicle_8,GM-S10 CABINE SIMPLES,175555,108137,energy,30
+customer_32,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,95108,mining,27
+customer_70,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,24173,engineering,10
+customer_68,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,85895,mining,22
+customer_48,vehicle_6,TOYOTA-HILUX CS 4X4,172298,78268,mining,31
+customer_65,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,56751,energy,13
+customer_1,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,46393,agribusiness,21
+customer_99,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,84023,mining,29
+customer_75,vehicle_7,HILUX CS DSL 4X4,262854,193789,other,10
+customer_97,vehicle_1,SAVEIRO CS RB MPI,82245,54635,engineering,13
+customer_23,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,95894,mining,16
+customer_86,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,59433,energy,27
+customer_58,vehicle_6,TOYOTA-HILUX CS 4X4,172298,122604,agribusiness,16
+customer_39,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,65410,agribusiness,14
+customer_66,vehicle_7,HILUX CS DSL 4X4,262854,175300,energy,36
+customer_25,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,25697,other,12
+customer_50,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,16605,mining,25
+customer_74,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,63442,agribusiness,15
+customer_25,vehicle_6,TOYOTA-HILUX CS 4X4,172298,130676,other,9
+customer_42,vehicle_8,GM-S10 CABINE SIMPLES,175555,87265,mining,28
+customer_54,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,61159,energy,30
+customer_20,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,142685,engineering,10
+customer_50,vehicle_8,GM-S10 CABINE SIMPLES,175555,90246,mining,20
+customer_31,vehicle_8,GM-S10 CABINE SIMPLES,175555,123274,engineering,15
+customer_22,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,146634,energy,24
+customer_45,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,57466,energy,32
+customer_89,vehicle_8,GM-S10 CABINE SIMPLES,175555,123043,agribusiness,13
+customer_18,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,86021,mining,25
+customer_43,vehicle_8,GM-S10 CABINE SIMPLES,175555,94615,mining,16
+customer_99,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,76070,mining,21
+customer_72,vehicle_6,TOYOTA-HILUX CS 4X4,172298,92033,mining,32
+customer_7,vehicle_1,SAVEIRO CS RB MPI,82245,59253,other,10
+customer_54,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,129853,energy,27
+customer_82,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,124525,other,11
+customer_74,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,154761,agribusiness,20
+customer_33,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,133954,engineering,6
+customer_35,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,28881,mining,34
+customer_17,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,48369,other,11
+customer_21,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,48275,agribusiness,23
+customer_44,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,24167,energy,29
+customer_63,vehicle_7,HILUX CS DSL 4X4,262854,160861,energy,17
+customer_23,vehicle_8,GM-S10 CABINE SIMPLES,175555,93127,mining,21
+customer_45,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,146147,energy,23
+customer_74,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,48251,agribusiness,15
+customer_11,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,42258,engineering,11
+customer_78,vehicle_7,HILUX CS DSL 4X4,262854,139355,mining,23
+customer_50,vehicle_1,SAVEIRO CS RB MPI,82245,43336,mining,21
+customer_42,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,105471,mining,17
+customer_16,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,67485,other,22
+customer_31,vehicle_6,TOYOTA-HILUX CS 4X4,172298,125616,engineering,8
+customer_36,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,41566,energy,30
+customer_66,vehicle_7,HILUX CS DSL 4X4,262854,158168,energy,31
+customer_75,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,127094,other,14
+customer_52,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,138425,engineering,13
+customer_71,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,44586,energy,26
+customer_99,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,47995,mining,27
+customer_78,vehicle_1,SAVEIRO CS RB MPI,82245,36403,mining,17
+customer_57,vehicle_6,TOYOTA-HILUX CS 4X4,172298,125096,energy,31
+customer_58,vehicle_8,GM-S10 CABINE SIMPLES,175555,126727,agribusiness,19
+customer_80,vehicle_8,GM-S10 CABINE SIMPLES,175555,124734,other,18
+customer_31,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,58307,engineering,12
+customer_72,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,80797,mining,34
+customer_24,vehicle_6,TOYOTA-HILUX CS 4X4,172298,131648,agribusiness,18
+customer_22,vehicle_6,TOYOTA-HILUX CS 4X4,172298,103523,energy,31
+customer_21,vehicle_8,GM-S10 CABINE SIMPLES,175555,128995,agribusiness,19
+customer_6,vehicle_8,GM-S10 CABINE SIMPLES,175555,115545,energy,34
+customer_87,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,53919,engineering,14
+customer_98,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,41419,energy,19
+customer_81,vehicle_1,SAVEIRO CS RB MPI,82245,58934,energy,12
+customer_71,vehicle_1,SAVEIRO CS RB MPI,82245,53170,energy,28
+customer_19,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,147751,energy,35
+customer_20,vehicle_6,TOYOTA-HILUX CS 4X4,172298,122147,engineering,9
+customer_34,vehicle_6,TOYOTA-HILUX CS 4X4,172298,128313,agribusiness,14
+customer_26,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,54043,engineering,14
+customer_65,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,149963,energy,12
+customer_7,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,47477,other,10
+customer_57,vehicle_1,SAVEIRO CS RB MPI,82245,55221,energy,34
+customer_86,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,99386,energy,19
+customer_45,vehicle_7,HILUX CS DSL 4X4,262854,183419,energy,24
+customer_97,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,140635,engineering,11
+customer_93,vehicle_1,SAVEIRO CS RB MPI,82245,61808,other,7
+customer_33,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,114504,engineering,12
+customer_17,vehicle_6,TOYOTA-HILUX CS 4X4,172298,121685,other,6
+customer_81,vehicle_7,HILUX CS DSL 4X4,262854,169588,energy,34
+customer_51,vehicle_6,TOYOTA-HILUX CS 4X4,172298,79153,mining,25
+customer_7,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,46271,other,13
+customer_26,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,106537,engineering,14
+customer_39,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,141837,agribusiness,18
+customer_2,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,46262,agribusiness,13
+customer_52,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,25428,engineering,13
+customer_78,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,90947,mining,15
+customer_26,vehicle_8,GM-S10 CABINE SIMPLES,175555,123713,engineering,14
+customer_3,vehicle_1,SAVEIRO CS RB MPI,82245,61436,engineering,7
+customer_67,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,22768,energy,15
+customer_57,vehicle_6,TOYOTA-HILUX CS 4X4,172298,112009,energy,20
+customer_35,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,34426,mining,32
+customer_40,vehicle_8,GM-S10 CABINE SIMPLES,175555,125955,engineering,10
+customer_25,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,122317,other,14
+customer_62,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,23984,engineering,15
+customer_80,vehicle_8,GM-S10 CABINE SIMPLES,175555,138894,other,19
+customer_77,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,45687,energy,26
+customer_37,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,126658,agribusiness,17
+customer_25,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,64885,other,17
+customer_53,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,31524,mining,23
+customer_90,vehicle_1,SAVEIRO CS RB MPI,82245,60269,agribusiness,19
+customer_56,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,90654,mining,18
+customer_31,vehicle_8,GM-S10 CABINE SIMPLES,175555,126019,engineering,8
+customer_1,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,148385,agribusiness,14
+customer_55,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,41983,energy,17
+customer_69,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,67505,other,18
+customer_35,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,109703,mining,24
+customer_17,vehicle_8,GM-S10 CABINE SIMPLES,175555,134856,other,16
+customer_56,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,43466,mining,16
+customer_72,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,105841,mining,25
+customer_96,vehicle_1,SAVEIRO CS RB MPI,82245,60631,agribusiness,19
+customer_85,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,54118,energy,14
+customer_35,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,36537,mining,35
+customer_5,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,86965,mining,36
+customer_65,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,22739,energy,28
+customer_5,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,28505,mining,32
+customer_43,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,16081,mining,31
+customer_93,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,148481,other,20
+customer_28,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,27223,agribusiness,22
+customer_6,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,42626,energy,20
+customer_72,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,42082,mining,21
+customer_80,vehicle_7,HILUX CS DSL 4X4,262854,193483,other,15
+customer_79,vehicle_6,TOYOTA-HILUX CS 4X4,172298,124081,engineering,8
+customer_86,vehicle_8,GM-S10 CABINE SIMPLES,175555,124896,energy,23
+customer_16,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,27037,other,23
+customer_6,vehicle_1,SAVEIRO CS RB MPI,82245,51734,energy,36
+customer_17,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,26477,other,14
+customer_73,vehicle_6,TOYOTA-HILUX CS 4X4,172298,117201,engineering,13
+customer_42,vehicle_8,GM-S10 CABINE SIMPLES,175555,93212,mining,20
+customer_54,vehicle_1,SAVEIRO CS RB MPI,82245,54415,energy,33
+customer_32,vehicle_1,SAVEIRO CS RB MPI,82245,44232,mining,29
+customer_88,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,20463,energy,35
+customer_79,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,59910,engineering,13
+customer_9,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,17820,mining,25
+customer_19,vehicle_8,GM-S10 CABINE SIMPLES,175555,110737,energy,32
+customer_5,vehicle_1,SAVEIRO CS RB MPI,82245,37426,mining,18
+customer_41,vehicle_8,GM-S10 CABINE SIMPLES,175555,112863,energy,34
+customer_26,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,24269,engineering,14
+customer_20,vehicle_1,SAVEIRO CS RB MPI,82245,57521,engineering,5
+customer_80,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,62169,other,12
+customer_21,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,151760,agribusiness,16
+customer_57,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,62604,energy,36
+customer_75,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,64761,other,23
+customer_64,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,122092,agribusiness,23
+customer_40,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,22458,engineering,9
+customer_83,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,120367,other,7
+customer_59,vehicle_8,GM-S10 CABINE SIMPLES,175555,110792,energy,14
+customer_36,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,118908,energy,24
+customer_95,vehicle_1,SAVEIRO CS RB MPI,82245,57975,agribusiness,20
+customer_14,vehicle_1,SAVEIRO CS RB MPI,82245,49752,energy,36
+customer_98,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,126209,energy,12
+customer_66,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,45306,energy,15
+customer_27,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,58162,energy,19
+customer_36,vehicle_6,TOYOTA-HILUX CS 4X4,172298,113217,energy,29
+customer_3,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,61651,engineering,6
+customer_50,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,42755,mining,25
+customer_50,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,90626,mining,24
+customer_96,vehicle_8,GM-S10 CABINE SIMPLES,175555,130344,agribusiness,18
+customer_50,vehicle_8,GM-S10 CABINE SIMPLES,175555,87877,mining,25
+customer_5,vehicle_6,TOYOTA-HILUX CS 4X4,172298,89605,mining,34
+customer_38,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,62222,energy,20
+customer_11,vehicle_1,SAVEIRO CS RB MPI,82245,60183,engineering,15
+customer_66,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,128635,energy,17
+customer_96,vehicle_8,GM-S10 CABINE SIMPLES,175555,138550,agribusiness,22
+customer_100,vehicle_8,GM-S10 CABINE SIMPLES,175555,86341,mining,26
+customer_68,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,45981,mining,30
+customer_2,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,57347,agribusiness,12
+customer_84,vehicle_8,GM-S10 CABINE SIMPLES,175555,140359,other,24
+customer_70,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,61858,engineering,9
+customer_41,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,40724,energy,20
+customer_33,vehicle_6,TOYOTA-HILUX CS 4X4,172298,112946,engineering,5
+customer_34,vehicle_7,HILUX CS DSL 4X4,262854,193600,agribusiness,15
+customer_96,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,142107,agribusiness,22
+customer_68,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,15664,mining,16
+customer_36,vehicle_8,GM-S10 CABINE SIMPLES,175555,108655,energy,24
+customer_40,vehicle_8,GM-S10 CABINE SIMPLES,175555,120369,engineering,14
+customer_67,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,141215,energy,15
+customer_66,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,60975,energy,29
+customer_30,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,46865,agribusiness,14
+customer_37,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,64910,agribusiness,20
+customer_58,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,59053,agribusiness,13
+customer_69,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,49285,other,6
+customer_53,vehicle_7,HILUX CS DSL 4X4,262854,122395,mining,31
+customer_40,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,45616,engineering,15
+customer_6,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,46092,energy,13
+customer_1,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,126583,agribusiness,19
+customer_10,vehicle_6,TOYOTA-HILUX CS 4X4,172298,105096,energy,26
+customer_89,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,49763,agribusiness,22
+customer_36,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,53568,energy,24
+customer_32,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,34826,mining,31
+customer_21,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,58733,agribusiness,18
+customer_21,vehicle_7,HILUX CS DSL 4X4,262854,192393,agribusiness,24
+customer_95,vehicle_7,HILUX CS DSL 4X4,262854,200276,agribusiness,21
+customer_31,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,105875,engineering,14
+customer_89,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,70380,agribusiness,22
+customer_83,vehicle_8,GM-S10 CABINE SIMPLES,175555,129410,other,7
+customer_15,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,21504,energy,26
+customer_38,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,64271,energy,13
+customer_28,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,25327,agribusiness,16
+customer_84,vehicle_7,HILUX CS DSL 4X4,262854,192112,other,15
+customer_59,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,22059,energy,34
+customer_28,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,117865,agribusiness,12
+customer_65,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,146271,energy,14
+customer_37,vehicle_7,HILUX CS DSL 4X4,262854,210202,agribusiness,23
+customer_82,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,69641,other,15
+customer_80,vehicle_8,GM-S10 CABINE SIMPLES,175555,131297,other,7
+customer_42,vehicle_8,GM-S10 CABINE SIMPLES,175555,95781,mining,29
+customer_35,vehicle_8,GM-S10 CABINE SIMPLES,175555,82068,mining,27
+customer_76,vehicle_1,SAVEIRO CS RB MPI,82245,37979,mining,36
+customer_63,vehicle_8,GM-S10 CABINE SIMPLES,175555,111999,energy,31
+customer_88,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,111836,energy,17
+customer_15,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,49679,energy,25
+customer_99,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,16390,mining,19
+customer_19,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,39696,energy,20
+customer_84,vehicle_6,TOYOTA-HILUX CS 4X4,172298,127324,other,14
+customer_78,vehicle_6,TOYOTA-HILUX CS 4X4,172298,88887,mining,23
+customer_51,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,87419,mining,24
+customer_1,vehicle_1,SAVEIRO CS RB MPI,82245,60003,agribusiness,24
+customer_79,vehicle_1,SAVEIRO CS RB MPI,82245,61094,engineering,11
+customer_51,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,15528,mining,21
+customer_93,vehicle_7,HILUX CS DSL 4X4,262854,189306,other,15
+customer_76,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,74543,mining,18
+customer_39,vehicle_6,TOYOTA-HILUX CS 4X4,172298,133889,agribusiness,17
+customer_51,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,109289,mining,27
+customer_6,vehicle_8,GM-S10 CABINE SIMPLES,175555,120551,energy,30
+customer_76,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,31995,mining,15
+customer_56,vehicle_6,TOYOTA-HILUX CS 4X4,172298,93310,mining,27
+customer_88,vehicle_1,SAVEIRO CS RB MPI,82245,49868,energy,29
+customer_2,vehicle_6,TOYOTA-HILUX CS 4X4,172298,137134,agribusiness,14
+customer_17,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,127157,other,6
+customer_34,vehicle_7,HILUX CS DSL 4X4,262854,184554,agribusiness,12
+customer_94,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,142030,engineering,8
+customer_61,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,121613,agribusiness,19
+customer_78,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,93733,mining,35
+customer_55,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,57520,energy,23
+customer_24,vehicle_6,TOYOTA-HILUX CS 4X4,172298,133794,agribusiness,16
+customer_16,vehicle_6,TOYOTA-HILUX CS 4X4,172298,120829,other,8
+customer_57,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,20822,energy,23
+customer_11,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,23726,engineering,12
+customer_81,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,103887,energy,33
+customer_64,vehicle_1,SAVEIRO CS RB MPI,82245,63066,agribusiness,24
+customer_79,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,43493,engineering,8
+customer_15,vehicle_6,TOYOTA-HILUX CS 4X4,172298,126820,energy,35
+customer_99,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,34926,mining,32
+customer_50,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,73335,mining,15
+customer_8,vehicle_1,SAVEIRO CS RB MPI,82245,39476,mining,30
+customer_33,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,65801,engineering,14
+customer_95,vehicle_1,SAVEIRO CS RB MPI,82245,62209,agribusiness,16
+customer_13,vehicle_1,SAVEIRO CS RB MPI,82245,61029,other,9
+customer_66,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,120267,energy,34
+customer_29,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,89302,mining,17
+customer_81,vehicle_7,HILUX CS DSL 4X4,262854,193881,energy,24
+customer_22,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,43824,energy,19
+customer_79,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,62824,engineering,15
+customer_15,vehicle_1,SAVEIRO CS RB MPI,82245,52760,energy,35
+customer_68,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,16268,mining,22
+customer_52,vehicle_6,TOYOTA-HILUX CS 4X4,172298,122020,engineering,9
+customer_32,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,33186,mining,26
+customer_55,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,103814,energy,22
+customer_83,vehicle_8,GM-S10 CABINE SIMPLES,175555,130523,other,8
+customer_89,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,121675,agribusiness,13
+customer_66,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,60879,energy,31
+customer_19,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,63980,energy,14
+customer_28,vehicle_1,SAVEIRO CS RB MPI,82245,64975,agribusiness,14
+customer_71,vehicle_6,TOYOTA-HILUX CS 4X4,172298,112850,energy,28
+customer_80,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,49944,other,14
+customer_20,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,105823,engineering,8
+customer_68,vehicle_6,TOYOTA-HILUX CS 4X4,172298,84029,mining,36
+customer_30,vehicle_1,SAVEIRO CS RB MPI,82245,59243,agribusiness,22
+customer_29,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,39553,mining,16
+customer_4,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,25717,agribusiness,18
+customer_82,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,48900,other,8
+customer_52,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,42829,engineering,12
+customer_38,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,143825,energy,16
+customer_36,vehicle_6,TOYOTA-HILUX CS 4X4,172298,105952,energy,34
+customer_47,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,17573,mining,27
+customer_54,vehicle_8,GM-S10 CABINE SIMPLES,175555,120271,energy,15
+customer_62,vehicle_6,TOYOTA-HILUX CS 4X4,172298,127962,engineering,6
+customer_85,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,129795,energy,25
+customer_32,vehicle_7,HILUX CS DSL 4X4,262854,139389,mining,15
+customer_27,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,110851,energy,25
+customer_85,vehicle_8,GM-S10 CABINE SIMPLES,175555,119166,energy,26
+customer_74,vehicle_7,HILUX CS DSL 4X4,262854,194761,agribusiness,17
+customer_68,vehicle_7,HILUX CS DSL 4X4,262854,137664,mining,22
+customer_65,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,138575,energy,20
+customer_87,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,106591,engineering,6
+customer_94,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,110252,engineering,15
+customer_43,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,18098,mining,30
+customer_70,vehicle_1,SAVEIRO CS RB MPI,82245,56113,engineering,13
+customer_57,vehicle_7,HILUX CS DSL 4X4,262854,168155,energy,29
+customer_71,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,142626,energy,21
+customer_80,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,152960,other,8
+customer_10,vehicle_6,TOYOTA-HILUX CS 4X4,172298,126929,energy,15
+customer_14,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,53191,energy,29
+customer_52,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,58216,engineering,15
+customer_74,vehicle_1,SAVEIRO CS RB MPI,82245,63849,agribusiness,21
+customer_29,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,84848,mining,18
+customer_87,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,25111,engineering,14
+customer_1,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,147751,agribusiness,20
+customer_53,vehicle_1,SAVEIRO CS RB MPI,82245,42076,mining,15
+customer_8,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,102260,mining,19
+customer_76,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,43230,mining,24
+customer_75,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,61616,other,13
+customer_40,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,22640,engineering,15
+customer_73,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,22646,engineering,10
+customer_97,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,117889,engineering,13
+customer_34,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,66889,agribusiness,19
+customer_17,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,68819,other,13
+customer_26,vehicle_8,GM-S10 CABINE SIMPLES,175555,125345,engineering,15
+customer_100,vehicle_1,SAVEIRO CS RB MPI,82245,37154,mining,16
+customer_50,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,42018,mining,17
+customer_28,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,124708,agribusiness,24
+customer_72,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,38355,mining,21
+customer_42,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,29115,mining,29
+customer_37,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,58132,agribusiness,18
+customer_81,vehicle_8,GM-S10 CABINE SIMPLES,175555,105831,energy,19
+customer_61,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,65539,agribusiness,23
+customer_14,vehicle_1,SAVEIRO CS RB MPI,82245,59815,energy,31
+customer_8,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,36995,mining,36
+customer_31,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,150844,engineering,13
+customer_72,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,40814,mining,31
+customer_44,vehicle_1,SAVEIRO CS RB MPI,82245,55739,energy,13
+customer_33,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,105545,engineering,15
+customer_19,vehicle_8,GM-S10 CABINE SIMPLES,175555,123147,energy,13
+customer_39,vehicle_6,TOYOTA-HILUX CS 4X4,172298,120815,agribusiness,24
+customer_1,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,68135,agribusiness,13
+customer_50,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,80177,mining,25
+customer_17,vehicle_1,SAVEIRO CS RB MPI,82245,63484,other,7
+customer_8,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,39095,mining,18
+customer_69,vehicle_7,HILUX CS DSL 4X4,262854,189229,other,17
+customer_94,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,25094,engineering,15
+customer_66,vehicle_8,GM-S10 CABINE SIMPLES,175555,108799,energy,21
+customer_30,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,57931,agribusiness,20
+customer_42,vehicle_8,GM-S10 CABINE SIMPLES,175555,85142,mining,28
+customer_100,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,95699,mining,23
+customer_18,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,77146,mining,27
+customer_50,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,29952,mining,33
+customer_94,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,139322,engineering,7
+customer_39,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,49326,agribusiness,22
+customer_43,vehicle_6,TOYOTA-HILUX CS 4X4,172298,81229,mining,21
+customer_18,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,83786,mining,21
+customer_13,vehicle_6,TOYOTA-HILUX CS 4X4,172298,124837,other,13
+customer_19,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,50612,energy,25
+customer_57,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,61756,energy,29
+customer_92,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,24015,agribusiness,21
+customer_10,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,40899,energy,36
+customer_71,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,101661,energy,23
+customer_5,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,85483,mining,26
+customer_1,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,27029,agribusiness,19
+customer_79,vehicle_1,SAVEIRO CS RB MPI,82245,60716,engineering,14
+customer_45,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,41951,energy,25
+customer_87,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,141687,engineering,9
+customer_38,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,101308,energy,13
+customer_33,vehicle_7,HILUX CS DSL 4X4,262854,181654,engineering,6
+customer_14,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,55059,energy,20
+customer_87,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,57033,engineering,5
+customer_90,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,64673,agribusiness,24
+customer_34,vehicle_1,SAVEIRO CS RB MPI,82245,63184,agribusiness,22
+customer_88,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,118810,energy,23
+customer_58,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,122187,agribusiness,17
+customer_54,vehicle_7,HILUX CS DSL 4X4,262854,161062,energy,26
+customer_30,vehicle_8,GM-S10 CABINE SIMPLES,175555,125500,agribusiness,19
+customer_40,vehicle_8,GM-S10 CABINE SIMPLES,175555,125531,engineering,7
+customer_12,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,148782,energy,24
+customer_39,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,125527,agribusiness,24
+customer_67,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,65296,energy,35
+customer_22,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,22868,energy,30
+customer_85,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,43823,energy,20
+customer_13,vehicle_6,TOYOTA-HILUX CS 4X4,172298,121101,other,10
+customer_98,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,101076,energy,20
+customer_48,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,96427,mining,28
+customer_41,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,41610,energy,32
+customer_76,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,16684,mining,34
+customer_75,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,118814,other,15
+customer_24,vehicle_8,GM-S10 CABINE SIMPLES,175555,126458,agribusiness,17
+customer_73,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,44073,engineering,14
+customer_79,vehicle_1,SAVEIRO CS RB MPI,82245,54448,engineering,11
+customer_57,vehicle_6,TOYOTA-HILUX CS 4X4,172298,105825,energy,21
+customer_51,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,99133,mining,15
+customer_19,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,24643,energy,34
+customer_53,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,16071,mining,27
+customer_18,vehicle_8,GM-S10 CABINE SIMPLES,175555,91799,mining,23
+customer_66,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,53874,energy,25
+customer_33,vehicle_6,TOYOTA-HILUX CS 4X4,172298,122198,engineering,11
+customer_98,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,109024,energy,25
+customer_27,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,50924,energy,34
+customer_27,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,44770,energy,26
+customer_32,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,41981,mining,22
+customer_14,vehicle_6,TOYOTA-HILUX CS 4X4,172298,124842,energy,20
+customer_42,vehicle_6,TOYOTA-HILUX CS 4X4,172298,92255,mining,20
+customer_89,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,24742,agribusiness,18
+customer_82,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,160989,other,21
+customer_40,vehicle_6,TOYOTA-HILUX CS 4X4,172298,123064,engineering,7
+customer_71,vehicle_6,TOYOTA-HILUX CS 4X4,172298,106452,energy,24
+customer_5,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,36574,mining,30
+customer_9,vehicle_8,GM-S10 CABINE SIMPLES,175555,87902,mining,25
+customer_96,vehicle_7,HILUX CS DSL 4X4,262854,188057,agribusiness,19
+customer_92,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,124942,agribusiness,21
+customer_10,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,120115,energy,20
+customer_25,vehicle_1,SAVEIRO CS RB MPI,82245,58706,other,23
+customer_33,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,114395,engineering,13
+customer_15,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,135703,energy,14
+customer_21,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,24976,agribusiness,19
+customer_96,vehicle_7,HILUX CS DSL 4X4,262854,186902,agribusiness,20
+customer_52,vehicle_1,SAVEIRO CS RB MPI,82245,56823,engineering,6
+customer_61,vehicle_1,SAVEIRO CS RB MPI,82245,63675,agribusiness,17
+customer_59,vehicle_1,SAVEIRO CS RB MPI,82245,58886,energy,29
+customer_65,vehicle_7,HILUX CS DSL 4X4,262854,186765,energy,21
+customer_37,vehicle_1,SAVEIRO CS RB MPI,82245,63763,agribusiness,22
+customer_49,vehicle_6,TOYOTA-HILUX CS 4X4,172298,123491,energy,27
+customer_81,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,38626,energy,23
+customer_67,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,122633,energy,29
+customer_42,vehicle_1,SAVEIRO CS RB MPI,82245,43071,mining,20
+customer_47,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,37369,mining,23
+customer_31,vehicle_8,GM-S10 CABINE SIMPLES,175555,118879,engineering,10
+customer_60,vehicle_1,SAVEIRO CS RB MPI,82245,64274,other,22
+customer_81,vehicle_1,SAVEIRO CS RB MPI,82245,54804,energy,33
+customer_11,vehicle_6,TOYOTA-HILUX CS 4X4,172298,127717,engineering,5
+customer_3,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,112405,engineering,6
+customer_36,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,55546,energy,32
+customer_60,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,124072,other,8
+customer_86,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,57892,energy,25
+customer_72,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,42049,mining,16
+customer_100,vehicle_7,HILUX CS DSL 4X4,262854,133896,mining,16
+customer_62,vehicle_1,SAVEIRO CS RB MPI,82245,57723,engineering,12
+customer_5,vehicle_6,TOYOTA-HILUX CS 4X4,172298,83534,mining,25
+customer_58,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,148167,agribusiness,23
+customer_68,vehicle_8,GM-S10 CABINE SIMPLES,175555,88655,mining,20
+customer_31,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,45536,engineering,13
+customer_7,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,44925,other,7
+customer_62,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,24828,engineering,11
+customer_34,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,50481,agribusiness,14
+customer_33,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,119118,engineering,8
+customer_84,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,149312,other,17
+customer_84,vehicle_6,TOYOTA-HILUX CS 4X4,172298,122843,other,11
+customer_55,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,130446,energy,35
+customer_97,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,120863,engineering,7
+customer_65,vehicle_7,HILUX CS DSL 4X4,262854,182487,energy,28
+customer_84,vehicle_1,SAVEIRO CS RB MPI,82245,61716,other,24
+customer_40,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,145318,engineering,11
+customer_100,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,43734,mining,24
+customer_39,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,26149,agribusiness,20
+customer_91,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,25087,engineering,7
+customer_83,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,63097,other,6
+customer_49,vehicle_7,HILUX CS DSL 4X4,262854,195325,energy,18
+customer_42,vehicle_1,SAVEIRO CS RB MPI,82245,40587,mining,32
+customer_70,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,136621,engineering,10
+customer_22,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,21040,energy,24
+customer_76,vehicle_7,HILUX CS DSL 4X4,262854,133694,mining,28
+customer_28,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,50242,agribusiness,20
+customer_57,vehicle_1,SAVEIRO CS RB MPI,82245,54948,energy,32
+customer_55,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,22796,energy,32
+customer_31,vehicle_1,SAVEIRO CS RB MPI,82245,58198,engineering,9
+customer_27,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,59723,energy,31
+customer_16,vehicle_1,SAVEIRO CS RB MPI,82245,63258,other,7
+customer_41,vehicle_8,GM-S10 CABINE SIMPLES,175555,112304,energy,17
+customer_71,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,55712,energy,20
+customer_4,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,155679,agribusiness,20
+customer_59,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,49075,energy,29
+customer_19,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,115487,energy,16
+customer_16,vehicle_6,TOYOTA-HILUX CS 4X4,172298,124971,other,23
+customer_72,vehicle_7,HILUX CS DSL 4X4,262854,125843,mining,36
+customer_72,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,48190,mining,15
+customer_73,vehicle_6,TOYOTA-HILUX CS 4X4,172298,121982,engineering,9
+customer_53,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,40032,mining,25
+customer_13,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,69237,other,14
+customer_45,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,51486,energy,16
+customer_7,vehicle_8,GM-S10 CABINE SIMPLES,175555,136013,other,18
+customer_66,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,58513,energy,27
+customer_76,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,17280,mining,22
+customer_14,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,107008,energy,26
+customer_67,vehicle_6,TOYOTA-HILUX CS 4X4,172298,127474,energy,34
+customer_27,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,25434,energy,22
+customer_93,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,63539,other,16
+customer_61,vehicle_8,GM-S10 CABINE SIMPLES,175555,131300,agribusiness,23
+customer_65,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,56284,energy,21
+customer_94,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,54027,engineering,8
+customer_91,vehicle_7,HILUX CS DSL 4X4,262854,181713,engineering,14
+customer_63,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,65623,energy,15
+customer_65,vehicle_1,SAVEIRO CS RB MPI,82245,52756,energy,21
+customer_73,vehicle_8,GM-S10 CABINE SIMPLES,175555,121157,engineering,14
+customer_6,vehicle_7,HILUX CS DSL 4X4,262854,183831,energy,23
+customer_43,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,94829,mining,33
+customer_69,vehicle_6,TOYOTA-HILUX CS 4X4,172298,128123,other,8
+customer_12,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,45906,energy,29
+customer_30,vehicle_8,GM-S10 CABINE SIMPLES,175555,139696,agribusiness,12
+customer_47,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,39320,mining,36
+customer_37,vehicle_8,GM-S10 CABINE SIMPLES,175555,123148,agribusiness,21
+customer_97,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,63263,engineering,13
+customer_72,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,38302,mining,31
+customer_34,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,65116,agribusiness,12
+customer_52,vehicle_1,SAVEIRO CS RB MPI,82245,56621,engineering,13
+customer_59,vehicle_1,SAVEIRO CS RB MPI,82245,59269,energy,24
+customer_42,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,81530,mining,27
+customer_59,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,39221,energy,34
+customer_68,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,85511,mining,24
+customer_17,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,64706,other,15
+customer_83,vehicle_1,SAVEIRO CS RB MPI,82245,63647,other,6
+customer_56,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,31572,mining,35
+customer_32,vehicle_1,SAVEIRO CS RB MPI,82245,40509,mining,34
+customer_3,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,24952,engineering,9
+customer_95,vehicle_8,GM-S10 CABINE SIMPLES,175555,134380,agribusiness,21
+customer_72,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,44052,mining,21
+customer_83,vehicle_1,SAVEIRO CS RB MPI,82245,65627,other,22
+customer_45,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,55904,energy,17
+customer_36,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,53916,energy,16
+customer_20,vehicle_7,HILUX CS DSL 4X4,262854,176406,engineering,8
+customer_56,vehicle_7,HILUX CS DSL 4X4,262854,126813,mining,30
+customer_60,vehicle_8,GM-S10 CABINE SIMPLES,175555,127758,other,10
+customer_26,vehicle_7,HILUX CS DSL 4X4,262854,173590,engineering,9
+customer_87,vehicle_1,SAVEIRO CS RB MPI,82245,59032,engineering,13
+customer_38,vehicle_8,GM-S10 CABINE SIMPLES,175555,114825,energy,12
+customer_31,vehicle_6,TOYOTA-HILUX CS 4X4,172298,123614,engineering,9
+customer_12,vehicle_1,SAVEIRO CS RB MPI,82245,49774,energy,13
+customer_88,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,22761,energy,20
+customer_95,vehicle_7,HILUX CS DSL 4X4,262854,186738,agribusiness,23
+customer_10,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,60762,energy,26
+customer_74,vehicle_6,TOYOTA-HILUX CS 4X4,172298,121188,agribusiness,17
+customer_65,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,101070,energy,21
+customer_91,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,47746,engineering,11
+customer_17,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,67484,other,13
+customer_54,vehicle_8,GM-S10 CABINE SIMPLES,175555,114962,energy,23
+customer_23,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,109378,mining,23
+customer_61,vehicle_1,SAVEIRO CS RB MPI,82245,63980,agribusiness,21
+customer_50,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,43495,mining,29
+customer_6,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,43269,energy,12
+customer_11,vehicle_8,GM-S10 CABINE SIMPLES,175555,125501,engineering,15
+customer_47,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,92287,mining,17
+customer_93,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,62344,other,22
+customer_74,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,48568,agribusiness,23
+customer_58,vehicle_6,TOYOTA-HILUX CS 4X4,172298,123859,agribusiness,21
+customer_15,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,61492,energy,32
+customer_17,vehicle_7,HILUX CS DSL 4X4,262854,196449,other,7
+customer_45,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,63161,energy,17
+customer_33,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,107570,engineering,13
+customer_18,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,42708,mining,34
+customer_68,vehicle_8,GM-S10 CABINE SIMPLES,175555,95749,mining,31
+customer_41,vehicle_8,GM-S10 CABINE SIMPLES,175555,123078,energy,27
+customer_10,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,144215,energy,32
+customer_40,vehicle_1,SAVEIRO CS RB MPI,82245,60111,engineering,11
+customer_88,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,53574,energy,15
+customer_82,vehicle_7,HILUX CS DSL 4X4,262854,186071,other,24
+customer_36,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,144091,energy,36
+customer_99,vehicle_8,GM-S10 CABINE SIMPLES,175555,82926,mining,29
+customer_22,vehicle_6,TOYOTA-HILUX CS 4X4,172298,109158,energy,13
+customer_54,vehicle_1,SAVEIRO CS RB MPI,82245,56860,energy,16
+customer_21,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,58644,agribusiness,20
+customer_36,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,46951,energy,23
+customer_62,vehicle_1,SAVEIRO CS RB MPI,82245,58039,engineering,13
+customer_95,vehicle_7,HILUX CS DSL 4X4,262854,200700,agribusiness,24
+customer_99,vehicle_1,SAVEIRO CS RB MPI,82245,39146,mining,23
+customer_79,vehicle_1,SAVEIRO CS RB MPI,82245,53963,engineering,12
+customer_28,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,51126,agribusiness,18
+customer_35,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,75769,mining,16
+customer_28,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,144310,agribusiness,20
+customer_45,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,117018,energy,18
+customer_17,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,125837,other,22
+customer_13,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,26142,other,24
+customer_37,vehicle_6,TOYOTA-HILUX CS 4X4,172298,123085,agribusiness,14
+customer_66,vehicle_7,HILUX CS DSL 4X4,262854,158034,energy,12
+customer_19,vehicle_7,HILUX CS DSL 4X4,262854,173995,energy,29
+customer_69,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,60761,other,14
+customer_70,vehicle_7,HILUX CS DSL 4X4,262854,194006,engineering,13
+customer_33,vehicle_1,SAVEIRO CS RB MPI,82245,55307,engineering,7
+customer_89,vehicle_1,SAVEIRO CS RB MPI,82245,59843,agribusiness,16
+customer_45,vehicle_6,TOYOTA-HILUX CS 4X4,172298,109582,energy,30
+customer_59,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,22127,energy,36
+customer_23,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,88837,mining,34
+customer_23,vehicle_1,SAVEIRO CS RB MPI,82245,36866,mining,29
+customer_42,vehicle_8,GM-S10 CABINE SIMPLES,175555,92988,mining,23
+customer_40,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,47836,engineering,13
+customer_34,vehicle_8,GM-S10 CABINE SIMPLES,175555,122943,agribusiness,19
+customer_18,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,39581,mining,23
+customer_50,vehicle_8,GM-S10 CABINE SIMPLES,175555,80934,mining,36
+customer_53,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,44311,mining,36
+customer_70,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,60197,engineering,15
+customer_95,vehicle_7,HILUX CS DSL 4X4,262854,190829,agribusiness,18
+customer_5,vehicle_1,SAVEIRO CS RB MPI,82245,39737,mining,21
+customer_21,vehicle_7,HILUX CS DSL 4X4,262854,203832,agribusiness,20
+customer_15,vehicle_6,TOYOTA-HILUX CS 4X4,172298,125122,energy,22
+customer_39,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,69790,agribusiness,22
+customer_3,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,42738,engineering,9
+customer_43,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,96818,mining,30
+customer_13,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,60513,other,17
+customer_25,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,26097,other,20
+customer_89,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,64205,agribusiness,22
+customer_85,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,54703,energy,35
+customer_15,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,100932,energy,15
+customer_7,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,126053,other,24
+customer_83,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,50556,other,24
+customer_21,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,57352,agribusiness,13
+customer_70,vehicle_8,GM-S10 CABINE SIMPLES,175555,114822,engineering,11
+customer_55,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,103123,energy,34
+customer_59,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,47221,energy,22
+customer_72,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,73120,mining,30
+customer_96,vehicle_6,TOYOTA-HILUX CS 4X4,172298,135710,agribusiness,12
+customer_50,vehicle_1,SAVEIRO CS RB MPI,82245,36511,mining,29
+customer_51,vehicle_7,HILUX CS DSL 4X4,262854,119319,mining,26
+customer_20,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,44631,engineering,11
+customer_97,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,22469,engineering,10
+customer_72,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,15884,mining,31
+customer_54,vehicle_1,SAVEIRO CS RB MPI,82245,57894,energy,16
+customer_14,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,21029,energy,30
+customer_92,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,60686,agribusiness,24
+customer_18,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,29115,mining,30
+customer_10,vehicle_8,GM-S10 CABINE SIMPLES,175555,125129,energy,26
+customer_43,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,16801,mining,34
+customer_60,vehicle_6,TOYOTA-HILUX CS 4X4,172298,123157,other,22
+customer_29,vehicle_1,SAVEIRO CS RB MPI,82245,41925,mining,35
+customer_6,vehicle_6,TOYOTA-HILUX CS 4X4,172298,116195,energy,15
+customer_31,vehicle_7,HILUX CS DSL 4X4,262854,189669,engineering,10
+customer_13,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,59579,other,22
+customer_71,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,56241,energy,32
+customer_40,vehicle_6,TOYOTA-HILUX CS 4X4,172298,127393,engineering,8
+customer_92,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,126915,agribusiness,17
+customer_74,vehicle_7,HILUX CS DSL 4X4,262854,200724,agribusiness,24
+customer_77,vehicle_1,SAVEIRO CS RB MPI,82245,54769,energy,36
+customer_30,vehicle_6,TOYOTA-HILUX CS 4X4,172298,125443,agribusiness,19
+customer_94,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,55146,engineering,5
+customer_39,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,63349,agribusiness,24
+customer_93,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,49109,other,10
+customer_74,vehicle_8,GM-S10 CABINE SIMPLES,175555,139853,agribusiness,15
+customer_76,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,38848,mining,25
+customer_55,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,21063,energy,33
+customer_15,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,61262,energy,12
+customer_7,vehicle_8,GM-S10 CABINE SIMPLES,175555,131680,other,23
+customer_55,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,114127,energy,18
+customer_66,vehicle_8,GM-S10 CABINE SIMPLES,175555,130053,energy,29
+customer_19,vehicle_1,SAVEIRO CS RB MPI,82245,51521,energy,27
+customer_32,vehicle_1,SAVEIRO CS RB MPI,82245,44795,mining,36
+customer_81,vehicle_8,GM-S10 CABINE SIMPLES,175555,125828,energy,22
+customer_53,vehicle_6,TOYOTA-HILUX CS 4X4,172298,93823,mining,35
+customer_40,vehicle_8,GM-S10 CABINE SIMPLES,175555,126761,engineering,13
+customer_79,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,25388,engineering,6
+customer_4,vehicle_1,SAVEIRO CS RB MPI,82245,63101,agribusiness,16
+customer_51,vehicle_8,GM-S10 CABINE SIMPLES,175555,79011,mining,27
+customer_8,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,30804,mining,30
+customer_19,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,45779,energy,17
+customer_37,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,141726,agribusiness,16
+customer_77,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,53764,energy,34
+customer_92,vehicle_8,GM-S10 CABINE SIMPLES,175555,138540,agribusiness,21
+customer_14,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,115246,energy,14
+customer_30,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,58355,agribusiness,22
+customer_62,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,136102,engineering,10
+customer_37,vehicle_8,GM-S10 CABINE SIMPLES,175555,127434,agribusiness,12
+customer_3,vehicle_1,SAVEIRO CS RB MPI,82245,54007,engineering,7
+customer_81,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,58526,energy,18
+customer_31,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,132193,engineering,11
+customer_95,vehicle_8,GM-S10 CABINE SIMPLES,175555,134124,agribusiness,13
+customer_91,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,42807,engineering,14
+customer_63,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,38998,energy,26
+customer_7,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,66329,other,9
+customer_52,vehicle_6,TOYOTA-HILUX CS 4X4,172298,113778,engineering,10
+customer_58,vehicle_1,SAVEIRO CS RB MPI,82245,60244,agribusiness,22
+customer_32,vehicle_1,SAVEIRO CS RB MPI,82245,41818,mining,26
+customer_37,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,64419,agribusiness,23
+customer_93,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,49942,other,13
+customer_21,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,63310,agribusiness,13
+customer_72,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,44410,mining,21
+customer_11,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,24286,engineering,6
+customer_68,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,44126,mining,26
+customer_69,vehicle_7,HILUX CS DSL 4X4,262854,196051,other,23
+customer_92,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,150567,agribusiness,23
+customer_14,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,60646,energy,34
+customer_27,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,63651,energy,29
+customer_26,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,59283,engineering,14
+customer_54,vehicle_6,TOYOTA-HILUX CS 4X4,172298,114160,energy,28
+customer_55,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,22149,energy,26
+customer_6,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,106069,energy,13
+customer_100,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,16765,mining,23
+customer_69,vehicle_7,HILUX CS DSL 4X4,262854,184249,other,14
+customer_72,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,47564,mining,35
+customer_18,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,43843,mining,15
+customer_81,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,103544,energy,24
+customer_6,vehicle_8,GM-S10 CABINE SIMPLES,175555,131302,energy,14
+customer_90,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,58884,agribusiness,22
+customer_33,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,144733,engineering,8
+customer_48,vehicle_7,HILUX CS DSL 4X4,262854,116726,mining,30
+customer_98,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,104543,energy,13
+customer_76,vehicle_6,TOYOTA-HILUX CS 4X4,172298,91761,mining,28
+customer_32,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,34089,mining,36
+customer_44,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,64246,energy,25
+customer_84,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,26911,other,23
+customer_48,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,16344,mining,25
+customer_84,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,50924,other,10
+customer_32,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,34191,mining,21
+customer_70,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,121044,engineering,15
+customer_4,vehicle_1,SAVEIRO CS RB MPI,82245,58244,agribusiness,18
+customer_97,vehicle_1,SAVEIRO CS RB MPI,82245,55273,engineering,14
+customer_31,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,59396,engineering,15
+customer_85,vehicle_7,HILUX CS DSL 4X4,262854,196477,energy,27
+customer_87,vehicle_6,TOYOTA-HILUX CS 4X4,172298,113784,engineering,5
+customer_64,vehicle_8,GM-S10 CABINE SIMPLES,175555,138288,agribusiness,14
+customer_83,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,24584,other,6
+customer_88,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,21598,energy,12
+customer_15,vehicle_6,TOYOTA-HILUX CS 4X4,172298,119439,energy,30
+customer_100,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,41532,mining,20
+customer_20,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,60084,engineering,8
+customer_46,vehicle_6,TOYOTA-HILUX CS 4X4,172298,81012,mining,21
+customer_56,vehicle_1,SAVEIRO CS RB MPI,82245,38847,mining,19
+customer_30,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,50903,agribusiness,20
+customer_87,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,25555,engineering,8
+customer_33,vehicle_6,TOYOTA-HILUX CS 4X4,172298,127523,engineering,11
+customer_28,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,60983,agribusiness,24
+customer_89,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,64472,agribusiness,21
+customer_9,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,79070,mining,25
+customer_95,vehicle_7,HILUX CS DSL 4X4,262854,206230,agribusiness,13
+customer_11,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,106803,engineering,13
+customer_43,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,18688,mining,36
+customer_32,vehicle_6,TOYOTA-HILUX CS 4X4,172298,89033,mining,15
+customer_86,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,106363,energy,20
+customer_7,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,45945,other,23
+customer_88,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,65982,energy,35
+customer_73,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,24662,engineering,8
+customer_33,vehicle_1,SAVEIRO CS RB MPI,82245,57638,engineering,8
+customer_4,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,46370,agribusiness,20
+customer_76,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,39871,mining,15
+customer_72,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,76832,mining,17
+customer_85,vehicle_8,GM-S10 CABINE SIMPLES,175555,130788,energy,21
+customer_23,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,78704,mining,31
+customer_74,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,49511,agribusiness,12
+customer_55,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,21898,energy,18
+customer_7,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,116437,other,23
+customer_41,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,24895,energy,35
+customer_75,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,64656,other,8
+customer_97,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,56862,engineering,6
+customer_45,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,98859,energy,16
+customer_22,vehicle_7,HILUX CS DSL 4X4,262854,168159,energy,21
+customer_46,vehicle_6,TOYOTA-HILUX CS 4X4,172298,82761,mining,18
+customer_17,vehicle_6,TOYOTA-HILUX CS 4X4,172298,120824,other,6
+customer_56,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,76115,mining,18
+customer_39,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,63429,agribusiness,17
+customer_49,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,120806,energy,14
+customer_25,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,123848,other,16
+customer_20,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,65067,engineering,12
+customer_65,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,129606,energy,28
+customer_42,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,79192,mining,36
+customer_12,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,113340,energy,30
+customer_17,vehicle_7,HILUX CS DSL 4X4,262854,196565,other,12
+customer_84,vehicle_1,SAVEIRO CS RB MPI,82245,61679,other,6
+customer_4,vehicle_8,GM-S10 CABINE SIMPLES,175555,129475,agribusiness,17
+customer_13,vehicle_1,SAVEIRO CS RB MPI,82245,64670,other,18
+customer_39,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,47557,agribusiness,15
+customer_31,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,114784,engineering,10
+customer_96,vehicle_7,HILUX CS DSL 4X4,262854,204491,agribusiness,14
+customer_45,vehicle_7,HILUX CS DSL 4X4,262854,187171,energy,20
+customer_61,vehicle_6,TOYOTA-HILUX CS 4X4,172298,125736,agribusiness,22
+customer_1,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,45241,agribusiness,13
+customer_75,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,120884,other,19
+customer_19,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,22565,energy,18
+customer_69,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,65370,other,22
+customer_93,vehicle_6,TOYOTA-HILUX CS 4X4,172298,137274,other,8
+customer_13,vehicle_7,HILUX CS DSL 4X4,262854,208709,other,20
+customer_100,vehicle_8,GM-S10 CABINE SIMPLES,175555,85793,mining,22
+customer_59,vehicle_6,TOYOTA-HILUX CS 4X4,172298,122043,energy,36
+customer_74,vehicle_1,SAVEIRO CS RB MPI,82245,59290,agribusiness,19
+customer_31,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,61007,engineering,5
+customer_74,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,58266,agribusiness,23
+customer_79,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,24516,engineering,12
+customer_20,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,45615,engineering,6
+customer_47,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,39589,mining,26
+customer_81,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,139252,energy,26
+customer_48,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,76705,mining,31
+customer_3,vehicle_8,GM-S10 CABINE SIMPLES,175555,131286,engineering,6
+customer_65,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,45064,energy,30
+customer_25,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,63595,other,9
+customer_16,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,60641,other,15
+customer_43,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,42397,mining,18
+customer_18,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,98081,mining,15
+customer_27,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,38757,energy,17
+customer_63,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,111062,energy,29
+customer_8,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,17663,mining,25
+customer_41,vehicle_6,TOYOTA-HILUX CS 4X4,172298,121326,energy,29
+customer_3,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,45637,engineering,12
+customer_96,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,70092,agribusiness,17
+customer_67,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,56448,energy,19
+customer_28,vehicle_8,GM-S10 CABINE SIMPLES,175555,139756,agribusiness,12
+customer_41,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,43908,energy,30
+customer_66,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,42372,energy,18
+customer_84,vehicle_7,HILUX CS DSL 4X4,262854,185366,other,14
+customer_15,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,60797,energy,26
+customer_13,vehicle_7,HILUX CS DSL 4X4,262854,210023,other,11
+customer_13,vehicle_7,HILUX CS DSL 4X4,262854,201981,other,19
+customer_96,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,62066,agribusiness,14
+customer_20,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,23025,engineering,5
+customer_42,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,43391,mining,36
+customer_47,vehicle_6,TOYOTA-HILUX CS 4X4,172298,76319,mining,17
+customer_29,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,32411,mining,17
+customer_63,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,100984,energy,12
+customer_10,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,102620,energy,36
+customer_62,vehicle_8,GM-S10 CABINE SIMPLES,175555,128335,engineering,11
+customer_49,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,20669,energy,20
+customer_7,vehicle_1,SAVEIRO CS RB MPI,82245,57941,other,7
+customer_52,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,47906,engineering,15
+customer_95,vehicle_7,HILUX CS DSL 4X4,262854,201767,agribusiness,21
+customer_1,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,145495,agribusiness,17
+customer_42,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,32491,mining,25
+customer_47,vehicle_7,HILUX CS DSL 4X4,262854,128709,mining,18
+customer_70,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,149996,engineering,13
+customer_4,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,60339,agribusiness,20
+customer_42,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,42572,mining,17
+customer_78,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,44115,mining,23
+customer_20,vehicle_7,HILUX CS DSL 4X4,262854,179297,engineering,6
+customer_35,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,42306,mining,26
+customer_20,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,53347,engineering,13
+customer_12,vehicle_6,TOYOTA-HILUX CS 4X4,172298,105758,energy,15
+customer_6,vehicle_7,HILUX CS DSL 4X4,262854,160293,energy,36
+customer_43,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,43879,mining,24
+customer_10,vehicle_7,HILUX CS DSL 4X4,262854,177073,energy,30
+customer_86,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,53075,energy,15
+customer_92,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,115784,agribusiness,20
+customer_66,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,107826,energy,12
+customer_64,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,123041,agribusiness,12
+customer_6,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,56889,energy,34
+customer_72,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,16624,mining,20
+customer_53,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,94248,mining,23
+customer_98,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,60810,energy,13
+customer_30,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,64022,agribusiness,18
+customer_87,vehicle_8,GM-S10 CABINE SIMPLES,175555,128354,engineering,10
+customer_54,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,120044,energy,30
+customer_10,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,50460,energy,24
+customer_63,vehicle_1,SAVEIRO CS RB MPI,82245,49720,energy,27
+customer_85,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,133289,energy,12
+customer_50,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,31982,mining,30
+customer_35,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,48483,mining,21
+customer_69,vehicle_1,SAVEIRO CS RB MPI,82245,59170,other,13
+customer_60,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,50653,other,20
+customer_71,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,54125,energy,23
+customer_15,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,142794,energy,32
+customer_85,vehicle_6,TOYOTA-HILUX CS 4X4,172298,126405,energy,35
+customer_11,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,45225,engineering,9
+customer_100,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,105137,mining,18
+customer_57,vehicle_6,TOYOTA-HILUX CS 4X4,172298,113619,energy,23
+customer_67,vehicle_6,TOYOTA-HILUX CS 4X4,172298,125226,energy,34
+customer_6,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,117431,energy,23
+customer_53,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,41560,mining,32
+customer_15,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,46090,energy,36
+customer_38,vehicle_1,SAVEIRO CS RB MPI,82245,59982,energy,28
+customer_78,vehicle_8,GM-S10 CABINE SIMPLES,175555,92341,mining,27
+customer_51,vehicle_6,TOYOTA-HILUX CS 4X4,172298,92766,mining,18
+customer_23,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,15368,mining,29
+customer_69,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,49001,other,9
+customer_43,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,90176,mining,15
+customer_74,vehicle_1,SAVEIRO CS RB MPI,82245,62528,agribusiness,23
+customer_74,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,58760,agribusiness,17
+customer_99,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,71496,mining,31
+customer_72,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,42979,mining,25
+customer_97,vehicle_6,TOYOTA-HILUX CS 4X4,172298,125577,engineering,10
+customer_70,vehicle_8,GM-S10 CABINE SIMPLES,175555,118796,engineering,13
+customer_54,vehicle_7,HILUX CS DSL 4X4,262854,158930,energy,14
+customer_30,vehicle_6,TOYOTA-HILUX CS 4X4,172298,132540,agribusiness,24
+customer_10,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,116306,energy,35
+customer_14,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,41457,energy,33
+customer_74,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,117810,agribusiness,13
+customer_21,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,49248,agribusiness,21
+customer_98,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,21829,energy,20
+customer_1,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,64403,agribusiness,16
+customer_84,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,127790,other,11
+customer_47,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,18739,mining,30
+customer_14,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,50387,energy,26
+customer_68,vehicle_6,TOYOTA-HILUX CS 4X4,172298,87029,mining,16
+customer_30,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,46209,agribusiness,15
+customer_27,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,45371,energy,20
+customer_65,vehicle_7,HILUX CS DSL 4X4,262854,163184,energy,17
+customer_72,vehicle_7,HILUX CS DSL 4X4,262854,122843,mining,23
+customer_70,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,58156,engineering,10
+customer_47,vehicle_1,SAVEIRO CS RB MPI,82245,37972,mining,22
+customer_22,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,55038,energy,24
+customer_13,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,50874,other,21
+customer_49,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,44935,energy,24
+customer_2,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,59771,agribusiness,19
+customer_84,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,67619,other,14
+customer_20,vehicle_1,SAVEIRO CS RB MPI,82245,57879,engineering,7
+customer_12,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,43912,energy,22
+customer_53,vehicle_6,TOYOTA-HILUX CS 4X4,172298,76204,mining,22
+customer_67,vehicle_7,HILUX CS DSL 4X4,262854,177757,energy,35
+customer_10,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,41545,energy,32
+customer_59,vehicle_7,HILUX CS DSL 4X4,262854,159976,energy,29
+customer_16,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,46688,other,9
+customer_84,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,159732,other,14
+customer_52,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,58067,engineering,15
+customer_81,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,62742,energy,20
+customer_50,vehicle_8,GM-S10 CABINE SIMPLES,175555,89825,mining,28
+customer_71,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,20627,energy,32
+customer_79,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,45918,engineering,9
+customer_53,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,104673,mining,16
+customer_86,vehicle_1,SAVEIRO CS RB MPI,82245,57343,energy,21
+customer_15,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,60483,energy,21
+customer_75,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,63128,other,20
+customer_63,vehicle_6,TOYOTA-HILUX CS 4X4,172298,110618,energy,20
+customer_77,vehicle_8,GM-S10 CABINE SIMPLES,175555,116015,energy,14
+customer_34,vehicle_6,TOYOTA-HILUX CS 4X4,172298,131984,agribusiness,22
+customer_11,vehicle_7,HILUX CS DSL 4X4,262854,186917,engineering,9
+customer_76,vehicle_8,GM-S10 CABINE SIMPLES,175555,87430,mining,29
+customer_4,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,147813,agribusiness,15
+customer_78,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,16684,mining,33
+customer_6,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,141782,energy,27
+customer_21,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,157075,agribusiness,21
+customer_57,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,47974,energy,13
+customer_56,vehicle_8,GM-S10 CABINE SIMPLES,175555,88519,mining,17
+customer_30,vehicle_7,HILUX CS DSL 4X4,262854,188375,agribusiness,15
+customer_46,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,18507,mining,28
+customer_56,vehicle_8,GM-S10 CABINE SIMPLES,175555,95498,mining,27
+customer_39,vehicle_8,GM-S10 CABINE SIMPLES,175555,135279,agribusiness,24
+customer_63,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,52331,energy,15
+customer_88,vehicle_8,GM-S10 CABINE SIMPLES,175555,123918,energy,30
+customer_15,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,39509,energy,20
+customer_25,vehicle_8,GM-S10 CABINE SIMPLES,175555,135143,other,13
+customer_5,vehicle_1,SAVEIRO CS RB MPI,82245,36495,mining,36
+customer_45,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,40431,energy,35
+customer_59,vehicle_6,TOYOTA-HILUX CS 4X4,172298,126932,energy,30
+customer_41,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,47942,energy,18
+customer_3,vehicle_8,GM-S10 CABINE SIMPLES,175555,114483,engineering,12
+customer_88,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,56585,energy,22
+customer_65,vehicle_7,HILUX CS DSL 4X4,262854,196380,energy,16
+customer_60,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,70363,other,24
+customer_56,vehicle_6,TOYOTA-HILUX CS 4X4,172298,86378,mining,23
+customer_81,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,60578,energy,27
+customer_74,vehicle_8,GM-S10 CABINE SIMPLES,175555,125668,agribusiness,22
+customer_70,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,25279,engineering,13
+customer_84,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,24639,other,10
+customer_60,vehicle_6,TOYOTA-HILUX CS 4X4,172298,127909,other,13
+customer_4,vehicle_1,SAVEIRO CS RB MPI,82245,60718,agribusiness,16
+customer_15,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,25052,energy,22
+customer_65,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,41321,energy,22
+customer_29,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,30341,mining,27
+customer_48,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,99727,mining,20
+customer_28,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,25251,agribusiness,19
+customer_10,vehicle_6,TOYOTA-HILUX CS 4X4,172298,120514,energy,16
+customer_98,vehicle_7,HILUX CS DSL 4X4,262854,157736,energy,14
+customer_34,vehicle_8,GM-S10 CABINE SIMPLES,175555,124654,agribusiness,13
+customer_77,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,105035,energy,27
+customer_14,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,24111,energy,36
+customer_58,vehicle_7,HILUX CS DSL 4X4,262854,207118,agribusiness,17
+customer_65,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,22733,energy,19
+customer_98,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,58098,energy,13
+customer_5,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,78484,mining,27
+customer_9,vehicle_6,TOYOTA-HILUX CS 4X4,172298,90073,mining,36
+customer_93,vehicle_7,HILUX CS DSL 4X4,262854,203295,other,14
+customer_32,vehicle_7,HILUX CS DSL 4X4,262854,120104,mining,28
+customer_50,vehicle_8,GM-S10 CABINE SIMPLES,175555,94838,mining,27
+customer_31,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,44928,engineering,6
+customer_58,vehicle_8,GM-S10 CABINE SIMPLES,175555,138569,agribusiness,15
+customer_50,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,102909,mining,22
+customer_90,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,49580,agribusiness,21
+customer_55,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,103715,energy,31
+customer_54,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,135900,energy,35
+customer_12,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,43163,energy,35
+customer_10,vehicle_7,HILUX CS DSL 4X4,262854,162957,energy,17
+customer_50,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,34847,mining,33
+customer_79,vehicle_6,TOYOTA-HILUX CS 4X4,172298,122293,engineering,5
+customer_76,vehicle_6,TOYOTA-HILUX CS 4X4,172298,81748,mining,35
+customer_56,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,48303,mining,23
+customer_23,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,44183,mining,29
+customer_25,vehicle_6,TOYOTA-HILUX CS 4X4,172298,127930,other,7
+customer_37,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,62531,agribusiness,16
+customer_51,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,16384,mining,35
+customer_74,vehicle_6,TOYOTA-HILUX CS 4X4,172298,125003,agribusiness,23
+customer_59,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,56797,energy,21
+customer_25,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,118116,other,7
+customer_25,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,24160,other,21
+customer_37,vehicle_6,TOYOTA-HILUX CS 4X4,172298,127894,agribusiness,19
+customer_50,vehicle_1,SAVEIRO CS RB MPI,82245,36573,mining,15
+customer_65,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,57053,energy,35
+customer_23,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,41371,mining,35
+customer_41,vehicle_6,TOYOTA-HILUX CS 4X4,172298,129189,energy,31
+customer_88,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,38693,energy,33
+customer_24,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,45152,agribusiness,18
+customer_38,vehicle_6,TOYOTA-HILUX CS 4X4,172298,122560,energy,16
+customer_79,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,25310,engineering,5
+customer_54,vehicle_7,HILUX CS DSL 4X4,262854,175075,energy,12
+customer_20,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,60705,engineering,8
+customer_90,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,45666,agribusiness,20
+customer_8,vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,81702,40896,mining,18
+customer_44,vehicle_1,SAVEIRO CS RB MPI,82245,52093,energy,12
+customer_88,vehicle_8,GM-S10 CABINE SIMPLES,175555,112688,energy,18
+customer_20,vehicle_7,HILUX CS DSL 4X4,262854,196561,engineering,15
+customer_56,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,73672,mining,19
+customer_94,vehicle_7,HILUX CS DSL 4X4,262854,194247,engineering,6
+customer_60,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,24675,other,22
+customer_68,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,29289,mining,26
+customer_37,vehicle_7,HILUX CS DSL 4X4,262854,192652,agribusiness,18
+customer_79,vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,201850,149235,engineering,11
+customer_7,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,49971,other,19
+customer_45,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,113243,energy,16
+customer_50,vehicle_2,VW-GOL TREND 1.6 FLEX 4P,34083,18687,mining,34
+customer_14,vehicle_7,HILUX CS DSL 4X4,262854,168757,energy,33
+customer_32,vehicle_1,SAVEIRO CS RB MPI,82245,37328,mining,30
+customer_84,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,48543,other,19
+customer_10,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,39264,energy,29
+customer_72,vehicle_8,GM-S10 CABINE SIMPLES,175555,93311,mining,19
+customer_88,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,43609,energy,26
+customer_41,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,104186,energy,26
+customer_64,vehicle_7,HILUX CS DSL 4X4,262854,186781,agribusiness,14
+customer_40,vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,162366,112203,engineering,13
+customer_21,vehicle_7,HILUX CS DSL 4X4,262854,206611,agribusiness,13
+customer_10,vehicle_8,GM-S10 CABINE SIMPLES,175555,106663,energy,12
+customer_79,vehicle_4,FIAT - ARGO DRIVE 1.0,64061,45045,engineering,15
+customer_10,vehicle_8,GM-S10 CABINE SIMPLES,175555,113313,energy,28
+customer_86,vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,88606,64436,energy,36
+customer_94,vehicle_8,GM-S10 CABINE SIMPLES,175555,121917,engineering,9

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "admin_default",
+    "email": "admin@example.com",
+    "password": "$2a$12$rEHvK7L4H8T2U0qXYp5d2.F4O8lKj3yDx4kP7wLqA2G8v9Ff6h5eS",
+    "role": "admin",
+    "isOfficial": false,
+    "createdAt": "2026-04-12T11:59:55.401Z"
+  },
+  {
+    "id": "student_default",
+    "email": "student@jaipur.manipal.edu",
+    "password": "$2a$12$YVxZKw9H8O2P0mSvF3c8n.T1N7jG5kS2Bx8cL6vQm0A9b2Yz3h4dE",
+    "role": "user",
+    "mujId": "MUJ2024001",
+    "officialEmail": "student@jaipur.manipal.edu",
+    "isOfficial": true,
+    "createdAt": "2026-04-12T11:59:55.401Z"
+  }
+]
