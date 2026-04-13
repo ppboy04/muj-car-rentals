@@ -33,7 +33,7 @@ async def startup_event():
     else:
         print("Failed to load models on startup. Will retry on first request.")
 
-@app.get("/")
+@app.api_route("/", methods=["GET", "HEAD"])
 async def root():
     return {"message": "Welcome to the MUJ Car Rental Recommendation API", "status": "active"}
 
