@@ -1,42 +1,66 @@
-# Deployment Guide for MUJ Car Rentals
+# 🚀 Deploying MUJ Car Rentals to Production
 
-This project consists of two parts:
-1. **Frontend**: Next.js (App Router)
-2. **ML Service**: FastAPI (Python)
+This guide will help you move your application from your local machine to the cloud.
 
-To deploy the project online for free or low cost, follow these steps:
-
-## 1. Deploy the ML Service (FastAPI)
-We recommend using **Render** (render.com) or **Railway** (railway.app) because they support Docker easily.
-
-### Option A: Render
-1. Create a new **Web Service** on Render.
-2. Connect your GitHub repository.
-3. Select the `ml-service` directory as the "Root Directory".
-4. Render will automatically detect the `Dockerfile`.
-5. Add Environment Variables:
-   - `FRONTEND_URL`: URL of your deployed frontend (e.g., `https://your-app.vercel.app`)
-6. Deploy! Copy the URL provided by Render (e.g., `https://muj-ml-service.onrender.com`).
+## 📋 Prerequisites
+1. A **GitHub** account with your code pushed to a repository.
+2. A **Vercel** account (for Frontend).
+3. A **Render** or **Railway** account (for ML Service).
+4. A **Neon.tech** or **Supabase** account (for PostgreSQL Database).
 
 ---
 
-## 2. Deploy the Frontend (Next.js)
-We recommend using **Vercel** (vercel.com).
+## 🏗 Step 1: Set Up Your Database (PostgreSQL)
+*Next.js needs a real database to store users and bookings in production.*
 
-1. Create a new project on Vercel and connect your GitHub repository.
-2. Set the "Root Directory" to the root of the repo (or leave it as `./`).
-3. Add Environment Variables:
-   - `DATABASE_URL`: Your database connection string.
-     - *Note: For production, do NOT use SQLite (`dev.db`). Use a free PostgreSQL database from **Neon.tech**, **Supabase**, or **Vercel Postgres**.*
-   - `NEXT_PUBLIC_ML_API_URL`: The URL of your ML Service (from Step 1).
-   - `NEXTAUTH_SECRET`: A random string for security.
-   - `NEXTAUTH_URL`: Your frontend URL.
-4. Deploy!
+1. **Create a Database**: Go to [Neon.tech](https://neon.tech) and create a free PostgreSQL project.
+2. **Copy Connection String**: Copy the "Connection String" (it looks like `postgresql://user:pass@host/dbname`).
+3. **Local Prep**: 
+   - Open your local `.env` file.
+   - Temporarily change `DATABASE_URL` to your new Neon string.
+   - Run: `npx prisma db push` (This creates the tables in the cloud).
+   - Run: `npm run migrate-data` (This seeds the cloud database with default cars and admin).
+   - *Important: Change your local `.env` back to `file:./dev.db` after this.*
 
 ---
 
-## 3. Database Migration (Optional but Recommended)
-If you switch to PostgreSQL (recommended for production):
-1. Update `DATABASE_URL` in your local `.env`.
-2. Run `npx prisma db push` to create the tables in the new database.
-3. Run `npm run migrate-data` to populate the production database with the initial car data.
+## 🧠 Step 2: Deploy the ML Service (FastAPI)
+*The recommendation engine runs as a separate service.*
+
+1. **Sign in to Render**: Go to [dashboard.render.com](https://dashboard.render.com).
+2. **New Web Service**: Click `New` -> `Web Service`.
+3. **Connect GitHub**: Select your repository.
+4. **Configuration**:
+   - **Root Directory**: `ml-service`
+   - **Runtime**: `Docker` (Render will detect the `Dockerfile` we prepared).
+5. **Environment Variables**:
+   - `FRONTEND_URL`: `https://your-frontend.vercel.app` (or `*` for testing).
+6. **Deploy**: Wait for the build to finish. It will automatically train the models during the build process!
+7. **Copy URL**: Save the service URL (e.g., `https://muj-ml.onrender.com`).
+
+---
+
+## 🌐 Step 3: Deploy the Frontend (Next.js)
+*The main app that users see.*
+
+1. **Sign in to Vercel**: Go to [vercel.com](https://vercel.com).
+2. **Import Project**: Select your repository.
+3. **Configuration**:
+   - **Root Directory**: Leave it as default (the whole repo).
+4. **Environment Variables**:
+   - `DATABASE_URL`: Your Neon/PostgreSQL connection string.
+   - `NEXT_PUBLIC_ML_API_URL`: Your Render URL (from Step 2).
+   - `NEXT_AUTH_SECRET`: Generate a random string (e.g., `openssl rand -base64 32`).
+   - `NEXTAUTH_URL`: Your Vercel app URL (e.g., `https://muj-car-rentals.vercel.app`).
+5. **Deploy**: Click `Deploy`.
+
+---
+
+## ✅ Step 4: Verification
+1. Visit your Vercel URL.
+2. Log in with the student account (`student@jaipur.manipal.edu`).
+3. If "Recommended for You" appears, your deployment was successful! 🥳
+
+### 🆘 Common Issues
+- **CORS Error**: Ensure `FRONTEND_URL` on Render matches your Vercel domain.
+- **Prisma Error**: Ensure `DATABASE_URL` is correct and you ran `db push`.

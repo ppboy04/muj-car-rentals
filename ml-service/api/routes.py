@@ -19,16 +19,16 @@ def load_resources():
     global content_model, collab_model, hybrid_recommender, cars_df, bookings_df
     try:
         # Load Data
-        cars_df = pd.read_csv("ml-service/data/cars.csv")
-        bookings_df = pd.read_csv("ml-service/data/bookings.csv")
+        cars_df = pd.read_csv("data/cars.csv")
+        bookings_df = pd.read_csv("data/bookings.csv")
         
         # Load Models
-        content_model = ContentBasedRecommender.load("ml-service/saved_models/content_model.pkl")
-        collab_model = CollaborativeRecommender.load("ml-service/saved_models/collab_model.pkl")
+        content_model = ContentBasedRecommender.load("saved_models/content_model.pkl")
+        collab_model = CollaborativeRecommender.load("saved_models/collab_model.pkl")
         
         # Initialize Hybrid
         hybrid_recommender = HybridRecommender(content_model, collab_model)
-        hybrid_recommender.load_weights("ml-service/saved_models/hybrid_weights.json")
+        hybrid_recommender.load_weights("saved_models/hybrid_weights.json")
         
         return True
     except Exception as e:

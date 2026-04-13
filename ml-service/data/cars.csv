@@ -1,11 +1,11 @@
-id,name,brand,model,type,price,image
-vehicle_1,SAVEIRO,SAVEIRO,CS RB MPI,Sedan,543.3750256410257,https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=400
-vehicle_10,TOYOTA,TOYOTA,HILUX CD 4X4 STANDART,Sedan,1056.7134928229666,https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=400
-vehicle_2,VW,VW,GOL TREND 1.6 FLEX 4P,Sedan,226.7920588235294,https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=400
-vehicle_3,FIAT,FIAT,NOVA STRADA ENDURANCE CS 1.4,Sedan,544.5633495145631,https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=400
-vehicle_4,FIAT,FIAT,ARGO DRIVE 1.0,Hatchback,429.83057971014495,https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=400
-vehicle_5,DUSTER,DUSTER,OROCH EXPRESS 1.6 SCE,Sedan,582.8378212290503,https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=400
-vehicle_6,TOYOTA,TOYOTA,HILUX CS 4X4,Sedan,1124.5879802955665,https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=400
-vehicle_7,HILUX,HILUX,CS DSL 4X4,Sedan,1757.8118713450292,https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=400
-vehicle_8,GM,GM,S10 CABINE SIMPLES,Sedan,1172.6098305084745,https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=400
-vehicle_9,MITSUBISHI,MITSUBISHI,L200 TRITON GL 2.4 D 4X4 MT CD,Sedan,1330.7394736842105,https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=400
+car_id,desc_vehicle,type,fuel_type,transmission,seats,price_per_day,rating,available
+vehicle_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,Pickup,Petrol,Manual,5,2500.0,5.0,True
+vehicle_8,GM-S10 CABINE SIMPLES,Pickup,Petrol,Automatic,5,2500.0,5.0,True
+vehicle_2,VW-GOL TREND 1.6 FLEX 4P,Hatchback,Flex,Manual,5,2500.0,5.0,True
+vehicle_7,HILUX CS DSL 4X4,Pickup,Diesel,Automatic,5,2500.0,5.0,True
+vehicle_9,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,Pickup,Diesel,Automatic,5,2500.0,5.0,True
+vehicle_6,TOYOTA-HILUX CS 4X4,Pickup,Petrol,Automatic,5,2500.0,5.0,True
+vehicle_4,FIAT - ARGO DRIVE 1.0,Hatchback,Petrol,Manual,5,2500.0,5.0,True
+vehicle_10,TOYOTA-HILUX CD 4X4 STANDART,Pickup,Diesel,Automatic,5,2500.0,5.0,True
+vehicle_1,SAVEIRO CS RB MPI,Pickup,Petrol,Manual,5,2500.0,5.0,True
+vehicle_5,DUSTER OROCH EXPRESS 1.6 SCE,Pickup,Petrol,Automatic,5,2500.0,5.0,True

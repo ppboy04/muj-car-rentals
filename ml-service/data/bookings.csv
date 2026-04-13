@@ -1,917 +1,392 @@
-user_id,car_id
-customer_33,vehicle_3
-customer_59,vehicle_8
-customer_25,vehicle_2
-customer_39,vehicle_7
-customer_51,vehicle_9
-customer_3,vehicle_2
-customer_26,vehicle_6
-customer_15,vehicle_4
-customer_89,vehicle_9
-customer_60,vehicle_4
-customer_7,vehicle_8
-customer_14,vehicle_10
-customer_45,vehicle_9
-customer_32,vehicle_1
-customer_98,vehicle_2
-customer_79,vehicle_10
-customer_47,vehicle_1
-customer_42,vehicle_8
-customer_30,vehicle_2
-customer_75,vehicle_8
-customer_57,vehicle_8
-customer_56,vehicle_6
-customer_62,vehicle_4
-customer_56,vehicle_1
-customer_32,vehicle_9
-customer_42,vehicle_7
-customer_23,vehicle_1
-customer_9,vehicle_10
-customer_28,vehicle_3
-customer_36,vehicle_3
-customer_81,vehicle_5
-customer_59,vehicle_1
-customer_49,vehicle_8
-customer_89,vehicle_7
-customer_26,vehicle_9
-customer_92,vehicle_1
-customer_70,vehicle_6
-customer_28,vehicle_8
-customer_97,vehicle_2
-customer_27,vehicle_3
-customer_32,vehicle_6
-customer_35,vehicle_8
-customer_12,vehicle_10
-customer_26,vehicle_4
-customer_95,vehicle_5
-customer_52,vehicle_1
-customer_1,vehicle_4
-customer_38,vehicle_8
-customer_17,vehicle_6
-customer_79,vehicle_3
-customer_85,vehicle_1
-customer_48,vehicle_6
-customer_17,vehicle_3
-customer_82,vehicle_9
-customer_58,vehicle_8
-customer_76,vehicle_3
-customer_65,vehicle_6
-customer_79,vehicle_5
-customer_61,vehicle_5
-customer_56,vehicle_8
-customer_81,vehicle_9
-customer_31,vehicle_3
-customer_45,vehicle_7
-customer_9,vehicle_6
-customer_100,vehicle_10
-customer_80,vehicle_2
-customer_16,vehicle_6
-customer_30,vehicle_5
-customer_23,vehicle_2
-customer_35,vehicle_2
-customer_35,vehicle_3
-customer_42,vehicle_3
-customer_94,vehicle_2
-customer_87,vehicle_3
-customer_89,vehicle_10
-customer_83,vehicle_4
-customer_89,vehicle_1
-customer_41,vehicle_3
-customer_80,vehicle_6
-customer_36,vehicle_4
-customer_44,vehicle_4
-customer_67,vehicle_1
-customer_34,vehicle_4
-customer_51,vehicle_10
-customer_7,vehicle_4
-customer_18,vehicle_1
-customer_18,vehicle_10
-customer_97,vehicle_6
-customer_80,vehicle_8
-customer_44,vehicle_8
-customer_43,vehicle_8
-customer_16,vehicle_5
-customer_31,vehicle_7
-customer_83,vehicle_1
-customer_80,vehicle_9
-customer_61,vehicle_9
-customer_62,vehicle_5
-customer_2,vehicle_9
-customer_37,vehicle_9
-customer_21,vehicle_1
-customer_89,vehicle_6
-customer_77,vehicle_6
-customer_92,vehicle_8
-customer_55,vehicle_1
-customer_93,vehicle_9
-customer_37,vehicle_6
-customer_81,vehicle_3
-customer_13,vehicle_1
-customer_15,vehicle_10
-customer_12,vehicle_8
-customer_47,vehicle_2
-customer_93,vehicle_3
-customer_99,vehicle_5
-customer_46,vehicle_9
-customer_38,vehicle_3
-customer_45,vehicle_3
-customer_20,vehicle_6
-customer_18,vehicle_5
-customer_82,vehicle_8
-customer_59,vehicle_4
-customer_14,vehicle_7
-customer_95,vehicle_2
-customer_69,vehicle_1
-customer_44,vehicle_1
-customer_97,vehicle_9
-customer_8,vehicle_1
-customer_67,vehicle_4
-customer_3,vehicle_3
-customer_18,vehicle_6
-customer_76,vehicle_2
-customer_44,vehicle_9
-customer_47,vehicle_4
-customer_96,vehicle_6
-customer_65,vehicle_9
-customer_13,vehicle_6
-customer_36,vehicle_5
-customer_32,vehicle_3
-customer_13,vehicle_4
-customer_76,vehicle_6
-customer_48,vehicle_5
-customer_51,vehicle_3
-customer_59,vehicle_6
-customer_77,vehicle_10
-customer_23,vehicle_9
-customer_82,vehicle_2
-customer_88,vehicle_7
-customer_50,vehicle_7
-customer_10,vehicle_7
-customer_59,vehicle_9
-customer_95,vehicle_4
-customer_66,vehicle_9
-customer_58,vehicle_6
-customer_56,vehicle_9
-customer_68,vehicle_5
-customer_48,vehicle_8
-customer_79,vehicle_6
-customer_98,vehicle_9
-customer_100,vehicle_9
-customer_83,vehicle_6
-customer_62,vehicle_3
-customer_55,vehicle_7
-customer_100,vehicle_1
-customer_71,vehicle_2
-customer_24,vehicle_3
-customer_87,vehicle_5
-customer_90,vehicle_4
-customer_46,vehicle_7
-customer_18,vehicle_2
-customer_100,vehicle_6
-customer_51,vehicle_5
-customer_34,vehicle_1
-customer_10,vehicle_8
-customer_32,vehicle_10
-customer_70,vehicle_8
-customer_36,vehicle_1
-customer_1,vehicle_6
-customer_34,vehicle_2
-customer_88,vehicle_1
-customer_4,vehicle_8
-customer_85,vehicle_4
-customer_98,vehicle_7
-customer_90,vehicle_5
-customer_98,vehicle_8
-customer_73,vehicle_7
-customer_99,vehicle_6
-customer_77,vehicle_2
-customer_98,vehicle_6
-customer_15,vehicle_3
-customer_29,vehicle_6
-customer_1,vehicle_8
-customer_16,vehicle_7
-customer_27,vehicle_8
-customer_26,vehicle_2
-customer_67,vehicle_7
-customer_66,vehicle_8
-customer_36,vehicle_8
-customer_96,vehicle_2
-customer_67,vehicle_5
-customer_41,vehicle_5
-customer_59,vehicle_5
-customer_52,vehicle_7
-customer_34,vehicle_9
-customer_94,vehicle_3
-customer_27,vehicle_1
-customer_92,vehicle_2
-customer_29,vehicle_1
-customer_97,vehicle_8
-customer_59,vehicle_2
-customer_88,vehicle_2
-customer_96,vehicle_1
-customer_96,vehicle_4
-customer_30,vehicle_6
-customer_37,vehicle_7
-customer_15,vehicle_9
-customer_97,vehicle_7
-customer_84,vehicle_3
-customer_6,vehicle_2
-customer_97,vehicle_1
-customer_23,vehicle_10
-customer_35,vehicle_1
-customer_6,vehicle_1
-customer_60,vehicle_1
-customer_43,vehicle_5
-customer_83,vehicle_10
-customer_81,vehicle_6
-customer_42,vehicle_9
-customer_91,vehicle_2
-customer_52,vehicle_9
-customer_77,vehicle_4
-customer_75,vehicle_4
-customer_85,vehicle_8
-customer_22,vehicle_10
-customer_72,vehicle_6
-customer_32,vehicle_5
-customer_95,vehicle_6
-customer_58,vehicle_7
-customer_19,vehicle_3
-customer_46,vehicle_4
-customer_93,vehicle_7
-customer_85,vehicle_2
-customer_22,vehicle_5
-customer_13,vehicle_7
-customer_70,vehicle_2
-customer_39,vehicle_1
-customer_90,vehicle_2
-customer_19,vehicle_7
-customer_50,vehicle_2
-customer_37,vehicle_5
-customer_50,vehicle_3
-customer_28,vehicle_9
-customer_75,vehicle_10
-customer_1,vehicle_9
-customer_9,vehicle_2
-customer_56,vehicle_2
-customer_43,vehicle_2
-customer_84,vehicle_9
-customer_70,vehicle_3
-customer_77,vehicle_5
-customer_65,vehicle_7
-customer_95,vehicle_8
-customer_4,vehicle_10
-customer_71,vehicle_6
-customer_25,vehicle_4
-customer_55,vehicle_8
-customer_2,vehicle_6
-customer_95,vehicle_3
-customer_55,vehicle_10
-customer_92,vehicle_6
-customer_74,vehicle_10
-customer_29,vehicle_2
-customer_12,vehicle_1
-customer_61,vehicle_3
-customer_69,vehicle_5
-customer_91,vehicle_7
-customer_75,vehicle_3
-customer_96,vehicle_9
-customer_23,vehicle_6
-customer_31,vehicle_6
-customer_88,vehicle_8
-customer_71,vehicle_10
-customer_35,vehicle_4
-customer_34,vehicle_10
-customer_26,vehicle_8
-customer_63,vehicle_9
-customer_53,vehicle_4
-customer_27,vehicle_5
-customer_21,vehicle_9
-customer_28,vehicle_5
-customer_57,vehicle_1
-customer_40,vehicle_7
-customer_3,vehicle_10
-customer_74,vehicle_3
-customer_19,vehicle_8
-customer_57,vehicle_3
-customer_100,vehicle_5
-customer_52,vehicle_8
-customer_6,vehicle_7
-customer_20,vehicle_2
-customer_73,vehicle_3
-customer_58,vehicle_3
-customer_99,vehicle_7
-customer_45,vehicle_2
-customer_68,vehicle_8
-customer_54,vehicle_2
-customer_54,vehicle_1
-customer_22,vehicle_2
-customer_63,vehicle_4
-customer_46,vehicle_2
-customer_33,vehicle_5
-customer_21,vehicle_2
-customer_19,vehicle_10
-customer_88,vehicle_3
-customer_4,vehicle_9
-customer_13,vehicle_5
-customer_49,vehicle_10
-customer_46,vehicle_10
-customer_21,vehicle_7
-customer_20,vehicle_10
-customer_51,vehicle_4
-customer_72,vehicle_10
-customer_20,vehicle_9
-customer_86,vehicle_3
-customer_81,vehicle_7
-customer_66,vehicle_5
-customer_28,vehicle_4
-customer_66,vehicle_10
-customer_46,vehicle_6
-customer_40,vehicle_1
-customer_57,vehicle_9
-customer_69,vehicle_2
-customer_47,vehicle_10
-customer_14,vehicle_2
-customer_91,vehicle_1
-customer_49,vehicle_6
-customer_55,vehicle_9
-customer_63,vehicle_5
-customer_68,vehicle_4
-customer_39,vehicle_8
-customer_53,vehicle_5
-customer_26,vehicle_5
-customer_84,vehicle_7
-customer_30,vehicle_4
-customer_31,vehicle_4
-customer_96,vehicle_5
-customer_43,vehicle_3
-customer_46,vehicle_3
-customer_54,vehicle_7
-customer_15,vehicle_1
-customer_81,vehicle_2
-customer_2,vehicle_5
-customer_78,vehicle_7
-customer_31,vehicle_9
-customer_8,vehicle_7
-customer_32,vehicle_4
-customer_20,vehicle_8
-customer_97,vehicle_4
-customer_88,vehicle_6
-customer_18,vehicle_7
-customer_2,vehicle_4
-customer_72,vehicle_2
-customer_62,vehicle_8
-customer_16,vehicle_2
-customer_99,vehicle_10
-customer_34,vehicle_5
-customer_25,vehicle_1
-customer_5,vehicle_8
-customer_42,vehicle_10
-customer_58,vehicle_1
-customer_84,vehicle_2
-customer_49,vehicle_7
-customer_100,vehicle_3
-customer_44,vehicle_7
-customer_14,vehicle_8
-customer_50,vehicle_1
-customer_41,vehicle_6
-customer_22,vehicle_4
-customer_99,vehicle_1
-customer_86,vehicle_7
-customer_33,vehicle_4
-customer_63,vehicle_2
-customer_48,vehicle_10
-customer_18,vehicle_9
-customer_30,vehicle_7
-customer_36,vehicle_6
-customer_94,vehicle_8
-customer_38,vehicle_10
-customer_93,vehicle_8
-customer_42,vehicle_6
-customer_84,vehicle_6
-customer_82,vehicle_5
-customer_39,vehicle_10
-customer_16,vehicle_10
-customer_62,vehicle_7
-customer_11,vehicle_5
-customer_24,vehicle_1
-customer_22,vehicle_9
-customer_66,vehicle_1
-customer_83,vehicle_5
-customer_12,vehicle_9
-customer_17,vehicle_7
-customer_4,vehicle_3
-customer_17,vehicle_2
-customer_24,vehicle_8
-customer_42,vehicle_2
-customer_7,vehicle_6
-customer_10,vehicle_1
-customer_15,vehicle_5
-customer_46,vehicle_8
-customer_78,vehicle_8
-customer_39,vehicle_9
-customer_62,vehicle_6
-customer_53,vehicle_7
-customer_83,vehicle_8
-customer_19,vehicle_4
-customer_68,vehicle_3
-customer_11,vehicle_10
-customer_78,vehicle_9
-customer_36,vehicle_9
-customer_1,vehicle_10
-customer_14,vehicle_1
-customer_37,vehicle_2
-customer_12,vehicle_3
-customer_78,vehicle_4
-customer_31,vehicle_10
-customer_54,vehicle_9
-customer_33,vehicle_10
-customer_83,vehicle_9
-customer_29,vehicle_7
-customer_33,vehicle_6
-customer_54,vehicle_10
-customer_75,vehicle_9
-customer_92,vehicle_7
-customer_62,vehicle_1
-customer_21,vehicle_4
-customer_57,vehicle_5
-customer_50,vehicle_5
-customer_6,vehicle_5
-customer_2,vehicle_8
-customer_89,vehicle_2
-customer_13,vehicle_8
-customer_15,vehicle_7
-customer_99,vehicle_3
-customer_76,vehicle_10
-customer_10,vehicle_2
-customer_21,vehicle_5
-customer_16,vehicle_4
-customer_81,vehicle_4
-customer_9,vehicle_7
-customer_11,vehicle_1
-customer_60,vehicle_5
-customer_57,vehicle_10
-customer_74,vehicle_2
-customer_84,vehicle_8
-customer_74,vehicle_1
-customer_67,vehicle_10
-customer_37,vehicle_3
-customer_81,vehicle_10
-customer_64,vehicle_10
-customer_4,vehicle_7
-customer_69,vehicle_8
-customer_40,vehicle_4
-customer_2,vehicle_10
-customer_17,vehicle_9
-customer_42,vehicle_5
-customer_74,vehicle_9
-customer_20,vehicle_5
-customer_61,vehicle_4
-customer_14,vehicle_5
-customer_63,vehicle_3
-customer_3,vehicle_8
-customer_27,vehicle_10
-customer_77,vehicle_9
-customer_60,vehicle_7
-customer_50,vehicle_8
-customer_72,vehicle_4
-customer_79,vehicle_9
-customer_7,vehicle_5
-customer_72,vehicle_5
-customer_93,vehicle_1
-customer_17,vehicle_5
-customer_12,vehicle_6
-customer_22,vehicle_8
-customer_13,vehicle_2
-customer_29,vehicle_8
-customer_92,vehicle_10
-customer_39,vehicle_2
-customer_17,vehicle_4
-customer_44,vehicle_10
-customer_5,vehicle_5
-customer_53,vehicle_6
-customer_2,vehicle_7
-customer_49,vehicle_9
-customer_79,vehicle_8
-customer_78,vehicle_6
-customer_11,vehicle_8
-customer_36,vehicle_10
-customer_9,vehicle_3
-customer_41,vehicle_8
-customer_61,vehicle_10
-customer_91,vehicle_8
-customer_34,vehicle_3
-customer_4,vehicle_1
-customer_36,vehicle_2
-customer_60,vehicle_6
-customer_9,vehicle_9
-customer_66,vehicle_2
-customer_68,vehicle_6
-customer_63,vehicle_6
-customer_87,vehicle_10
-customer_94,vehicle_1
-customer_79,vehicle_2
-customer_33,vehicle_8
-customer_26,vehicle_7
-customer_41,vehicle_9
-customer_90,vehicle_8
-customer_78,vehicle_2
-customer_90,vehicle_7
-customer_12,vehicle_2
-customer_41,vehicle_4
-customer_37,vehicle_4
-customer_32,vehicle_7
-customer_55,vehicle_3
-customer_88,vehicle_5
-customer_62,vehicle_9
-customer_76,vehicle_4
-customer_94,vehicle_5
-customer_21,vehicle_8
-customer_2,vehicle_1
-customer_86,vehicle_8
-customer_87,vehicle_6
-customer_3,vehicle_7
-customer_43,vehicle_10
-customer_64,vehicle_8
-customer_24,vehicle_9
-customer_29,vehicle_4
-customer_84,vehicle_4
-customer_22,vehicle_1
-customer_40,vehicle_5
-customer_56,vehicle_3
-customer_73,vehicle_2
-customer_29,vehicle_10
-customer_40,vehicle_9
-customer_34,vehicle_8
-customer_54,vehicle_6
-customer_65,vehicle_10
-customer_56,vehicle_7
-customer_11,vehicle_7
-customer_69,vehicle_10
-customer_14,vehicle_3
-customer_82,vehicle_1
-customer_25,vehicle_8
-customer_1,vehicle_3
-customer_82,vehicle_10
-customer_10,vehicle_3
-customer_6,vehicle_9
-customer_9,vehicle_8
-customer_34,vehicle_6
-customer_67,vehicle_3
-customer_25,vehicle_3
-customer_88,vehicle_9
-customer_17,vehicle_10
-customer_76,vehicle_1
-customer_25,vehicle_6
-customer_17,vehicle_8
-customer_50,vehicle_6
-customer_71,vehicle_3
-customer_13,vehicle_10
-customer_72,vehicle_7
-customer_45,vehicle_10
-customer_95,vehicle_10
-customer_75,vehicle_1
-customer_78,vehicle_5
-customer_96,vehicle_7
-customer_50,vehicle_10
-customer_55,vehicle_4
-customer_60,vehicle_9
-customer_29,vehicle_5
-customer_86,vehicle_10
-customer_62,vehicle_10
-customer_14,vehicle_4
-customer_26,vehicle_10
-customer_64,vehicle_2
-customer_91,vehicle_4
-customer_19,vehicle_2
-customer_60,vehicle_10
-customer_84,vehicle_1
-customer_61,vehicle_1
-customer_98,vehicle_1
-customer_30,vehicle_1
-customer_63,vehicle_1
-customer_85,vehicle_7
-customer_70,vehicle_7
-customer_96,vehicle_3
-customer_41,vehicle_2
-customer_74,vehicle_5
-customer_27,vehicle_4
-customer_28,vehicle_2
-customer_72,vehicle_8
-customer_7,vehicle_1
-customer_94,vehicle_9
-customer_85,vehicle_9
-customer_50,vehicle_4
-customer_59,vehicle_7
-customer_73,vehicle_6
-customer_85,vehicle_10
-customer_64,vehicle_9
-customer_28,vehicle_1
-customer_29,vehicle_9
-customer_25,vehicle_10
-customer_48,vehicle_3
-customer_50,vehicle_9
-customer_16,vehicle_9
-customer_97,vehicle_5
-customer_38,vehicle_4
-customer_32,vehicle_8
-customer_93,vehicle_4
-customer_84,vehicle_10
-customer_84,vehicle_5
-customer_5,vehicle_1
-customer_53,vehicle_10
-customer_29,vehicle_3
-customer_16,vehicle_8
-customer_85,vehicle_3
-customer_20,vehicle_4
-customer_9,vehicle_1
-customer_15,vehicle_8
-customer_68,vehicle_7
-customer_69,vehicle_3
-customer_73,vehicle_1
-customer_24,vehicle_2
-customer_49,vehicle_2
-customer_21,vehicle_3
-customer_45,vehicle_1
-customer_3,vehicle_6
-customer_38,vehicle_2
-customer_83,vehicle_2
-customer_81,vehicle_8
-customer_68,vehicle_10
-customer_65,vehicle_3
-customer_75,vehicle_7
-customer_86,vehicle_5
-customer_39,vehicle_5
-customer_66,vehicle_7
-customer_54,vehicle_5
-customer_31,vehicle_8
-customer_45,vehicle_5
-customer_89,vehicle_8
-customer_33,vehicle_9
-customer_44,vehicle_2
-customer_63,vehicle_7
-customer_23,vehicle_8
-customer_74,vehicle_4
-customer_11,vehicle_4
-customer_71,vehicle_4
-customer_78,vehicle_1
-customer_57,vehicle_6
-customer_31,vehicle_5
-customer_24,vehicle_6
-customer_22,vehicle_6
-customer_6,vehicle_8
-customer_98,vehicle_4
-customer_81,vehicle_1
-customer_71,vehicle_1
-customer_19,vehicle_9
-customer_26,vehicle_3
-customer_51,vehicle_6
-customer_52,vehicle_2
-customer_3,vehicle_1
-customer_67,vehicle_2
-customer_40,vehicle_8
-customer_62,vehicle_2
-customer_37,vehicle_10
-customer_90,vehicle_1
-customer_35,vehicle_9
-customer_56,vehicle_5
-customer_72,vehicle_9
-customer_5,vehicle_10
-customer_65,vehicle_2
-customer_5,vehicle_4
-customer_6,vehicle_4
-customer_72,vehicle_3
-customer_80,vehicle_7
-customer_20,vehicle_1
-customer_80,vehicle_3
-customer_75,vehicle_5
-customer_40,vehicle_2
-customer_95,vehicle_1
-customer_66,vehicle_4
-customer_3,vehicle_5
-customer_96,vehicle_8
-customer_5,vehicle_6
-customer_38,vehicle_5
-customer_100,vehicle_8
-customer_2,vehicle_3
-customer_70,vehicle_5
-customer_34,vehicle_7
-customer_68,vehicle_2
-customer_67,vehicle_9
-customer_66,vehicle_3
-customer_69,vehicle_4
-customer_10,vehicle_6
-customer_89,vehicle_4
-customer_95,vehicle_7
-customer_89,vehicle_5
-customer_15,vehicle_2
-customer_28,vehicle_10
-customer_63,vehicle_8
-customer_88,vehicle_10
-customer_99,vehicle_2
-customer_1,vehicle_1
-customer_79,vehicle_1
-customer_51,vehicle_2
-customer_39,vehicle_6
-customer_57,vehicle_2
-customer_11,vehicle_2
-customer_64,vehicle_1
-customer_79,vehicle_4
-customer_15,vehicle_6
-customer_99,vehicle_4
-customer_52,vehicle_6
-customer_19,vehicle_5
-customer_80,vehicle_4
-customer_4,vehicle_2
-customer_82,vehicle_4
-customer_52,vehicle_4
-customer_38,vehicle_9
-customer_54,vehicle_8
-customer_74,vehicle_7
-customer_94,vehicle_10
-customer_70,vehicle_1
-customer_57,vehicle_7
-customer_71,vehicle_9
-customer_52,vehicle_5
-customer_87,vehicle_2
-customer_53,vehicle_1
-customer_8,vehicle_9
-customer_76,vehicle_5
-customer_97,vehicle_10
-customer_42,vehicle_4
-customer_8,vehicle_3
-customer_1,vehicle_5
-customer_17,vehicle_1
-customer_69,vehicle_7
-customer_30,vehicle_3
-customer_39,vehicle_4
-customer_43,vehicle_6
-customer_10,vehicle_4
-customer_1,vehicle_2
-customer_45,vehicle_4
-customer_87,vehicle_9
-customer_33,vehicle_7
-customer_90,vehicle_3
-customer_58,vehicle_10
-customer_30,vehicle_8
-customer_98,vehicle_10
-customer_48,vehicle_9
-customer_73,vehicle_4
-customer_53,vehicle_2
-customer_18,vehicle_8
-customer_14,vehicle_6
-customer_40,vehicle_6
-customer_5,vehicle_3
-customer_10,vehicle_10
-customer_37,vehicle_1
-customer_42,vehicle_1
-customer_47,vehicle_3
-customer_11,vehicle_6
-customer_100,vehicle_7
-customer_58,vehicle_9
-customer_83,vehicle_3
-customer_70,vehicle_9
-customer_76,vehicle_7
-customer_55,vehicle_2
-customer_31,vehicle_1
-customer_16,vehicle_1
-customer_59,vehicle_3
-customer_67,vehicle_6
-customer_27,vehicle_2
-customer_61,vehicle_8
-customer_65,vehicle_1
-customer_73,vehicle_8
-customer_43,vehicle_9
-customer_69,vehicle_6
-customer_12,vehicle_4
-customer_47,vehicle_5
-customer_37,vehicle_8
-customer_56,vehicle_4
-customer_20,vehicle_7
-customer_60,vehicle_8
-customer_87,vehicle_1
-customer_10,vehicle_5
-customer_74,vehicle_6
-customer_47,vehicle_9
-customer_18,vehicle_3
-customer_10,vehicle_9
-customer_82,vehicle_7
-customer_99,vehicle_8
-customer_35,vehicle_10
-customer_33,vehicle_1
-customer_45,vehicle_6
-customer_53,vehicle_3
-customer_3,vehicle_4
-customer_13,vehicle_3
-customer_89,vehicle_3
-customer_7,vehicle_10
-customer_51,vehicle_7
-customer_92,vehicle_3
-customer_18,vehicle_4
-customer_6,vehicle_6
-customer_77,vehicle_1
-customer_74,vehicle_8
-customer_19,vehicle_1
-customer_51,vehicle_8
-customer_8,vehicle_4
-customer_92,vehicle_9
-customer_6,vehicle_10
-customer_100,vehicle_2
-customer_48,vehicle_7
-customer_44,vehicle_5
-customer_48,vehicle_2
-customer_70,vehicle_10
-customer_20,vehicle_3
-customer_4,vehicle_4
-customer_97,vehicle_3
-customer_22,vehicle_7
-customer_56,vehicle_10
-customer_39,vehicle_3
-customer_61,vehicle_6
-customer_93,vehicle_6
-customer_65,vehicle_4
-customer_16,vehicle_3
-customer_63,vehicle_10
-customer_8,vehicle_2
-customer_47,vehicle_6
-customer_47,vehicle_7
-customer_6,vehicle_3
-customer_53,vehicle_9
-customer_98,vehicle_5
-customer_87,vehicle_8
-customer_35,vehicle_5
-customer_71,vehicle_5
-customer_85,vehicle_6
-customer_38,vehicle_1
-customer_22,vehicle_3
-customer_49,vehicle_4
-customer_52,vehicle_3
-customer_86,vehicle_1
-customer_77,vehicle_8
-customer_76,vehicle_8
-customer_57,vehicle_4
-customer_23,vehicle_5
-customer_65,vehicle_5
-customer_23,vehicle_3
-customer_88,vehicle_4
-customer_24,vehicle_4
-customer_38,vehicle_6
-customer_94,vehicle_7
-customer_60,vehicle_2
-customer_41,vehicle_10
-customer_64,vehicle_7
-customer_40,vehicle_10
-customer_1,vehicle_7
-customer_4,vehicle_5
-customer_4,vehicle_6
-customer_5,vehicle_7
-customer_5,vehicle_9
-customer_5,vehicle_2
-customer_8,vehicle_10
-customer_8,vehicle_6
-customer_8,vehicle_5
-customer_8,vehicle_8
-customer_9,vehicle_4
-customer_11,vehicle_9
-customer_11,vehicle_3
-customer_12,vehicle_7
-customer_12,vehicle_5
-customer_13,vehicle_9
-customer_14,vehicle_9
-customer_19,vehicle_6
-customer_21,vehicle_10
-customer_21,vehicle_6
-customer_23,vehicle_4
-customer_24,vehicle_7
-customer_24,vehicle_5
-customer_24,vehicle_10
-customer_25,vehicle_9
-customer_25,vehicle_5
-customer_25,vehicle_7
-customer_26,vehicle_1
-customer_27,vehicle_6
-customer_27,vehicle_7
-customer_27,vehicle_9
-customer_28,vehicle_6
-customer_28,vehicle_7
-customer_31,vehicle_2
-customer_33,vehicle_2
-customer_35,vehicle_7
-customer_35,vehicle_6
-customer_36,vehicle_7
-customer_40,vehicle_3
-customer_41,vehicle_1
-customer_41,vehicle_7
-customer_43,vehicle_4
-customer_43,vehicle_1
-customer_43,vehicle_7
-customer_44,vehicle_6
-customer_44,vehicle_3
-customer_45,vehicle_8
-customer_46,vehicle_5
-customer_46,vehicle_1
-customer_47,vehicle_8
-customer_48,vehicle_4
-customer_48,vehicle_1
-customer_49,vehicle_3
-customer_49,vehicle_1
-customer_49,vehicle_5
+user_id,desc_vehicle,rental_count,car_id,type,fuel_type,transmission,seats,price_per_day,rating,available,rating_given
+customer_1,DUSTER OROCH EXPRESS 1.6 SCE,56,vehicle_5,Pickup,Petrol,Automatic,5,2500.0,5.0,True,5.0
+customer_1,FIAT - ARGO DRIVE 1.0,32,vehicle_4,Hatchback,Petrol,Manual,5,2500.0,5.0,True,3.0
+customer_1,FIAT-NOVA STRADA ENDURANCE CS 1.4,32,vehicle_3,Pickup,Petrol,Manual,5,2500.0,5.0,True,3.0
+customer_1,GM-S10 CABINE SIMPLES,24,vehicle_8,Pickup,Petrol,Automatic,5,2500.0,5.0,True,2.0
+customer_1,HILUX CS DSL 4X4,64,vehicle_7,Pickup,Diesel,Automatic,5,2500.0,5.0,True,5.0
+customer_1,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,32,vehicle_9,Pickup,Diesel,Automatic,5,2500.0,5.0,True,3.0
+customer_1,VW-GOL TREND 1.6 FLEX 4P,32,vehicle_2,Hatchback,Flex,Manual,5,2500.0,5.0,True,3.0
+customer_10,FIAT - ARGO DRIVE 1.0,8,vehicle_4,Hatchback,Petrol,Manual,5,2500.0,5.0,True,1.0
+customer_10,HILUX CS DSL 4X4,8,vehicle_7,Pickup,Diesel,Automatic,5,2500.0,5.0,True,1.0
+customer_10,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,8,vehicle_9,Pickup,Diesel,Automatic,5,2500.0,5.0,True,1.0
+customer_10,SAVEIRO CS RB MPI,8,vehicle_1,Pickup,Petrol,Manual,5,2500.0,5.0,True,1.0
+customer_10,TOYOTA-HILUX CD 4X4 STANDART,8,vehicle_10,Pickup,Diesel,Automatic,5,2500.0,5.0,True,1.0
+customer_10,TOYOTA-HILUX CS 4X4,8,vehicle_6,Pickup,Petrol,Automatic,5,2500.0,5.0,True,1.0
+customer_10,VW-GOL TREND 1.6 FLEX 4P,8,vehicle_2,Hatchback,Flex,Manual,5,2500.0,5.0,True,1.0
+customer_11,FIAT-NOVA STRADA ENDURANCE CS 1.4,18,vehicle_3,Pickup,Petrol,Manual,5,2500.0,5.0,True,1.0
+customer_11,GM-S10 CABINE SIMPLES,18,vehicle_8,Pickup,Petrol,Automatic,5,2500.0,5.0,True,1.0
+customer_11,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,18,vehicle_9,Pickup,Diesel,Automatic,5,2500.0,5.0,True,1.0
+customer_11,TOYOTA-HILUX CD 4X4 STANDART,18,vehicle_10,Pickup,Diesel,Automatic,5,2500.0,5.0,True,1.0
+customer_11,VW-GOL TREND 1.6 FLEX 4P,18,vehicle_2,Hatchback,Flex,Manual,5,2500.0,5.0,True,1.0
+customer_12,DUSTER OROCH EXPRESS 1.6 SCE,38,vehicle_5,Pickup,Petrol,Automatic,5,2500.0,5.0,True,4.0
+customer_12,FIAT - ARGO DRIVE 1.0,32,vehicle_4,Hatchback,Petrol,Manual,5,2500.0,5.0,True,3.0
+customer_12,FIAT-NOVA STRADA ENDURANCE CS 1.4,32,vehicle_3,Pickup,Petrol,Manual,5,2500.0,5.0,True,3.0
+customer_12,HILUX CS DSL 4X4,38,vehicle_7,Pickup,Diesel,Automatic,5,2500.0,5.0,True,4.0
+customer_12,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,8,vehicle_9,Pickup,Diesel,Automatic,5,2500.0,5.0,True,1.0
+customer_12,SAVEIRO CS RB MPI,40,vehicle_1,Pickup,Petrol,Manual,5,2500.0,5.0,True,4.0
+customer_12,TOYOTA-HILUX CD 4X4 STANDART,8,vehicle_10,Pickup,Diesel,Automatic,5,2500.0,5.0,True,1.0
+customer_12,TOYOTA-HILUX CS 4X4,8,vehicle_6,Pickup,Petrol,Automatic,5,2500.0,5.0,True,1.0
+customer_12,VW-GOL TREND 1.6 FLEX 4P,24,vehicle_2,Hatchback,Flex,Manual,5,2500.0,5.0,True,2.0
+customer_13,DUSTER OROCH EXPRESS 1.6 SCE,26,vehicle_5,Pickup,Petrol,Automatic,5,2500.0,5.0,True,3.0
+customer_13,FIAT - ARGO DRIVE 1.0,18,vehicle_4,Hatchback,Petrol,Manual,5,2500.0,5.0,True,1.0
+customer_13,HILUX CS DSL 4X4,18,vehicle_7,Pickup,Diesel,Automatic,5,2500.0,5.0,True,1.0
+customer_13,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,18,vehicle_9,Pickup,Diesel,Automatic,5,2500.0,5.0,True,1.0
+customer_13,SAVEIRO CS RB MPI,18,vehicle_1,Pickup,Petrol,Manual,5,2500.0,5.0,True,1.0
+customer_13,TOYOTA-HILUX CD 4X4 STANDART,26,vehicle_10,Pickup,Diesel,Automatic,5,2500.0,5.0,True,3.0
+customer_13,TOYOTA-HILUX CS 4X4,26,vehicle_6,Pickup,Petrol,Automatic,5,2500.0,5.0,True,3.0
+customer_14,DUSTER OROCH EXPRESS 1.6 SCE,16,vehicle_5,Pickup,Petrol,Automatic,5,2500.0,5.0,True,1.0
+customer_14,FIAT - ARGO DRIVE 1.0,16,vehicle_4,Hatchback,Petrol,Manual,5,2500.0,5.0,True,1.0
+customer_14,FIAT-NOVA STRADA ENDURANCE CS 1.4,8,vehicle_3,Pickup,Petrol,Manual,5,2500.0,5.0,True,1.0
+customer_14,GM-S10 CABINE SIMPLES,8,vehicle_8,Pickup,Petrol,Automatic,5,2500.0,5.0,True,1.0
+customer_14,HILUX CS DSL 4X4,34,vehicle_7,Pickup,Diesel,Automatic,5,2500.0,5.0,True,4.0
+customer_14,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,34,vehicle_9,Pickup,Diesel,Automatic,5,2500.0,5.0,True,4.0
+customer_14,SAVEIRO CS RB MPI,8,vehicle_1,Pickup,Petrol,Manual,5,2500.0,5.0,True,1.0
+customer_14,TOYOTA-HILUX CD 4X4 STANDART,16,vehicle_10,Pickup,Diesel,Automatic,5,2500.0,5.0,True,1.0
+customer_14,TOYOTA-HILUX CS 4X4,34,vehicle_6,Pickup,Petrol,Automatic,5,2500.0,5.0,True,4.0
+customer_14,VW-GOL TREND 1.6 FLEX 4P,16,vehicle_2,Hatchback,Flex,Manual,5,2500.0,5.0,True,1.0
+customer_15,FIAT-NOVA STRADA ENDURANCE CS 1.4,24,vehicle_3,Pickup,Petrol,Manual,5,2500.0,5.0,True,2.0
+customer_15,TOYOTA-HILUX CS 4X4,24,vehicle_6,Pickup,Petrol,Automatic,5,2500.0,5.0,True,2.0
+customer_16,DUSTER OROCH EXPRESS 1.6 SCE,32,vehicle_5,Pickup,Petrol,Automatic,5,2500.0,5.0,True,3.0
+customer_16,HILUX CS DSL 4X4,8,vehicle_7,Pickup,Diesel,Automatic,5,2500.0,5.0,True,1.0
+customer_17,DUSTER OROCH EXPRESS 1.6 SCE,8,vehicle_5,Pickup,Petrol,Automatic,5,2500.0,5.0,True,1.0
+customer_17,FIAT - ARGO DRIVE 1.0,8,vehicle_4,Hatchback,Petrol,Manual,5,2500.0,5.0,True,1.0
+customer_17,FIAT-NOVA STRADA ENDURANCE CS 1.4,16,vehicle_3,Pickup,Petrol,Manual,5,2500.0,5.0,True,1.0
+customer_17,GM-S10 CABINE SIMPLES,18,vehicle_8,Pickup,Petrol,Automatic,5,2500.0,5.0,True,1.0
+customer_17,HILUX CS DSL 4X4,34,vehicle_7,Pickup,Diesel,Automatic,5,2500.0,5.0,True,4.0
+customer_17,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,30,vehicle_9,Pickup,Diesel,Automatic,5,2500.0,5.0,True,3.0
+customer_17,SAVEIRO CS RB MPI,8,vehicle_1,Pickup,Petrol,Manual,5,2500.0,5.0,True,1.0
+customer_17,TOYOTA-HILUX CD 4X4 STANDART,26,vehicle_10,Pickup,Diesel,Automatic,5,2500.0,5.0,True,3.0
+customer_17,TOYOTA-HILUX CS 4X4,16,vehicle_6,Pickup,Petrol,Automatic,5,2500.0,5.0,True,1.0
+customer_17,VW-GOL TREND 1.6 FLEX 4P,16,vehicle_2,Hatchback,Flex,Manual,5,2500.0,5.0,True,1.0
+customer_18,DUSTER OROCH EXPRESS 1.6 SCE,18,vehicle_5,Pickup,Petrol,Automatic,5,2500.0,5.0,True,1.0
+customer_18,FIAT - ARGO DRIVE 1.0,18,vehicle_4,Hatchback,Petrol,Manual,5,2500.0,5.0,True,1.0
+customer_18,GM-S10 CABINE SIMPLES,18,vehicle_8,Pickup,Petrol,Automatic,5,2500.0,5.0,True,1.0
+customer_18,HILUX CS DSL 4X4,24,vehicle_7,Pickup,Diesel,Automatic,5,2500.0,5.0,True,2.0
+customer_18,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,24,vehicle_9,Pickup,Diesel,Automatic,5,2500.0,5.0,True,2.0
+customer_18,SAVEIRO CS RB MPI,26,vehicle_1,Pickup,Petrol,Manual,5,2500.0,5.0,True,3.0
+customer_18,TOYOTA-HILUX CD 4X4 STANDART,8,vehicle_10,Pickup,Diesel,Automatic,5,2500.0,5.0,True,1.0
+customer_18,TOYOTA-HILUX CS 4X4,18,vehicle_6,Pickup,Petrol,Automatic,5,2500.0,5.0,True,1.0
+customer_18,VW-GOL TREND 1.6 FLEX 4P,18,vehicle_2,Hatchback,Flex,Manual,5,2500.0,5.0,True,1.0
+customer_19,DUSTER OROCH EXPRESS 1.6 SCE,18,vehicle_5,Pickup,Petrol,Automatic,5,2500.0,5.0,True,1.0
+customer_19,FIAT - ARGO DRIVE 1.0,18,vehicle_4,Hatchback,Petrol,Manual,5,2500.0,5.0,True,1.0
+customer_19,FIAT-NOVA STRADA ENDURANCE CS 1.4,18,vehicle_3,Pickup,Petrol,Manual,5,2500.0,5.0,True,1.0
+customer_19,GM-S10 CABINE SIMPLES,18,vehicle_8,Pickup,Petrol,Automatic,5,2500.0,5.0,True,1.0
+customer_19,HILUX CS DSL 4X4,18,vehicle_7,Pickup,Diesel,Automatic,5,2500.0,5.0,True,1.0
+customer_19,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,18,vehicle_9,Pickup,Diesel,Automatic,5,2500.0,5.0,True,1.0
+customer_19,SAVEIRO CS RB MPI,18,vehicle_1,Pickup,Petrol,Manual,5,2500.0,5.0,True,1.0
+customer_19,TOYOTA-HILUX CD 4X4 STANDART,18,vehicle_10,Pickup,Diesel,Automatic,5,2500.0,5.0,True,1.0
+customer_19,TOYOTA-HILUX CS 4X4,18,vehicle_6,Pickup,Petrol,Automatic,5,2500.0,5.0,True,1.0
+customer_19,VW-GOL TREND 1.6 FLEX 4P,18,vehicle_2,Hatchback,Flex,Manual,5,2500.0,5.0,True,1.0
+customer_2,FIAT - ARGO DRIVE 1.0,18,vehicle_4,Hatchback,Petrol,Manual,5,2500.0,5.0,True,1.0
+customer_2,GM-S10 CABINE SIMPLES,18,vehicle_8,Pickup,Petrol,Automatic,5,2500.0,5.0,True,1.0
+customer_2,HILUX CS DSL 4X4,18,vehicle_7,Pickup,Diesel,Automatic,5,2500.0,5.0,True,1.0
+customer_2,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,18,vehicle_9,Pickup,Diesel,Automatic,5,2500.0,5.0,True,1.0
+customer_2,SAVEIRO CS RB MPI,18,vehicle_1,Pickup,Petrol,Manual,5,2500.0,5.0,True,1.0
+customer_2,TOYOTA-HILUX CD 4X4 STANDART,18,vehicle_10,Pickup,Diesel,Automatic,5,2500.0,5.0,True,1.0
+customer_2,TOYOTA-HILUX CS 4X4,18,vehicle_6,Pickup,Petrol,Automatic,5,2500.0,5.0,True,1.0
+customer_20,DUSTER OROCH EXPRESS 1.6 SCE,48,vehicle_5,Pickup,Petrol,Automatic,5,2500.0,5.0,True,4.0
+customer_20,FIAT - ARGO DRIVE 1.0,24,vehicle_4,Hatchback,Petrol,Manual,5,2500.0,5.0,True,2.0
+customer_20,FIAT-NOVA STRADA ENDURANCE CS 1.4,24,vehicle_3,Pickup,Petrol,Manual,5,2500.0,5.0,True,2.0
+customer_20,GM-S10 CABINE SIMPLES,24,vehicle_8,Pickup,Petrol,Automatic,5,2500.0,5.0,True,2.0
+customer_20,HILUX CS DSL 4X4,24,vehicle_7,Pickup,Diesel,Automatic,5,2500.0,5.0,True,2.0
+customer_20,SAVEIRO CS RB MPI,24,vehicle_1,Pickup,Petrol,Manual,5,2500.0,5.0,True,2.0
+customer_20,VW-GOL TREND 1.6 FLEX 4P,24,vehicle_2,Hatchback,Flex,Manual,5,2500.0,5.0,True,2.0
+customer_21,FIAT-NOVA STRADA ENDURANCE CS 1.4,56,vehicle_3,Pickup,Petrol,Manual,5,2500.0,5.0,True,5.0
+customer_21,GM-S10 CABINE SIMPLES,56,vehicle_8,Pickup,Petrol,Automatic,5,2500.0,5.0,True,5.0
+customer_21,HILUX CS DSL 4X4,24,vehicle_7,Pickup,Diesel,Automatic,5,2500.0,5.0,True,2.0
+customer_21,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,24,vehicle_9,Pickup,Diesel,Automatic,5,2500.0,5.0,True,2.0
+customer_21,SAVEIRO CS RB MPI,24,vehicle_1,Pickup,Petrol,Manual,5,2500.0,5.0,True,2.0
+customer_21,TOYOTA-HILUX CD 4X4 STANDART,24,vehicle_10,Pickup,Diesel,Automatic,5,2500.0,5.0,True,2.0
+customer_21,TOYOTA-HILUX CS 4X4,24,vehicle_6,Pickup,Petrol,Automatic,5,2500.0,5.0,True,2.0
+customer_21,VW-GOL TREND 1.6 FLEX 4P,24,vehicle_2,Hatchback,Flex,Manual,5,2500.0,5.0,True,2.0
+customer_22,DUSTER OROCH EXPRESS 1.6 SCE,18,vehicle_5,Pickup,Petrol,Automatic,5,2500.0,5.0,True,1.0
+customer_22,FIAT-NOVA STRADA ENDURANCE CS 1.4,18,vehicle_3,Pickup,Petrol,Manual,5,2500.0,5.0,True,1.0
+customer_22,GM-S10 CABINE SIMPLES,18,vehicle_8,Pickup,Petrol,Automatic,5,2500.0,5.0,True,1.0
+customer_22,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,18,vehicle_9,Pickup,Diesel,Automatic,5,2500.0,5.0,True,1.0
+customer_22,SAVEIRO CS RB MPI,18,vehicle_1,Pickup,Petrol,Manual,5,2500.0,5.0,True,1.0
+customer_22,VW-GOL TREND 1.6 FLEX 4P,18,vehicle_2,Hatchback,Flex,Manual,5,2500.0,5.0,True,1.0
+customer_23,FIAT - ARGO DRIVE 1.0,18,vehicle_4,Hatchback,Petrol,Manual,5,2500.0,5.0,True,1.0
+customer_24,DUSTER OROCH EXPRESS 1.6 SCE,22,vehicle_5,Pickup,Petrol,Automatic,5,2500.0,5.0,True,2.0
+customer_24,FIAT - ARGO DRIVE 1.0,28,vehicle_4,Hatchback,Petrol,Manual,5,2500.0,5.0,True,3.0
+customer_24,FIAT-NOVA STRADA ENDURANCE CS 1.4,36,vehicle_3,Pickup,Petrol,Manual,5,2500.0,5.0,True,4.0
+customer_24,GM-S10 CABINE SIMPLES,22,vehicle_8,Pickup,Petrol,Automatic,5,2500.0,5.0,True,2.0
+customer_24,HILUX CS DSL 4X4,68,vehicle_7,Pickup,Diesel,Automatic,5,2500.0,5.0,True,5.0
+customer_24,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,28,vehicle_9,Pickup,Diesel,Automatic,5,2500.0,5.0,True,3.0
+customer_24,SAVEIRO CS RB MPI,28,vehicle_1,Pickup,Petrol,Manual,5,2500.0,5.0,True,3.0
+customer_24,TOYOTA-HILUX CD 4X4 STANDART,28,vehicle_10,Pickup,Diesel,Automatic,5,2500.0,5.0,True,3.0
+customer_24,TOYOTA-HILUX CS 4X4,36,vehicle_6,Pickup,Petrol,Automatic,5,2500.0,5.0,True,4.0
+customer_24,VW-GOL TREND 1.6 FLEX 4P,42,vehicle_2,Hatchback,Flex,Manual,5,2500.0,5.0,True,4.0
+customer_25,DUSTER OROCH EXPRESS 1.6 SCE,14,vehicle_5,Pickup,Petrol,Automatic,5,2500.0,5.0,True,1.0
+customer_25,GM-S10 CABINE SIMPLES,14,vehicle_8,Pickup,Petrol,Automatic,5,2500.0,5.0,True,1.0
+customer_25,HILUX CS DSL 4X4,14,vehicle_7,Pickup,Diesel,Automatic,5,2500.0,5.0,True,1.0
+customer_25,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,14,vehicle_9,Pickup,Diesel,Automatic,5,2500.0,5.0,True,1.0
+customer_25,TOYOTA-HILUX CD 4X4 STANDART,14,vehicle_10,Pickup,Diesel,Automatic,5,2500.0,5.0,True,1.0
+customer_25,VW-GOL TREND 1.6 FLEX 4P,14,vehicle_2,Hatchback,Flex,Manual,5,2500.0,5.0,True,1.0
+customer_26,DUSTER OROCH EXPRESS 1.6 SCE,32,vehicle_5,Pickup,Petrol,Automatic,5,2500.0,5.0,True,3.0
+customer_26,FIAT - ARGO DRIVE 1.0,38,vehicle_4,Hatchback,Petrol,Manual,5,2500.0,5.0,True,4.0
+customer_26,FIAT-NOVA STRADA ENDURANCE CS 1.4,14,vehicle_3,Pickup,Petrol,Manual,5,2500.0,5.0,True,1.0
+customer_26,GM-S10 CABINE SIMPLES,32,vehicle_8,Pickup,Petrol,Automatic,5,2500.0,5.0,True,3.0
+customer_26,HILUX CS DSL 4X4,32,vehicle_7,Pickup,Diesel,Automatic,5,2500.0,5.0,True,3.0
+customer_26,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,32,vehicle_9,Pickup,Diesel,Automatic,5,2500.0,5.0,True,3.0
+customer_26,SAVEIRO CS RB MPI,42,vehicle_1,Pickup,Petrol,Manual,5,2500.0,5.0,True,4.0
+customer_26,TOYOTA-HILUX CD 4X4 STANDART,18,vehicle_10,Pickup,Diesel,Automatic,5,2500.0,5.0,True,1.0
+customer_26,TOYOTA-HILUX CS 4X4,48,vehicle_6,Pickup,Petrol,Automatic,5,2500.0,5.0,True,4.0
+customer_26,VW-GOL TREND 1.6 FLEX 4P,48,vehicle_2,Hatchback,Flex,Manual,5,2500.0,5.0,True,4.0
+customer_27,DUSTER OROCH EXPRESS 1.6 SCE,50,vehicle_5,Pickup,Petrol,Automatic,5,2500.0,5.0,True,5.0
+customer_27,FIAT - ARGO DRIVE 1.0,50,vehicle_4,Hatchback,Petrol,Manual,5,2500.0,5.0,True,5.0
+customer_27,FIAT-NOVA STRADA ENDURANCE CS 1.4,50,vehicle_3,Pickup,Petrol,Manual,5,2500.0,5.0,True,5.0
+customer_27,GM-S10 CABINE SIMPLES,50,vehicle_8,Pickup,Petrol,Automatic,5,2500.0,5.0,True,5.0
+customer_27,HILUX CS DSL 4X4,32,vehicle_7,Pickup,Diesel,Automatic,5,2500.0,5.0,True,3.0
+customer_27,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,50,vehicle_9,Pickup,Diesel,Automatic,5,2500.0,5.0,True,5.0
+customer_27,SAVEIRO CS RB MPI,50,vehicle_1,Pickup,Petrol,Manual,5,2500.0,5.0,True,5.0
+customer_27,TOYOTA-HILUX CD 4X4 STANDART,32,vehicle_10,Pickup,Diesel,Automatic,5,2500.0,5.0,True,3.0
+customer_27,TOYOTA-HILUX CS 4X4,50,vehicle_6,Pickup,Petrol,Automatic,5,2500.0,5.0,True,5.0
+customer_27,VW-GOL TREND 1.6 FLEX 4P,50,vehicle_2,Hatchback,Flex,Manual,5,2500.0,5.0,True,5.0
+customer_28,DUSTER OROCH EXPRESS 1.6 SCE,32,vehicle_5,Pickup,Petrol,Automatic,5,2500.0,5.0,True,3.0
+customer_28,FIAT - ARGO DRIVE 1.0,32,vehicle_4,Hatchback,Petrol,Manual,5,2500.0,5.0,True,3.0
+customer_28,FIAT-NOVA STRADA ENDURANCE CS 1.4,32,vehicle_3,Pickup,Petrol,Manual,5,2500.0,5.0,True,3.0
+customer_28,GM-S10 CABINE SIMPLES,32,vehicle_8,Pickup,Petrol,Automatic,5,2500.0,5.0,True,3.0
+customer_28,HILUX CS DSL 4X4,32,vehicle_7,Pickup,Diesel,Automatic,5,2500.0,5.0,True,3.0
+customer_28,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,32,vehicle_9,Pickup,Diesel,Automatic,5,2500.0,5.0,True,3.0
+customer_28,SAVEIRO CS RB MPI,32,vehicle_1,Pickup,Petrol,Manual,5,2500.0,5.0,True,3.0
+customer_28,TOYOTA-HILUX CD 4X4 STANDART,32,vehicle_10,Pickup,Diesel,Automatic,5,2500.0,5.0,True,3.0
+customer_28,TOYOTA-HILUX CS 4X4,50,vehicle_6,Pickup,Petrol,Automatic,5,2500.0,5.0,True,5.0
+customer_28,VW-GOL TREND 1.6 FLEX 4P,32,vehicle_2,Hatchback,Flex,Manual,5,2500.0,5.0,True,3.0
+customer_29,DUSTER OROCH EXPRESS 1.6 SCE,42,vehicle_5,Pickup,Petrol,Automatic,5,2500.0,5.0,True,4.0
+customer_29,FIAT - ARGO DRIVE 1.0,18,vehicle_4,Hatchback,Petrol,Manual,5,2500.0,5.0,True,1.0
+customer_29,GM-S10 CABINE SIMPLES,18,vehicle_8,Pickup,Petrol,Automatic,5,2500.0,5.0,True,1.0
+customer_29,HILUX CS DSL 4X4,8,vehicle_7,Pickup,Diesel,Automatic,5,2500.0,5.0,True,1.0
+customer_29,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,24,vehicle_9,Pickup,Diesel,Automatic,5,2500.0,5.0,True,2.0
+customer_29,TOYOTA-HILUX CD 4X4 STANDART,24,vehicle_10,Pickup,Diesel,Automatic,5,2500.0,5.0,True,2.0
+customer_29,TOYOTA-HILUX CS 4X4,66,vehicle_6,Pickup,Petrol,Automatic,5,2500.0,5.0,True,5.0
+customer_29,VW-GOL TREND 1.6 FLEX 4P,48,vehicle_2,Hatchback,Flex,Manual,5,2500.0,5.0,True,4.0
+customer_3,DUSTER OROCH EXPRESS 1.6 SCE,24,vehicle_5,Pickup,Petrol,Automatic,5,2500.0,5.0,True,2.0
+customer_3,FIAT - ARGO DRIVE 1.0,48,vehicle_4,Hatchback,Petrol,Manual,5,2500.0,5.0,True,4.0
+customer_3,FIAT-NOVA STRADA ENDURANCE CS 1.4,24,vehicle_3,Pickup,Petrol,Manual,5,2500.0,5.0,True,2.0
+customer_3,GM-S10 CABINE SIMPLES,24,vehicle_8,Pickup,Petrol,Automatic,5,2500.0,5.0,True,2.0
+customer_3,HILUX CS DSL 4X4,24,vehicle_7,Pickup,Diesel,Automatic,5,2500.0,5.0,True,2.0
+customer_3,SAVEIRO CS RB MPI,24,vehicle_1,Pickup,Petrol,Manual,5,2500.0,5.0,True,2.0
+customer_3,TOYOTA-HILUX CD 4X4 STANDART,48,vehicle_10,Pickup,Diesel,Automatic,5,2500.0,5.0,True,4.0
+customer_3,TOYOTA-HILUX CS 4X4,24,vehicle_6,Pickup,Petrol,Automatic,5,2500.0,5.0,True,2.0
+customer_3,VW-GOL TREND 1.6 FLEX 4P,24,vehicle_2,Hatchback,Flex,Manual,5,2500.0,5.0,True,2.0
+customer_30,DUSTER OROCH EXPRESS 1.6 SCE,32,vehicle_5,Pickup,Petrol,Automatic,5,2500.0,5.0,True,3.0
+customer_30,GM-S10 CABINE SIMPLES,32,vehicle_8,Pickup,Petrol,Automatic,5,2500.0,5.0,True,3.0
+customer_30,HILUX CS DSL 4X4,32,vehicle_7,Pickup,Diesel,Automatic,5,2500.0,5.0,True,3.0
+customer_31,DUSTER OROCH EXPRESS 1.6 SCE,70,vehicle_5,Pickup,Petrol,Automatic,5,2500.0,5.0,True,5.0
+customer_31,FIAT - ARGO DRIVE 1.0,46,vehicle_4,Hatchback,Petrol,Manual,5,2500.0,5.0,True,4.0
+customer_31,FIAT-NOVA STRADA ENDURANCE CS 1.4,46,vehicle_3,Pickup,Petrol,Manual,5,2500.0,5.0,True,4.0
+customer_31,GM-S10 CABINE SIMPLES,78,vehicle_8,Pickup,Petrol,Automatic,5,2500.0,5.0,True,5.0
+customer_31,HILUX CS DSL 4X4,86,vehicle_7,Pickup,Diesel,Automatic,5,2500.0,5.0,True,5.0
+customer_31,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,46,vehicle_9,Pickup,Diesel,Automatic,5,2500.0,5.0,True,4.0
+customer_31,SAVEIRO CS RB MPI,32,vehicle_1,Pickup,Petrol,Manual,5,2500.0,5.0,True,3.0
+customer_31,TOYOTA-HILUX CD 4X4 STANDART,46,vehicle_10,Pickup,Diesel,Automatic,5,2500.0,5.0,True,4.0
+customer_31,TOYOTA-HILUX CS 4X4,38,vehicle_6,Pickup,Petrol,Automatic,5,2500.0,5.0,True,4.0
+customer_31,VW-GOL TREND 1.6 FLEX 4P,24,vehicle_2,Hatchback,Flex,Manual,5,2500.0,5.0,True,2.0
+customer_32,FIAT - ARGO DRIVE 1.0,8,vehicle_4,Hatchback,Petrol,Manual,5,2500.0,5.0,True,1.0
+customer_32,FIAT-NOVA STRADA ENDURANCE CS 1.4,8,vehicle_3,Pickup,Petrol,Manual,5,2500.0,5.0,True,1.0
+customer_32,GM-S10 CABINE SIMPLES,8,vehicle_8,Pickup,Petrol,Automatic,5,2500.0,5.0,True,1.0
+customer_32,HILUX CS DSL 4X4,8,vehicle_7,Pickup,Diesel,Automatic,5,2500.0,5.0,True,1.0
+customer_32,TOYOTA-HILUX CD 4X4 STANDART,8,vehicle_10,Pickup,Diesel,Automatic,5,2500.0,5.0,True,1.0
+customer_32,TOYOTA-HILUX CS 4X4,8,vehicle_6,Pickup,Petrol,Automatic,5,2500.0,5.0,True,1.0
+customer_33,DUSTER OROCH EXPRESS 1.6 SCE,32,vehicle_5,Pickup,Petrol,Automatic,5,2500.0,5.0,True,3.0
+customer_33,FIAT-NOVA STRADA ENDURANCE CS 1.4,32,vehicle_3,Pickup,Petrol,Manual,5,2500.0,5.0,True,3.0
+customer_33,HILUX CS DSL 4X4,32,vehicle_7,Pickup,Diesel,Automatic,5,2500.0,5.0,True,3.0
+customer_33,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,32,vehicle_9,Pickup,Diesel,Automatic,5,2500.0,5.0,True,3.0
+customer_33,SAVEIRO CS RB MPI,32,vehicle_1,Pickup,Petrol,Manual,5,2500.0,5.0,True,3.0
+customer_33,TOYOTA-HILUX CD 4X4 STANDART,32,vehicle_10,Pickup,Diesel,Automatic,5,2500.0,5.0,True,3.0
+customer_33,TOYOTA-HILUX CS 4X4,32,vehicle_6,Pickup,Petrol,Automatic,5,2500.0,5.0,True,3.0
+customer_33,VW-GOL TREND 1.6 FLEX 4P,32,vehicle_2,Hatchback,Flex,Manual,5,2500.0,5.0,True,3.0
+customer_34,DUSTER OROCH EXPRESS 1.6 SCE,48,vehicle_5,Pickup,Petrol,Automatic,5,2500.0,5.0,True,4.0
+customer_34,FIAT - ARGO DRIVE 1.0,48,vehicle_4,Hatchback,Petrol,Manual,5,2500.0,5.0,True,4.0
+customer_34,FIAT-NOVA STRADA ENDURANCE CS 1.4,62,vehicle_3,Pickup,Petrol,Manual,5,2500.0,5.0,True,5.0
+customer_34,GM-S10 CABINE SIMPLES,62,vehicle_8,Pickup,Petrol,Automatic,5,2500.0,5.0,True,5.0
+customer_34,HILUX CS DSL 4X4,48,vehicle_7,Pickup,Diesel,Automatic,5,2500.0,5.0,True,4.0
+customer_34,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,48,vehicle_9,Pickup,Diesel,Automatic,5,2500.0,5.0,True,4.0
+customer_34,SAVEIRO CS RB MPI,48,vehicle_1,Pickup,Petrol,Manual,5,2500.0,5.0,True,4.0
+customer_34,TOYOTA-HILUX CD 4X4 STANDART,38,vehicle_10,Pickup,Diesel,Automatic,5,2500.0,5.0,True,4.0
+customer_34,TOYOTA-HILUX CS 4X4,24,vehicle_6,Pickup,Petrol,Automatic,5,2500.0,5.0,True,2.0
+customer_34,VW-GOL TREND 1.6 FLEX 4P,24,vehicle_2,Hatchback,Flex,Manual,5,2500.0,5.0,True,2.0
+customer_35,DUSTER OROCH EXPRESS 1.6 SCE,56,vehicle_5,Pickup,Petrol,Automatic,5,2500.0,5.0,True,5.0
+customer_35,FIAT - ARGO DRIVE 1.0,38,vehicle_4,Hatchback,Petrol,Manual,5,2500.0,5.0,True,4.0
+customer_35,FIAT-NOVA STRADA ENDURANCE CS 1.4,70,vehicle_3,Pickup,Petrol,Manual,5,2500.0,5.0,True,5.0
+customer_35,GM-S10 CABINE SIMPLES,70,vehicle_8,Pickup,Petrol,Automatic,5,2500.0,5.0,True,5.0
+customer_35,HILUX CS DSL 4X4,56,vehicle_7,Pickup,Diesel,Automatic,5,2500.0,5.0,True,5.0
+customer_35,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,24,vehicle_9,Pickup,Diesel,Automatic,5,2500.0,5.0,True,2.0
+customer_35,SAVEIRO CS RB MPI,70,vehicle_1,Pickup,Petrol,Manual,5,2500.0,5.0,True,5.0
+customer_35,TOYOTA-HILUX CD 4X4 STANDART,56,vehicle_10,Pickup,Diesel,Automatic,5,2500.0,5.0,True,5.0
+customer_35,TOYOTA-HILUX CS 4X4,32,vehicle_6,Pickup,Petrol,Automatic,5,2500.0,5.0,True,3.0
+customer_35,VW-GOL TREND 1.6 FLEX 4P,46,vehicle_2,Hatchback,Flex,Manual,5,2500.0,5.0,True,4.0
+customer_36,DUSTER OROCH EXPRESS 1.6 SCE,38,vehicle_5,Pickup,Petrol,Automatic,5,2500.0,5.0,True,4.0
+customer_36,FIAT - ARGO DRIVE 1.0,38,vehicle_4,Hatchback,Petrol,Manual,5,2500.0,5.0,True,4.0
+customer_36,FIAT-NOVA STRADA ENDURANCE CS 1.4,24,vehicle_3,Pickup,Petrol,Manual,5,2500.0,5.0,True,2.0
+customer_36,GM-S10 CABINE SIMPLES,70,vehicle_8,Pickup,Petrol,Automatic,5,2500.0,5.0,True,5.0
+customer_36,HILUX CS DSL 4X4,56,vehicle_7,Pickup,Diesel,Automatic,5,2500.0,5.0,True,5.0
+customer_36,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,94,vehicle_9,Pickup,Diesel,Automatic,5,2500.0,5.0,True,5.0
+customer_36,SAVEIRO CS RB MPI,70,vehicle_1,Pickup,Petrol,Manual,5,2500.0,5.0,True,5.0
+customer_36,TOYOTA-HILUX CD 4X4 STANDART,94,vehicle_10,Pickup,Diesel,Automatic,5,2500.0,5.0,True,5.0
+customer_36,TOYOTA-HILUX CS 4X4,38,vehicle_6,Pickup,Petrol,Automatic,5,2500.0,5.0,True,4.0
+customer_36,VW-GOL TREND 1.6 FLEX 4P,38,vehicle_2,Hatchback,Flex,Manual,5,2500.0,5.0,True,4.0
+customer_37,DUSTER OROCH EXPRESS 1.6 SCE,8,vehicle_5,Pickup,Petrol,Automatic,5,2500.0,5.0,True,1.0
+customer_37,FIAT - ARGO DRIVE 1.0,32,vehicle_4,Hatchback,Petrol,Manual,5,2500.0,5.0,True,3.0
+customer_37,GM-S10 CABINE SIMPLES,26,vehicle_8,Pickup,Petrol,Automatic,5,2500.0,5.0,True,3.0
+customer_37,HILUX CS DSL 4X4,26,vehicle_7,Pickup,Diesel,Automatic,5,2500.0,5.0,True,3.0
+customer_37,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,26,vehicle_9,Pickup,Diesel,Automatic,5,2500.0,5.0,True,3.0
+customer_37,SAVEIRO CS RB MPI,58,vehicle_1,Pickup,Petrol,Manual,5,2500.0,5.0,True,5.0
+customer_37,TOYOTA-HILUX CD 4X4 STANDART,8,vehicle_10,Pickup,Diesel,Automatic,5,2500.0,5.0,True,1.0
+customer_37,TOYOTA-HILUX CS 4X4,8,vehicle_6,Pickup,Petrol,Automatic,5,2500.0,5.0,True,1.0
+customer_37,VW-GOL TREND 1.6 FLEX 4P,36,vehicle_2,Hatchback,Flex,Manual,5,2500.0,5.0,True,4.0
+customer_38,TOYOTA-HILUX CD 4X4 STANDART,14,vehicle_10,Pickup,Diesel,Automatic,5,2500.0,5.0,True,1.0
+customer_39,DUSTER OROCH EXPRESS 1.6 SCE,128,vehicle_5,Pickup,Petrol,Automatic,5,2500.0,5.0,True,5.0
+customer_39,FIAT - ARGO DRIVE 1.0,114,vehicle_4,Hatchback,Petrol,Manual,5,2500.0,5.0,True,5.0
+customer_39,FIAT-NOVA STRADA ENDURANCE CS 1.4,96,vehicle_3,Pickup,Petrol,Manual,5,2500.0,5.0,True,5.0
+customer_39,GM-S10 CABINE SIMPLES,128,vehicle_8,Pickup,Petrol,Automatic,5,2500.0,5.0,True,5.0
+customer_39,HILUX CS DSL 4X4,64,vehicle_7,Pickup,Diesel,Automatic,5,2500.0,5.0,True,5.0
+customer_39,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,96,vehicle_9,Pickup,Diesel,Automatic,5,2500.0,5.0,True,5.0
+customer_39,SAVEIRO CS RB MPI,114,vehicle_1,Pickup,Petrol,Manual,5,2500.0,5.0,True,5.0
+customer_39,TOYOTA-HILUX CD 4X4 STANDART,114,vehicle_10,Pickup,Diesel,Automatic,5,2500.0,5.0,True,5.0
+customer_39,TOYOTA-HILUX CS 4X4,110,vehicle_6,Pickup,Petrol,Automatic,5,2500.0,5.0,True,5.0
+customer_39,VW-GOL TREND 1.6 FLEX 4P,114,vehicle_2,Hatchback,Flex,Manual,5,2500.0,5.0,True,5.0
+customer_4,DUSTER OROCH EXPRESS 1.6 SCE,38,vehicle_5,Pickup,Petrol,Automatic,5,2500.0,5.0,True,4.0
+customer_4,FIAT - ARGO DRIVE 1.0,38,vehicle_4,Hatchback,Petrol,Manual,5,2500.0,5.0,True,4.0
+customer_4,FIAT-NOVA STRADA ENDURANCE CS 1.4,38,vehicle_3,Pickup,Petrol,Manual,5,2500.0,5.0,True,4.0
+customer_4,GM-S10 CABINE SIMPLES,38,vehicle_8,Pickup,Petrol,Automatic,5,2500.0,5.0,True,4.0
+customer_4,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,38,vehicle_9,Pickup,Diesel,Automatic,5,2500.0,5.0,True,4.0
+customer_4,SAVEIRO CS RB MPI,46,vehicle_1,Pickup,Petrol,Manual,5,2500.0,5.0,True,4.0
+customer_4,TOYOTA-HILUX CS 4X4,38,vehicle_6,Pickup,Petrol,Automatic,5,2500.0,5.0,True,4.0
+customer_4,VW-GOL TREND 1.6 FLEX 4P,24,vehicle_2,Hatchback,Flex,Manual,5,2500.0,5.0,True,2.0
+customer_40,DUSTER OROCH EXPRESS 1.6 SCE,46,vehicle_5,Pickup,Petrol,Automatic,5,2500.0,5.0,True,4.0
+customer_40,FIAT - ARGO DRIVE 1.0,32,vehicle_4,Hatchback,Petrol,Manual,5,2500.0,5.0,True,3.0
+customer_40,FIAT-NOVA STRADA ENDURANCE CS 1.4,32,vehicle_3,Pickup,Petrol,Manual,5,2500.0,5.0,True,3.0
+customer_40,GM-S10 CABINE SIMPLES,32,vehicle_8,Pickup,Petrol,Automatic,5,2500.0,5.0,True,3.0
+customer_40,HILUX CS DSL 4X4,14,vehicle_7,Pickup,Diesel,Automatic,5,2500.0,5.0,True,1.0
+customer_40,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,46,vehicle_9,Pickup,Diesel,Automatic,5,2500.0,5.0,True,4.0
+customer_40,SAVEIRO CS RB MPI,46,vehicle_1,Pickup,Petrol,Manual,5,2500.0,5.0,True,4.0
+customer_40,TOYOTA-HILUX CD 4X4 STANDART,14,vehicle_10,Pickup,Diesel,Automatic,5,2500.0,5.0,True,1.0
+customer_40,TOYOTA-HILUX CS 4X4,46,vehicle_6,Pickup,Petrol,Automatic,5,2500.0,5.0,True,4.0
+customer_40,VW-GOL TREND 1.6 FLEX 4P,70,vehicle_2,Hatchback,Flex,Manual,5,2500.0,5.0,True,5.0
+customer_41,DUSTER OROCH EXPRESS 1.6 SCE,24,vehicle_5,Pickup,Petrol,Automatic,5,2500.0,5.0,True,2.0
+customer_41,FIAT - ARGO DRIVE 1.0,24,vehicle_4,Hatchback,Petrol,Manual,5,2500.0,5.0,True,2.0
+customer_41,FIAT-NOVA STRADA ENDURANCE CS 1.4,50,vehicle_3,Pickup,Petrol,Manual,5,2500.0,5.0,True,5.0
+customer_41,GM-S10 CABINE SIMPLES,42,vehicle_8,Pickup,Petrol,Automatic,5,2500.0,5.0,True,4.0
+customer_41,HILUX CS DSL 4X4,24,vehicle_7,Pickup,Diesel,Automatic,5,2500.0,5.0,True,2.0
+customer_41,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,42,vehicle_9,Pickup,Diesel,Automatic,5,2500.0,5.0,True,4.0
+customer_41,SAVEIRO CS RB MPI,42,vehicle_1,Pickup,Petrol,Manual,5,2500.0,5.0,True,4.0
+customer_41,TOYOTA-HILUX CD 4X4 STANDART,42,vehicle_10,Pickup,Diesel,Automatic,5,2500.0,5.0,True,4.0
+customer_41,TOYOTA-HILUX CS 4X4,50,vehicle_6,Pickup,Petrol,Automatic,5,2500.0,5.0,True,5.0
+customer_41,VW-GOL TREND 1.6 FLEX 4P,42,vehicle_2,Hatchback,Flex,Manual,5,2500.0,5.0,True,4.0
+customer_42,DUSTER OROCH EXPRESS 1.6 SCE,38,vehicle_5,Pickup,Petrol,Automatic,5,2500.0,5.0,True,4.0
+customer_42,FIAT - ARGO DRIVE 1.0,8,vehicle_4,Hatchback,Petrol,Manual,5,2500.0,5.0,True,1.0
+customer_42,FIAT-NOVA STRADA ENDURANCE CS 1.4,46,vehicle_3,Pickup,Petrol,Manual,5,2500.0,5.0,True,4.0
+customer_42,GM-S10 CABINE SIMPLES,16,vehicle_8,Pickup,Petrol,Automatic,5,2500.0,5.0,True,1.0
+customer_42,HILUX CS DSL 4X4,22,vehicle_7,Pickup,Diesel,Automatic,5,2500.0,5.0,True,2.0
+customer_42,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,32,vehicle_9,Pickup,Diesel,Automatic,5,2500.0,5.0,True,3.0
+customer_42,SAVEIRO CS RB MPI,46,vehicle_1,Pickup,Petrol,Manual,5,2500.0,5.0,True,4.0
+customer_42,TOYOTA-HILUX CD 4X4 STANDART,32,vehicle_10,Pickup,Diesel,Automatic,5,2500.0,5.0,True,3.0
+customer_42,TOYOTA-HILUX CS 4X4,24,vehicle_6,Pickup,Petrol,Automatic,5,2500.0,5.0,True,2.0
+customer_42,VW-GOL TREND 1.6 FLEX 4P,40,vehicle_2,Hatchback,Flex,Manual,5,2500.0,5.0,True,4.0
+customer_43,DUSTER OROCH EXPRESS 1.6 SCE,56,vehicle_5,Pickup,Petrol,Automatic,5,2500.0,5.0,True,5.0
+customer_43,FIAT - ARGO DRIVE 1.0,56,vehicle_4,Hatchback,Petrol,Manual,5,2500.0,5.0,True,5.0
+customer_43,FIAT-NOVA STRADA ENDURANCE CS 1.4,24,vehicle_3,Pickup,Petrol,Manual,5,2500.0,5.0,True,2.0
+customer_43,GM-S10 CABINE SIMPLES,32,vehicle_8,Pickup,Petrol,Automatic,5,2500.0,5.0,True,3.0
+customer_43,HILUX CS DSL 4X4,18,vehicle_7,Pickup,Diesel,Automatic,5,2500.0,5.0,True,1.0
+customer_43,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,56,vehicle_9,Pickup,Diesel,Automatic,5,2500.0,5.0,True,5.0
+customer_43,SAVEIRO CS RB MPI,38,vehicle_1,Pickup,Petrol,Manual,5,2500.0,5.0,True,4.0
+customer_43,TOYOTA-HILUX CD 4X4 STANDART,56,vehicle_10,Pickup,Diesel,Automatic,5,2500.0,5.0,True,5.0
+customer_43,TOYOTA-HILUX CS 4X4,56,vehicle_6,Pickup,Petrol,Automatic,5,2500.0,5.0,True,5.0
+customer_43,VW-GOL TREND 1.6 FLEX 4P,24,vehicle_2,Hatchback,Flex,Manual,5,2500.0,5.0,True,2.0
+customer_44,DUSTER OROCH EXPRESS 1.6 SCE,8,vehicle_5,Pickup,Petrol,Automatic,5,2500.0,5.0,True,1.0
+customer_44,FIAT-NOVA STRADA ENDURANCE CS 1.4,8,vehicle_3,Pickup,Petrol,Manual,5,2500.0,5.0,True,1.0
+customer_44,GM-S10 CABINE SIMPLES,8,vehicle_8,Pickup,Petrol,Automatic,5,2500.0,5.0,True,1.0
+customer_44,HILUX CS DSL 4X4,8,vehicle_7,Pickup,Diesel,Automatic,5,2500.0,5.0,True,1.0
+customer_44,SAVEIRO CS RB MPI,8,vehicle_1,Pickup,Petrol,Manual,5,2500.0,5.0,True,1.0
+customer_44,TOYOTA-HILUX CS 4X4,8,vehicle_6,Pickup,Petrol,Automatic,5,2500.0,5.0,True,1.0
+customer_45,DUSTER OROCH EXPRESS 1.6 SCE,46,vehicle_5,Pickup,Petrol,Automatic,5,2500.0,5.0,True,4.0
+customer_45,FIAT - ARGO DRIVE 1.0,78,vehicle_4,Hatchback,Petrol,Manual,5,2500.0,5.0,True,5.0
+customer_45,GM-S10 CABINE SIMPLES,32,vehicle_8,Pickup,Petrol,Automatic,5,2500.0,5.0,True,3.0
+customer_45,HILUX CS DSL 4X4,46,vehicle_7,Pickup,Diesel,Automatic,5,2500.0,5.0,True,4.0
+customer_45,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,24,vehicle_9,Pickup,Diesel,Automatic,5,2500.0,5.0,True,2.0
+customer_45,SAVEIRO CS RB MPI,46,vehicle_1,Pickup,Petrol,Manual,5,2500.0,5.0,True,4.0
+customer_45,TOYOTA-HILUX CD 4X4 STANDART,24,vehicle_10,Pickup,Diesel,Automatic,5,2500.0,5.0,True,2.0
+customer_45,TOYOTA-HILUX CS 4X4,32,vehicle_6,Pickup,Petrol,Automatic,5,2500.0,5.0,True,3.0
+customer_45,VW-GOL TREND 1.6 FLEX 4P,64,vehicle_2,Hatchback,Flex,Manual,5,2500.0,5.0,True,5.0
+customer_46,DUSTER OROCH EXPRESS 1.6 SCE,50,vehicle_5,Pickup,Petrol,Automatic,5,2500.0,5.0,True,5.0
+customer_46,FIAT - ARGO DRIVE 1.0,50,vehicle_4,Hatchback,Petrol,Manual,5,2500.0,5.0,True,5.0
+customer_46,FIAT-NOVA STRADA ENDURANCE CS 1.4,64,vehicle_3,Pickup,Petrol,Manual,5,2500.0,5.0,True,5.0
+customer_46,GM-S10 CABINE SIMPLES,46,vehicle_8,Pickup,Petrol,Automatic,5,2500.0,5.0,True,4.0
+customer_46,HILUX CS DSL 4X4,50,vehicle_7,Pickup,Diesel,Automatic,5,2500.0,5.0,True,5.0
+customer_46,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,64,vehicle_9,Pickup,Diesel,Automatic,5,2500.0,5.0,True,5.0
+customer_46,SAVEIRO CS RB MPI,50,vehicle_1,Pickup,Petrol,Manual,5,2500.0,5.0,True,5.0
+customer_46,TOYOTA-HILUX CD 4X4 STANDART,64,vehicle_10,Pickup,Diesel,Automatic,5,2500.0,5.0,True,5.0
+customer_46,TOYOTA-HILUX CS 4X4,64,vehicle_6,Pickup,Petrol,Automatic,5,2500.0,5.0,True,5.0
+customer_46,VW-GOL TREND 1.6 FLEX 4P,64,vehicle_2,Hatchback,Flex,Manual,5,2500.0,5.0,True,5.0
+customer_47,DUSTER OROCH EXPRESS 1.6 SCE,56,vehicle_5,Pickup,Petrol,Automatic,5,2500.0,5.0,True,5.0
+customer_47,FIAT - ARGO DRIVE 1.0,24,vehicle_4,Hatchback,Petrol,Manual,5,2500.0,5.0,True,2.0
+customer_47,FIAT-NOVA STRADA ENDURANCE CS 1.4,58,vehicle_3,Pickup,Petrol,Manual,5,2500.0,5.0,True,5.0
+customer_47,GM-S10 CABINE SIMPLES,32,vehicle_8,Pickup,Petrol,Automatic,5,2500.0,5.0,True,3.0
+customer_47,HILUX CS DSL 4X4,64,vehicle_7,Pickup,Diesel,Automatic,5,2500.0,5.0,True,5.0
+customer_47,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,32,vehicle_9,Pickup,Diesel,Automatic,5,2500.0,5.0,True,3.0
+customer_47,SAVEIRO CS RB MPI,56,vehicle_1,Pickup,Petrol,Manual,5,2500.0,5.0,True,5.0
+customer_47,TOYOTA-HILUX CD 4X4 STANDART,56,vehicle_10,Pickup,Diesel,Automatic,5,2500.0,5.0,True,5.0
+customer_47,TOYOTA-HILUX CS 4X4,56,vehicle_6,Pickup,Petrol,Automatic,5,2500.0,5.0,True,5.0
+customer_47,VW-GOL TREND 1.6 FLEX 4P,32,vehicle_2,Hatchback,Flex,Manual,5,2500.0,5.0,True,3.0
+customer_48,DUSTER OROCH EXPRESS 1.6 SCE,30,vehicle_5,Pickup,Petrol,Automatic,5,2500.0,5.0,True,3.0
+customer_48,FIAT - ARGO DRIVE 1.0,42,vehicle_4,Hatchback,Petrol,Manual,5,2500.0,5.0,True,4.0
+customer_48,FIAT-NOVA STRADA ENDURANCE CS 1.4,24,vehicle_3,Pickup,Petrol,Manual,5,2500.0,5.0,True,2.0
+customer_48,GM-S10 CABINE SIMPLES,34,vehicle_8,Pickup,Petrol,Automatic,5,2500.0,5.0,True,4.0
+customer_48,HILUX CS DSL 4X4,34,vehicle_7,Pickup,Diesel,Automatic,5,2500.0,5.0,True,4.0
+customer_48,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,26,vehicle_9,Pickup,Diesel,Automatic,5,2500.0,5.0,True,3.0
+customer_48,SAVEIRO CS RB MPI,42,vehicle_1,Pickup,Petrol,Manual,5,2500.0,5.0,True,4.0
+customer_48,TOYOTA-HILUX CD 4X4 STANDART,34,vehicle_10,Pickup,Diesel,Automatic,5,2500.0,5.0,True,4.0
+customer_48,TOYOTA-HILUX CS 4X4,42,vehicle_6,Pickup,Petrol,Automatic,5,2500.0,5.0,True,4.0
+customer_48,VW-GOL TREND 1.6 FLEX 4P,34,vehicle_2,Hatchback,Flex,Manual,5,2500.0,5.0,True,4.0
+customer_49,DUSTER OROCH EXPRESS 1.6 SCE,22,vehicle_5,Pickup,Petrol,Automatic,5,2500.0,5.0,True,2.0
+customer_49,FIAT - ARGO DRIVE 1.0,22,vehicle_4,Hatchback,Petrol,Manual,5,2500.0,5.0,True,2.0
+customer_49,FIAT-NOVA STRADA ENDURANCE CS 1.4,22,vehicle_3,Pickup,Petrol,Manual,5,2500.0,5.0,True,2.0
+customer_49,GM-S10 CABINE SIMPLES,22,vehicle_8,Pickup,Petrol,Automatic,5,2500.0,5.0,True,2.0
+customer_49,HILUX CS DSL 4X4,14,vehicle_7,Pickup,Diesel,Automatic,5,2500.0,5.0,True,1.0
+customer_49,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,14,vehicle_9,Pickup,Diesel,Automatic,5,2500.0,5.0,True,1.0
+customer_49,SAVEIRO CS RB MPI,14,vehicle_1,Pickup,Petrol,Manual,5,2500.0,5.0,True,1.0
+customer_49,TOYOTA-HILUX CD 4X4 STANDART,14,vehicle_10,Pickup,Diesel,Automatic,5,2500.0,5.0,True,1.0
+customer_49,TOYOTA-HILUX CS 4X4,14,vehicle_6,Pickup,Petrol,Automatic,5,2500.0,5.0,True,1.0
+customer_49,VW-GOL TREND 1.6 FLEX 4P,22,vehicle_2,Hatchback,Flex,Manual,5,2500.0,5.0,True,2.0
+customer_5,DUSTER OROCH EXPRESS 1.6 SCE,78,vehicle_5,Pickup,Petrol,Automatic,5,2500.0,5.0,True,5.0
+customer_5,FIAT - ARGO DRIVE 1.0,64,vehicle_4,Hatchback,Petrol,Manual,5,2500.0,5.0,True,5.0
+customer_5,FIAT-NOVA STRADA ENDURANCE CS 1.4,46,vehicle_3,Pickup,Petrol,Manual,5,2500.0,5.0,True,4.0
+customer_5,GM-S10 CABINE SIMPLES,18,vehicle_8,Pickup,Petrol,Automatic,5,2500.0,5.0,True,1.0
+customer_5,HILUX CS DSL 4X4,32,vehicle_7,Pickup,Diesel,Automatic,5,2500.0,5.0,True,3.0
+customer_5,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,50,vehicle_9,Pickup,Diesel,Automatic,5,2500.0,5.0,True,5.0
+customer_5,SAVEIRO CS RB MPI,32,vehicle_1,Pickup,Petrol,Manual,5,2500.0,5.0,True,3.0
+customer_5,TOYOTA-HILUX CD 4X4 STANDART,32,vehicle_10,Pickup,Diesel,Automatic,5,2500.0,5.0,True,3.0
+customer_5,TOYOTA-HILUX CS 4X4,32,vehicle_6,Pickup,Petrol,Automatic,5,2500.0,5.0,True,3.0
+customer_5,VW-GOL TREND 1.6 FLEX 4P,50,vehicle_2,Hatchback,Flex,Manual,5,2500.0,5.0,True,5.0
+customer_50,DUSTER OROCH EXPRESS 1.6 SCE,8,vehicle_5,Pickup,Petrol,Automatic,5,2500.0,5.0,True,1.0
+customer_50,FIAT - ARGO DRIVE 1.0,8,vehicle_4,Hatchback,Petrol,Manual,5,2500.0,5.0,True,1.0
+customer_50,GM-S10 CABINE SIMPLES,16,vehicle_8,Pickup,Petrol,Automatic,5,2500.0,5.0,True,1.0
+customer_50,HILUX CS DSL 4X4,8,vehicle_7,Pickup,Diesel,Automatic,5,2500.0,5.0,True,1.0
+customer_50,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,16,vehicle_9,Pickup,Diesel,Automatic,5,2500.0,5.0,True,1.0
+customer_50,SAVEIRO CS RB MPI,8,vehicle_1,Pickup,Petrol,Manual,5,2500.0,5.0,True,1.0
+customer_50,TOYOTA-HILUX CD 4X4 STANDART,8,vehicle_10,Pickup,Diesel,Automatic,5,2500.0,5.0,True,1.0
+customer_50,TOYOTA-HILUX CS 4X4,8,vehicle_6,Pickup,Petrol,Automatic,5,2500.0,5.0,True,1.0
+customer_50,VW-GOL TREND 1.6 FLEX 4P,8,vehicle_2,Hatchback,Flex,Manual,5,2500.0,5.0,True,1.0
+customer_6,DUSTER OROCH EXPRESS 1.6 SCE,8,vehicle_5,Pickup,Petrol,Automatic,5,2500.0,5.0,True,1.0
+customer_6,FIAT - ARGO DRIVE 1.0,8,vehicle_4,Hatchback,Petrol,Manual,5,2500.0,5.0,True,1.0
+customer_6,GM-S10 CABINE SIMPLES,8,vehicle_8,Pickup,Petrol,Automatic,5,2500.0,5.0,True,1.0
+customer_6,SAVEIRO CS RB MPI,8,vehicle_1,Pickup,Petrol,Manual,5,2500.0,5.0,True,1.0
+customer_6,TOYOTA-HILUX CD 4X4 STANDART,8,vehicle_10,Pickup,Diesel,Automatic,5,2500.0,5.0,True,1.0
+customer_6,TOYOTA-HILUX CS 4X4,8,vehicle_6,Pickup,Petrol,Automatic,5,2500.0,5.0,True,1.0
+customer_6,VW-GOL TREND 1.6 FLEX 4P,8,vehicle_2,Hatchback,Flex,Manual,5,2500.0,5.0,True,1.0
+customer_7,DUSTER OROCH EXPRESS 1.6 SCE,24,vehicle_5,Pickup,Petrol,Automatic,5,2500.0,5.0,True,2.0
+customer_7,TOYOTA-HILUX CS 4X4,24,vehicle_6,Pickup,Petrol,Automatic,5,2500.0,5.0,True,2.0
+customer_8,DUSTER OROCH EXPRESS 1.6 SCE,28,vehicle_5,Pickup,Petrol,Automatic,5,2500.0,5.0,True,3.0
+customer_8,FIAT - ARGO DRIVE 1.0,38,vehicle_4,Hatchback,Petrol,Manual,5,2500.0,5.0,True,4.0
+customer_8,FIAT-NOVA STRADA ENDURANCE CS 1.4,62,vehicle_3,Pickup,Petrol,Manual,5,2500.0,5.0,True,5.0
+customer_8,GM-S10 CABINE SIMPLES,14,vehicle_8,Pickup,Petrol,Automatic,5,2500.0,5.0,True,1.0
+customer_8,HILUX CS DSL 4X4,24,vehicle_7,Pickup,Diesel,Automatic,5,2500.0,5.0,True,2.0
+customer_8,MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD,52,vehicle_9,Pickup,Diesel,Automatic,5,2500.0,5.0,True,5.0
+customer_8,SAVEIRO CS RB MPI,62,vehicle_1,Pickup,Petrol,Manual,5,2500.0,5.0,True,5.0
+customer_8,TOYOTA-HILUX CD 4X4 STANDART,38,vehicle_10,Pickup,Diesel,Automatic,5,2500.0,5.0,True,4.0
+customer_8,TOYOTA-HILUX CS 4X4,24,vehicle_6,Pickup,Petrol,Automatic,5,2500.0,5.0,True,2.0
+customer_8,VW-GOL TREND 1.6 FLEX 4P,62,vehicle_2,Hatchback,Flex,Manual,5,2500.0,5.0,True,5.0
+customer_9,FIAT - ARGO DRIVE 1.0,24,vehicle_4,Hatchback,Petrol,Manual,5,2500.0,5.0,True,2.0
+customer_9,GM-S10 CABINE SIMPLES,24,vehicle_8,Pickup,Petrol,Automatic,5,2500.0,5.0,True,2.0
+customer_9,TOYOTA-HILUX CS 4X4,24,vehicle_6,Pickup,Petrol,Automatic,5,2500.0,5.0,True,2.0

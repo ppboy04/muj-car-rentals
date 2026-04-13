@@ -21,9 +21,9 @@ This is a Hybrid Recommendation System built with Python FastAPI. It combines Co
    python data/generate_data.py
    ```
 
-3. **Train Models**:
+3. **Train Models on Real Data**:
    ```bash
-   python model/train.py
+   python scripts/train_real_data.py
    ```
 
 4. **Run API**:
