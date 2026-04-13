@@ -18,5 +18,7 @@ COPY . .
 RUN python scripts/train_real_data.py
 
 # Expose port and start app
-EXPOSE 8000
-CMD ["uvicorn", "api.main:app", "--host", "0.0.0.0", "--port", "8000"]
+# Render uses the PORT environment variable
+ENV PORT=8000
+EXPOSE $PORT
+CMD ["sh", "-c", "uvicorn api.main:app --host 0.0.0.0 --port ${PORT}"]
