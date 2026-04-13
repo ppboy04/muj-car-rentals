@@ -11,16 +11,16 @@ This guide will help you move your application from your local machine to the cl
 ---
 
 ## 🏗 Step 1: Set Up Your Database (PostgreSQL)
-*Next.js needs a real database to store users and bookings in production.*
+*Next.js needs a real database to store users and bookings in production. SQLite will NOT work on Vercel.*
 
 1. **Create a Database**: Go to [Neon.tech](https://neon.tech) and create a free PostgreSQL project.
 2. **Copy Connection String**: Copy the "Connection String" (it looks like `postgresql://user:pass@host/dbname`).
 3. **Local Prep**: 
    - Open your local `.env` file.
    - Temporarily change `DATABASE_URL` to your new Neon string.
-   - Run: `npx prisma db push` (This creates the tables in the cloud).
+   - Run: `npx prisma db push` (This creates the tables in the cloud PostgreSQL database).
    - Run: `npm run migrate-data` (This seeds the cloud database with default cars and admin).
-   - *Important: Change your local `.env` back to `file:./dev.db` after this.*
+   - *Important: If you want to keep using SQLite locally, revert your `.env` to `file:./dev.db` and your `schema.prisma` to `sqlite` after this. Otherwise, keep using the Neon database locally.*
 
 ---
 
@@ -50,7 +50,7 @@ This guide will help you move your application from your local machine to the cl
 4. **Environment Variables**:
    - `DATABASE_URL`: Your Neon/PostgreSQL connection string.
    - `NEXT_PUBLIC_ML_API_URL`: Your Render URL (from Step 2).
-   - `NEXT_AUTH_SECRET`: Generate a random string (e.g., `openssl rand -base64 32`).
+   - `NEXTAUTH_SECRET`: Generate a random string (e.g., `openssl rand -base64 32`).
    - `NEXTAUTH_URL`: Your Vercel app URL (e.g., `https://muj-car-rentals.vercel.app`).
 5. **Deploy**: Click `Deploy`.
 
@@ -63,4 +63,5 @@ This guide will help you move your application from your local machine to the cl
 
 ### 🆘 Common Issues
 - **CORS Error**: Ensure `FRONTEND_URL` on Render matches your Vercel domain.
-- **Prisma Error**: Ensure `DATABASE_URL` is correct and you ran `db push`.
+- **Prisma Error**: Ensure `DATABASE_URL` is correct and contains `postgresql`.
+- **Page Data Missing**: Ensure you ran `npm run migrate-data` after setting up your Neon DB.
