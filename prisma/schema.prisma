@@ -5,6 +5,7 @@ generator client {
 datasource db {
   provider = "postgresql"
   url      = env("DATABASE_URL")
+  schemas  = ["public", "neon_auth"]
 }
 
 model User {
@@ -21,6 +22,7 @@ model User {
   adminCars     Car[]     @relation("AdminCars")
 
   @@map("users")
+  @@schema("public")
 }
 
 model Car {
@@ -40,6 +42,7 @@ model Car {
   admin       User        @relation("AdminCars", fields: [adminId], references: [id], onDelete: Cascade)
 
   @@map("cars")
+  @@schema("public")
 }
 
 model Booking {
@@ -63,6 +66,7 @@ model Booking {
   car                 Car           @relation(fields: [carId], references: [id], onDelete: Cascade)
 
   @@map("bookings")
+  @@schema("public")
 }
 
 enum CarCategory {
@@ -70,20 +74,24 @@ enum CarCategory {
   SUV
   XUV
   Hatchback
+  @@schema("public")
 }
 
 enum BookingUnit {
   hourly
   daily
+  @@schema("public")
 }
 
 enum Role {
   user
   admin
+  @@schema("public")
 }
 
 enum BookingStatus {
   Pending
   Accepted
   Cancelled
+  @@schema("public")
 }
